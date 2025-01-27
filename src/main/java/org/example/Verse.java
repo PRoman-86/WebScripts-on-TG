@@ -31,13 +31,9 @@ public class Verse {
             try {
                 script();
             } catch (NoSuchElementException e) {
-                driver.quit();
-                System.out.println(getTime() + "| fail: NoSuchElementException");
-                waitOnSec(10);
+                handlingException("NoSuchElementException");
             } catch (ElementClickInterceptedException e) {
-                driver.quit();
-                System.out.println(getTime() + "| fail: ElementClickInterceptedException");
-                waitOnSec(10);
+                handlingException("ElementClickInterceptedException");
             }
         }
 
@@ -89,5 +85,12 @@ public class Verse {
 
     public String getTime() {
         return LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm"));
+    }
+
+    public void handlingException(String typeException) {
+        driver.quit();
+        this.counter++;
+        System.out.println(getTime() + "| fail: " + typeException + ", cycle " + this.counter);
+        waitOnSec(10);
     }
 }

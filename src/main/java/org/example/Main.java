@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         //new Goats(1000);
-        new Verse(100);
+        new Verse(300);
     }
 }
 
