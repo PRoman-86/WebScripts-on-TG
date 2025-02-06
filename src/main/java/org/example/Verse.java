@@ -1,9 +1,6 @@
 package org.example;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.ElementClickInterceptedException;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import java.time.LocalTime;
@@ -38,6 +35,9 @@ public class Verse {
                 handlingException("NoSuchElementException");
             } catch (ElementClickInterceptedException e) {
                 handlingException("ElementClickInterceptedException");
+            } catch (SessionNotCreatedException e) {
+                System.out.println(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN!" + ANSI_RESET);
+                waitOnSec(15);
             }
         }
 
