@@ -105,10 +105,10 @@ public class Verse {
     public void appendLineToLog(String logLine) {
         System.out.println(logLine);
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("VerseLogFile.txt", true))) {
-                writer.write(logLine);
+                writer.write(logLine.substring(5, logLine.length() - 4));
                 writer.newLine();
         } catch (IOException e) {
-            System.out.println("IO Exception: LogFile Write Error");
+            System.out.print(" IO Exception: LogFile Write Error");
         }
     }
 }
