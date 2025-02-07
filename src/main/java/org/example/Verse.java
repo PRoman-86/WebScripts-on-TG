@@ -3,7 +3,11 @@ package org.example;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import java.time.LocalTime;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
@@ -27,7 +31,7 @@ public class Verse {
     }
 
     Verse(int numberOfCycles) {
-        System.out.println(ANSI_YELLOW + getTime() + "| VERSE IS STARTED" + ANSI_RESET);
+        System.out.println(ANSI_YELLOW + getTime() + "| VERSE IS STARTED |" + ANSI_RESET);
         while (numberOfCycles != this.counter) {
             try {
                 script();
@@ -36,13 +40,13 @@ public class Verse {
             } catch (ElementClickInterceptedException e) {
                 handlingException("ElementClickInterceptedException");
             } catch (SessionNotCreatedException e) {
-                System.out.println(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN!" + ANSI_RESET);
-                waitOnSec(15);
+                System.out.println(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
+                waitOnSec(30);
             }
         }
 
         driver.quit();
-        System.out.println(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED" + ANSI_RESET);
+        System.out.println(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
     }
 
     public void script() throws NoSuchElementException, ElementClickInterceptedException {
@@ -57,14 +61,14 @@ public class Verse {
 
         if (elementIsExist(FULL_DUST_BUTTON)) {
             driver.findElement(FULL_DUST_BUTTON).click();
-            System.out.println(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100%" + ANSI_RESET);
+            System.out.println(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
             waitOnSec(randomRangeOnSec(120, 280));
         }
 
         String percent = driver.findElement(By.className("ml-16px")).getText(); //get percentage of full storage
         driver.findElement(By.className("progress-bar-container")).click();
         this.counter++;
-        System.out.println(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + ANSI_RESET);
+        System.out.println(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
         waitOnSec(5);
         driver.quit();
         waitOnSec(randomRangeOnSec(2500, 3400));
@@ -88,13 +92,23 @@ public class Verse {
     }
 
     public String getTime() {
-        return LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm"));
+        return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
     }
 
     public void handlingException(String typeException) {
         driver.quit();
         this.counter++;
-        System.out.println(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + ANSI_RESET);
-        waitOnSec(10);
+        System.out.println(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
+        waitOnSec(30);
+    }
+
+    public void appendLineToLog(String logLine) {
+        System.out.println(logLine);
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("VerseLogFile.txt", true))) {
+                writer.write(logLine);
+                writer.newLine();
+        } catch (IOException e) {
+            System.out.println("IO Exception: LogFile Write Error");
+        }
     }
 }
