@@ -31,7 +31,7 @@ public class Verse {
     }
 
     Verse(int numberOfCycles) {
-        System.out.println(ANSI_YELLOW + getTime() + "| VERSE IS STARTED |" + ANSI_RESET);
+        appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STARTED |" + ANSI_RESET);
         while (numberOfCycles != this.counter) {
             try {
                 script();
@@ -40,13 +40,13 @@ public class Verse {
             } catch (ElementClickInterceptedException e) {
                 handlingException("ElementClickInterceptedException");
             } catch (SessionNotCreatedException e) {
-                System.out.println(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
+                appendLineToLog(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
                 waitOnSec(30);
             }
         }
 
         driver.quit();
-        System.out.println(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
+        appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
     }
 
     public void script() throws NoSuchElementException, ElementClickInterceptedException {
@@ -61,14 +61,14 @@ public class Verse {
 
         if (elementIsExist(FULL_DUST_BUTTON)) {
             driver.findElement(FULL_DUST_BUTTON).click();
-            System.out.println(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
+            appendLineToLog(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
             waitOnSec(randomRangeOnSec(120, 280));
         }
 
         String percent = driver.findElement(By.className("ml-16px")).getText(); //get percentage of full storage
         driver.findElement(By.className("progress-bar-container")).click();
         this.counter++;
-        System.out.println(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
+        appendLineToLog(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
         waitOnSec(5);
         driver.quit();
         waitOnSec(randomRangeOnSec(2500, 3400));
@@ -98,7 +98,7 @@ public class Verse {
     public void handlingException(String typeException) {
         driver.quit();
         this.counter++;
-        System.out.println(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
+        appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
         waitOnSec(30);
     }
 
