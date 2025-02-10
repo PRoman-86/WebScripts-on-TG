@@ -15,6 +15,7 @@ public class Verse {
 
     private ChromeDriver driver;
     private int counter;
+    private String quantityDustLine = " quantity dust is not defined";
     private final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_RED = "\u001B[31m";
@@ -68,8 +69,14 @@ public class Verse {
         String percent = driver.findElement(By.className("ml-16px")).getText(); //get percentage of full storage
         driver.findElement(By.className("progress-bar-container")).click();
         this.counter++;
+        waitOnSec(3);
+
+        driver.findElement(By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']")).click();
+        String getCurrentQuantityDustLine = driver.findElement(By.xpath("(//label[@class='details link'])[2]")).getText();
+        this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
+
+        waitOnSec(2);
         appendLineToLog(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
-        waitOnSec(5);
         driver.quit();
         waitOnSec(randomRangeOnSec(2500, 3400));
     }
@@ -103,12 +110,12 @@ public class Verse {
     }
 
     public void appendLineToLog(String logLine) {
-        System.out.println(logLine);
+        System.out.println(logLine + this.quantityDustLine);
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("VerseLogFile.txt", true))) {
                 writer.write(logLine.substring(5, logLine.length() - 4));
                 writer.newLine();
         } catch (IOException e) {
-            System.out.print(" IO Exception: LogFile Write Error");
+            System.out.println(ANSI_RED + " IO Exception: LogFile Write Error" + ANSI_RESET);
         }
     }
 }
