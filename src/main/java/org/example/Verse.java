@@ -46,38 +46,38 @@ public class Verse {
             }
         }
 
-        driver.quit();
+        this.driver.quit();
         appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
     }
 
     public void script() throws NoSuchElementException, ElementClickInterceptedException {
-        driver = new ChromeDriver(getChromeOptions());
-        driver.get("https://web.telegram.org/a/");
+        this.driver = new ChromeDriver(getChromeOptions());
+        this.driver.get("https://web.telegram.org/a/");
         waitOnSec(7);
-        driver.findElement(By.xpath("(//div[@class='ripple-container'])[3]")).click();
+        this.driver.findElement(By.xpath("(//div[@class='ripple-container'])[3]")).click();
         waitOnSec(7);
-        driver.findElement(By.cssSelector("button[title='Open bot command keyboard']")).click();
+        this.driver.findElement(By.cssSelector("button[title='Open bot command keyboard']")).click();
         waitOnSec(10);
-        driver.switchTo().frame(driver.findElement(By.className("OmY14FFl"))); //focus on bot frame
+        this.driver.switchTo().frame(this.driver.findElement(By.className("OmY14FFl"))); //focus on bot frame
 
         if (elementIsExist(FULL_DUST_BUTTON)) {
-            driver.findElement(FULL_DUST_BUTTON).click();
+            this.driver.findElement(FULL_DUST_BUTTON).click();
             appendLineToLog(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
             waitOnSec(randomRangeOnSec(120, 280));
         }
 
-        String percent = driver.findElement(By.className("ml-16px")).getText(); //get percentage of full storage
-        driver.findElement(By.className("progress-bar-container")).click();
+        String percent = this.driver.findElement(By.className("ml-16px")).getText(); //get percentage of full storage
+        this.driver.findElement(By.className("progress-bar-container")).click();
         this.counter++;
         waitOnSec(3);
 
-        driver.findElement(By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']")).click();
-        String getCurrentQuantityDustLine = driver.findElement(By.xpath("(//label[@class='details link'])[2]")).getText();
+        this.driver.findElement(By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']")).click();
+        String getCurrentQuantityDustLine = this.driver.findElement(By.xpath("(//label[@class='details link'])[2]")).getText();
         this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
 
         waitOnSec(2);
         appendLineToLog(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
-        driver.quit();
+        this.driver.quit();
         waitOnSec(randomRangeOnSec(2500, 3400));
     }
 
@@ -94,7 +94,7 @@ public class Verse {
     }
 
     public boolean elementIsExist(By locator) {
-        List<WebElement> elements = driver.findElements(locator);
+        List<WebElement> elements = this.driver.findElements(locator);
         return !elements.isEmpty();
     }
 
@@ -103,7 +103,7 @@ public class Verse {
     }
 
     public void handlingException(String typeException) {
-        driver.quit();
+        this.driver.quit();
         this.counter++;
         appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
         waitOnSec(30);
