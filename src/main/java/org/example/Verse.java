@@ -17,6 +17,8 @@ public class Verse {
     private int counter;
     private String quantityDustLine = " quantity dust is not defined";
     private final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
+    private final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
+    private final By QUANTITY_DUST_LINE = By.xpath("(//label[@class='details link'])[2]");
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_RED = "\u001B[31m";
     public static final String ANSI_GREEN = "\u001B[32m";
@@ -71,9 +73,17 @@ public class Verse {
         this.counter++;
         waitOnSec(3);
 
-        this.driver.findElement(By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']")).click();
-        String getCurrentQuantityDustLine = this.driver.findElement(By.xpath("(//label[@class='details link'])[2]")).getText();
-        this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
+        if (elementIsExist(UFO_FACE_BUTTON)) {
+            this.driver.findElement(UFO_FACE_BUTTON).click();
+            if (elementIsExist(QUANTITY_DUST_LINE)) {
+                String getCurrentQuantityDustLine = this.driver.findElement(QUANTITY_DUST_LINE).getText();
+                this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
+            } else {
+                this.quantityDustLine = " quantity dust is not defined";
+            }
+        } else {
+            this.quantityDustLine = " quantity dust is not defined";
+        }
 
         waitOnSec(2);
         appendLineToLog(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
@@ -112,7 +122,7 @@ public class Verse {
     public void appendLineToLog(String logLine) {
         System.out.println(logLine + this.quantityDustLine);
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("VerseLogFile.txt", true))) {
-                writer.write(logLine.substring(5, logLine.length() - 4));
+                writer.write(logLine.substring(5, logLine.length() - 4) + this.quantityDustLine);
                 writer.newLine();
         } catch (IOException e) {
             System.out.println(ANSI_RED + " IO Exception: LogFile Write Error" + ANSI_RESET);
