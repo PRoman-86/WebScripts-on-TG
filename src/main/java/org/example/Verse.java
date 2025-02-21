@@ -44,6 +44,7 @@ public class Verse {
                 handlingException("ElementClickInterceptedException");
             } catch (SessionNotCreatedException e) {
                 appendLineToLog(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
+                if (this.driver != null) this.driver = null;
                 waitOnSec(30);
             }
         }
