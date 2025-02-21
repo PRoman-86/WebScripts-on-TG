@@ -65,6 +65,9 @@ public class Verse {
 
         if (elementIsExist(FULL_DUST_BUTTON)) {
             this.driver.findElement(FULL_DUST_BUTTON).click();
+            waitOnSec(3);
+            fetchQuantityDust();
+            this.driver.findElement(By.xpath("//a[@class='ui-link blur close']")).click(); //closing stat. window
             appendLineToLog(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
             waitOnSec(randomRangeOnSec(120, 280));
         }
@@ -73,20 +76,7 @@ public class Verse {
         this.driver.findElement(By.className("progress-bar-container")).click();
         this.counter++;
         waitOnSec(3);
-
-        if (elementIsExist(UFO_FACE_BUTTON)) {
-            this.driver.findElement(UFO_FACE_BUTTON).click();
-            if (elementIsExist(QUANTITY_DUST_LINE)) {
-                String getCurrentQuantityDustLine = this.driver.findElement(QUANTITY_DUST_LINE).getText();
-                this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
-            } else {
-                this.quantityDustLine = " quantity dust is not defined";
-            }
-        } else {
-            this.quantityDustLine = " quantity dust is not defined";
-        }
-
-        waitOnSec(2);
+        fetchQuantityDust();
         appendLineToLog(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
         this.driver.quit();
         waitOnSec(randomRangeOnSec(2500, 3400));
@@ -127,6 +117,20 @@ public class Verse {
                 writer.newLine();
         } catch (IOException e) {
             System.out.println(ANSI_RED + " IO Exception: LogFile Write Error" + ANSI_RESET);
+        }
+    }
+
+    public void fetchQuantityDust() {
+        if (elementIsExist(UFO_FACE_BUTTON)) {
+            this.driver.findElement(UFO_FACE_BUTTON).click();
+            if (elementIsExist(QUANTITY_DUST_LINE)) {
+                String getCurrentQuantityDustLine = this.driver.findElement(QUANTITY_DUST_LINE).getText();
+                this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
+            } else {
+                this.quantityDustLine = " quantity dust is not defined";
+            }
+        } else {
+            this.quantityDustLine = " quantity dust is not defined";
         }
     }
 }
