@@ -16,6 +16,7 @@ public class Verse {
     private ChromeDriver driver;
     private int counter;
     private String quantityDustLine = " quantity dust is not defined";
+    private final By COLLECT_DUST_BUTTON = By.className("progress-bar-container");
     private final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
     private final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
     private final By QUANTITY_DUST_LINE = By.xpath("(//label[@class='details link'])[2]");
@@ -72,8 +73,10 @@ public class Verse {
             waitOnSec(randomRangeOnSec(120, 280));
         }
 
-        String percent = this.driver.findElement(By.className("ml-16px")).getText(); //get percentage of full storage
-        this.driver.findElement(By.className("progress-bar-container")).click();
+        String percent = getPercentCollection();
+        this.driver.findElement(COLLECT_DUST_BUTTON).click();
+        waitOnSec(2);
+        if (!getPercentCollection().equals("0%")) this.driver.findElement(COLLECT_DUST_BUTTON).click(); //repeat click
         this.counter++;
         waitOnSec(3);
         fetchQuantityDust();
@@ -103,9 +106,14 @@ public class Verse {
         return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
     }
 
+    public String getPercentCollection() {
+        return this.driver.findElement(By.className("ml-16px")).getText();
+    }
+
     public void handlingException(String typeException) {
         this.driver.quit();
         this.counter++;
+        this.quantityDustLine = " quantity dust is not defined";
         appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
         waitOnSec(30);
     }
