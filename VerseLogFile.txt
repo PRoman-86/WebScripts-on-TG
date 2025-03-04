@@ -1,0 +1,913 @@
+
+2025-02-07 21:10:15| VERSE IS STARTED |
+2025-02-07 21:10:48| successful collected, cycle 1 on 16% |
+2025-02-07 21:53:43| successful collected, cycle 2 on 72% |
+2025-02-07 22:38:51| successful collected, cycle 3 on 75% |
+2025-02-07 23:30:56| successful collected, cycle 4 on 87% |
+2025-02-08 00:27:29| successful collected, cycle 5 on 94% |
+2025-02-08 01:17:39| successful collected, cycle 6 on 84% |
+2025-02-08 02:00:14| successful collected, cycle 7 on 71% |
+2025-02-08 02:46:47| successful collected, cycle 8 on 68% |
+2025-02-08 03:33:05| successful collected, cycle 9 on 77% |
+2025-02-08 04:28:08| successful collected, cycle 10 on 92% |
+2025-02-08 05:23:50| successful collected, cycle 11 on 93% |
+2025-02-08 06:18:51| successful collected, cycle 12 on 92% |
+2025-02-08 07:14:20| successful collected, cycle 13 on 92% |
+2025-02-08 07:59:46| successful collected, cycle 14 on 76% |
+2025-02-08 08:44:00| successful collected, cycle 15 on 74% |
+2025-02-08 09:29:58| successful collected, cycle 16 on 77% |
+2025-02-08 10:16:50| successful collected, cycle 17 on 78% |
+2025-02-08 11:13:15| successful collected, cycle 18 on 94% |
+2025-02-08 12:02:32| successful collected, cycle 19 on 82% |
+2025-02-08 12:47:35| successful collected, cycle 20 on 75% |
+2025-02-08 13:41:19| successful collected, cycle 21 on 72% |
+2025-02-08 14:30:54| successful collected, cycle 22 on 83% |
+2025-02-08 15:24:20| successful collected, cycle 23 on 89% |
+2025-02-08 16:14:02| successful collected, cycle 24 on 83% |
+2025-02-08 17:00:35| successful collected, cycle 25 on 78% |
+2025-02-08 17:50:22| successful collected, cycle 26 on 83% |
+2025-02-08 18:34:49| successful collected, cycle 27 on 74% |
+2025-02-08 19:24:52| successful collected, cycle 28 on 71% |
+2025-02-08 20:12:19| successful collected, cycle 29 on 79% |
+2025-02-08 21:02:18| successful collected, cycle 30 on 83% |
+2025-02-08 21:46:28| successful collected, cycle 31 on 74% |
+2025-02-08 22:34:34| successful collected, cycle 32 on 80% |
+2025-02-08 23:24:24| successful collected, cycle 33 on 83% |
+2025-02-09 00:11:53| successful collected, cycle 34 on 79% |
+2025-02-09 01:01:40| successful collected, cycle 35 on 83% |
+2025-02-09 01:46:38| successful collected, cycle 36 on 75% |
+2025-02-09 02:29:58| successful collected, cycle 37 on 72% |
+2025-02-09 03:17:23| successful collected, cycle 38 on 79% |
+2025-02-09 04:07:23| successful collected, cycle 39 on 83% |
+2025-02-09 04:56:34| successful collected, cycle 40 on 42% |
+2025-02-09 05:41:35| successful collected, cycle 41 on 75% |
+2025-02-09 06:24:46| successful collected, cycle 42 on 72% |
+2025-02-09 07:08:53| successful collected, cycle 43 on 74% |
+2025-02-09 07:58:54| successful collected, cycle 44 on 83% |
+2025-02-09 08:45:32| successful collected, cycle 45 on 78% |
+2025-02-09 09:29:45| successful collected, cycle 46 on 74% |
+2025-02-09 10:12:43| successful collected, cycle 47 on 72% |
+2025-02-09 11:05:41| successful collected, cycle 48 on 88% |
+2025-02-09 11:56:45| successful collected, cycle 49 on 85% |
+2025-02-09 12:45:30| successful collected, cycle 50 on 81% |
+2025-02-09 13:38:43| successful collected, cycle 51 on 89% |
+2025-02-09 14:30:55| successful collected, cycle 52 on 87% |
+2025-02-09 15:20:06| successful collected, cycle 53 on 82% |
+2025-02-09 16:07:36| successful collected, cycle 54 on 32% |
+2025-02-09 17:00:17| successful collected, cycle 55 on 88% |
+2025-02-09 17:52:35| successful collected, cycle 56 on 87% |
+2025-02-09 18:46:16| successful collected, cycle 57 on 22% |
+2025-02-09 19:37:52| successful collected, cycle 58 on 86% |
+2025-02-09 20:25:41| successful collected, cycle 59 on 80% |
+2025-02-09 21:18:35| successful collected, cycle 60 on 88% |
+2025-02-09 22:03:42| successful collected, cycle 61 on 75% |
+2025-02-09 22:57:12| successful collected, cycle 62 on 89% |
+2025-02-09 23:39:31| successful collected, cycle 63 on 71% |
+2025-02-10 00:29:24| successful collected, cycle 64 on 83% |
+2025-02-10 01:23:30| successful collected, cycle 65 on 90% |
+2025-02-10 02:07:14| successful collected, cycle 66 on 73% |
+2025-02-10 03:01:03| successful collected, cycle 67 on 90% |
+2025-02-10 03:53:37| successful collected, cycle 68 on 88% |
+2025-02-10 04:49:08| successful collected, cycle 69 on 93% |
+2025-02-10 05:45:39| successful collected, cycle 70 on 94% |
+2025-02-10 06:40:58| successful collected, cycle 71 on 13% |
+2025-02-10 07:35:15| successful collected, cycle 72 on 79% |
+2025-02-10 08:30:09| successful collected, cycle 73 on 92% |
+2025-02-10 09:17:01| successful collected, cycle 74 on 78% |
+2025-02-10 10:00:17| successful collected, cycle 75 on 72% |
+2025-02-10 10:42:44| successful collected, cycle 76 on 71% |
+2025-02-10 11:27:42| successful collected, cycle 77 on 75% |
+2025-02-10 12:11:11| successful collected, cycle 78 on 72% |
+2025-02-10 13:02:40| successful collected, cycle 79 on 86% |
+2025-02-10 13:54:35| successful collected, cycle 80 on 87% |
+2025-02-10 14:41:56| successful collected, cycle 81 on 79% |
+2025-02-10 15:31:35| successful collected, cycle 82 on 43% |
+2025-02-10 16:05:36| VERSE IS STARTED |
+2025-02-10 16:12:07| VERSE IS STARTED |
+2025-02-10 16:17:45| VERSE IS STARTED |
+2025-02-10 16:18:21| successful collected, cycle 1 on 9% |
+2025-02-10 16:26:27| VERSE IS STARTED |
+2025-02-10 16:27:03| successful collected, cycle 1 on 14% |
+2025-02-10 16:29:15| VERSE IS STARTED |
+2025-02-10 16:29:49| successful collected, cycle 1 on 5% |
+2025-02-10 16:39:00| VERSE IS STARTED |
+2025-02-10 16:39:32| successful collected, cycle 1 on 16% |
+2025-02-10 16:44:18| VERSE IS STARTED |
+2025-02-10 16:44:50| successful collected, cycle 1 on 9% |
+2025-02-10 16:48:43| VERSE IS STARTED |
+2025-02-10 16:49:15| successful collected, cycle 1 on 7% |
+2025-02-10 17:16:16| VERSE IS STARTED |
+2025-02-10 17:16:51| successful collected, cycle 1 on 46% |
+2025-02-10 17:19:51| VERSE IS STARTED |
+2025-02-10 17:20:25| successful collected, cycle 1 on 6% |
+2025-02-10 18:03:24| VERSE IS STARTED |
+2025-02-10 18:03:58| successful collected, cycle 1 on 73% |
+2025-02-10 18:08:52| VERSE IS STARTED |
+2025-02-10 18:09:27| successful collected, cycle 1 on 9% |
+2025-02-10 18:12:23| VERSE IS STARTED |
+2025-02-10 18:12:58| successful collected, cycle 1 on 6% |
+2025-02-10 18:29:50| VERSE IS STARTED |
+2025-02-10 18:30:27| successful collected, cycle 1 on 29% |
+2025-02-10 18:32:47| VERSE IS STARTED |
+2025-02-10 18:33:23| successful collected, cycle 1 on 5% |
+2025-02-10 18:42:34| VERSE IS STARTED |
+2025-02-10 18:43:09| successful collected, cycle 1 on 16% |
+2025-02-10 18:46:15| VERSE IS STARTED |
+2025-02-10 18:46:52| successful collected, cycle 1 on 6% |
+2025-02-10 18:54:02| VERSE IS STARTED |
+2025-02-10 18:54:39| successful collected, cycle 1 on 13% |
+2025-02-10 19:09:47| VERSE IS STARTED |
+2025-02-10 19:10:26| successful collected, cycle 1 on 26% |
+2025-02-10 19:16:22| VERSE IS STARTED |
+2025-02-10 19:16:57| successful collected, cycle 1 on 11% |
+2025-02-10 20:11:23| successful collected, cycle 2 on 91% |
+2025-02-10 21:07:39| VERSE IS STARTED |
+2025-02-10 21:08:18| successful collected, cycle 1 on 34% |
+2025-02-10 21:11:19| VERSE IS STARTED |
+2025-02-10 21:11:59| successful collected, cycle 1 on 6% |
+2025-02-10 22:03:46| successful collected, cycle 2 on 86% |
+2025-02-10 22:58:07| successful collected, cycle 3 on 91% |
+2025-02-10 23:46:00| successful collected, cycle 4 on 80% |
+2025-02-11 00:41:26| successful collected, cycle 5 on 92% |
+2025-02-11 01:23:55| successful collected, cycle 6 on 71% |
+2025-02-11 01:39:16| VERSE IS STARTED |
+2025-02-11 01:39:57| successful collected, cycle 1 on 13% |
+2025-02-11 02:30:38| successful collected, cycle 2 on 84% |
+2025-02-11 03:18:02| successful collected, cycle 3 on 79% |
+2025-02-11 04:12:52| successful collected, cycle 4 on 30% |
+2025-02-11 05:03:16| successful collected, cycle 5 on 84% |
+2025-02-11 05:56:14| successful collected, cycle 6 on 88% |
+2025-02-11 06:40:38| successful collected, cycle 7 on 74% |
+2025-02-11 07:26:00| successful collected, cycle 8 on 76% |
+2025-02-11 13:03:24| VERSE IS STARTED |
+2025-02-11 13:04:06| successful collected, cycle 1 on 22% |
+2025-02-11 13:53:29| successful collected, cycle 2 on 82% |
+2025-02-11 14:48:58| successful collected, cycle 3 on 92% |
+2025-02-11 15:35:09| successful collected, cycle 4 on 77% |
+2025-02-11 16:26:46| successful collected, cycle 5 on 86% |
+2025-02-11 17:24:00| successful collected, cycle 6 on 95% |
+2025-02-11 17:39:03| VERSE IS STARTED |
+2025-02-11 17:39:43| successful collected, cycle 1 on 16% |
+2025-02-11 18:04:59| VERSE IS STARTED | quantity dust is not defined
+2025-02-11 18:05:40| successful collected, cycle 1 on 43% | quantity dust is 111,050 
+2025-02-11 18:17:32| VERSE IS STARTED | quantity dust is not defined
+2025-02-11 18:18:12| successful collected, cycle 1 on 21% | quantity dust is 150,244 
+2025-02-11 19:03:43| successful collected, cycle 2 on 76% | quantity dust is 292,306 
+2025-02-11 19:54:55| successful collected, cycle 3 on 85% | quantity dust is 452,215 
+2025-02-11 20:41:23| successful collected, cycle 4 on 77% | quantity dust is 597,280 
+2025-02-11 21:29:22| successful collected, cycle 5 on 80% | quantity dust is 747,078 
+2025-02-11 22:19:49| successful collected, cycle 6 on 84% | quantity dust is 904,472 
+2025-02-11 23:04:15| successful collected, cycle 7 on 74% | quantity dust is 1,043,279 
+2025-02-11 23:57:35| successful collected, cycle 8 on 89% | quantity dust is 1,209,704 
+2025-02-12 00:48:19| successful collected, cycle 9 on 70% | quantity dust is 290,002 
+2025-02-12 01:42:17| successful collected, cycle 10 on 90% | quantity dust is 458,395 
+2025-02-12 02:31:12| successful collected, cycle 11 on 82% | quantity dust is 611,068 
+2025-02-12 03:19:21| successful collected, cycle 12 on 80% | quantity dust is 761,336 
+2025-02-12 04:10:41| successful collected, cycle 13 on 86% | quantity dust is 921,541 
+2025-02-12 04:54:24| successful collected, cycle 14 on 73% | quantity dust is 1,057,958 
+2025-02-12 05:37:35| successful collected, cycle 15 on 4% | quantity dust is 39,113 
+2025-02-12 06:27:45| successful collected, cycle 16 on 84% | quantity dust is 195,643 
+2025-02-12 07:22:01| successful collected, cycle 17 on 90% | quantity dust is 365,007 
+2025-02-12 14:25:53| VERSE IS STARTED | quantity dust is not defined
+2025-02-12 14:26:33| dust storage was full, successful collected on 100% | quantity dust is not defined
+2025-02-12 14:30:01| successful collected, cycle 1 on 6% | quantity dust is 562,629 
+2025-02-12 15:24:40| successful collected, cycle 2 on 91% | quantity dust is 177,090 
+2025-02-12 16:20:03| successful collected, cycle 3 on 92% | quantity dust is 350,096 
+2025-02-12 17:14:16| successful collected, cycle 4 on 90% | quantity dust is 519,439 
+2025-02-12 18:08:49| successful collected, cycle 5 on 91% | quantity dust is 689,822 
+2025-02-12 18:56:27| successful collected, cycle 6 on 79% | quantity dust is 838,590 
+2025-02-12 19:47:09| successful collected, cycle 7 on 85% | quantity dust is 996,926 
+2025-02-12 20:35:12| successful collected, cycle 8 on 80% | quantity dust is 1,146,972 
+2025-02-12 21:23:13| successful collected, cycle 9 on 60% | quantity dust is 268,442 
+2025-02-12 22:13:45| successful collected, cycle 10 on 84% | quantity dust is 442,356 
+2025-02-12 23:01:12| successful collected, cycle 11 on 79% | quantity dust is 605,699 
+2025-02-12 23:44:26| successful collected, cycle 12 on 72% | quantity dust is 754,569 
+2025-02-13 00:29:04| successful collected, cycle 13 on 74% | quantity dust is 908,198 
+2025-02-13 01:16:16| successful collected, cycle 14 on 79% | quantity dust is 1,070,529 
+2025-02-13 02:01:00| successful collected, cycle 15 on 75% | quantity dust is 1,224,523 
+2025-02-13 02:50:47| successful collected, cycle 16 on 36% | quantity dust is 76,558 
+2025-02-13 03:34:49| successful collected, cycle 17 on 73% | quantity dust is 228,555 
+2025-02-13 04:22:02| successful collected, cycle 18 on 79% | quantity dust is 391,642 
+2025-02-13 05:13:33| successful collected, cycle 19 on 86% | quantity dust is 391,642 
+2025-02-13 05:16:34| VERSE IS STARTED | quantity dust is not defined
+2025-02-13 05:17:13| successful collected, cycle 1 on 5% | quantity dust is 12,212 
+2025-02-13 06:10:45| successful collected, cycle 2 on 89% | quantity dust is 197,240 
+2025-02-13 06:53:45| successful collected, cycle 3 on 72% | quantity dust is 345,910 
+2025-02-13 07:45:16| successful collected, cycle 4 on 86% | quantity dust is 523,997 
+2025-02-13 08:34:58| successful collected, cycle 5 on 83% | quantity dust is 695,783 
+2025-02-13 09:29:42| successful collected, cycle 6 on 91% | quantity dust is 884,949 
+2025-02-13 10:23:44| successful collected, cycle 7 on 90% | quantity dust is 1,071,691 
+2025-02-13 11:18:35| successful collected, cycle 8 on 91% | quantity dust is 1,261,231 
+2025-02-13 12:13:04| successful collected, cycle 9 on 91% | quantity dust is 1,449,488 
+2025-02-13 13:01:23| successful collected, cycle 10 on 81% | quantity dust is 1,616,419 
+2025-02-13 13:53:16| successful collected, cycle 11 on 86% | quantity dust is 1,795,646 
+2025-02-13 14:35:45| successful collected, cycle 12 on 71% | quantity dust is 1,942,401 
+2025-02-13 15:19:02| successful collected, cycle 13 on 62% | quantity dust is 131,333 
+2025-02-13 16:13:59| successful collected, cycle 14 on 92% | quantity dust is 322,111 
+2025-02-13 16:57:20| successful collected, cycle 15 on 72% | quantity dust is 472,607 
+2025-02-13 17:42:36| successful collected, cycle 16 on 75% | quantity dust is 629,735 
+2025-02-13 18:27:09| successful collected, cycle 17 on 74% | quantity dust is 784,371 
+2025-02-13 19:21:29| successful collected, cycle 18 on 91% | quantity dust is 972,995 
+2025-02-13 20:03:54| successful collected, cycle 19 on 71% | quantity dust is 1,120,190 
+2025-02-13 20:49:27| successful collected, cycle 20 on 76% | quantity dust is 1,278,198 
+2025-02-13 21:38:35| successful collected, cycle 21 on 82% | quantity dust is 1,448,683 
+2025-02-13 22:31:21| successful collected, cycle 22 on 88% | quantity dust is 1,631,743 
+2025-02-13 23:21:14| successful collected, cycle 23 on 83% | quantity dust is 1,804,792 
+2025-02-14 00:17:47| successful collected, cycle 24 on 94% | quantity dust is 2,000,948 
+2025-02-14 01:13:02| successful collected, cycle 25 on 92% | quantity dust is 2,192,565 
+2025-02-14 02:05:58| successful collected, cycle 26 on 26% | quantity dust is 60,412 
+2025-02-14 02:51:31| successful collected, cycle 27 on 76% | quantity dust is 219,358 
+2025-02-14 03:44:56| successful collected, cycle 28 on 89% | quantity dust is 405,728 
+2025-02-14 04:28:55| successful collected, cycle 29 on 73% | quantity dust is 559,180 
+2025-02-14 05:12:28| successful collected, cycle 30 on 19% | quantity dust is 42,225 
+2025-02-14 05:55:29| successful collected, cycle 31 on 72% | quantity dust is 192,526 
+2025-02-14 06:46:51| successful collected, cycle 32 on 86% | quantity dust is 371,992 
+2025-02-14 07:30:51| successful collected, cycle 33 on 73% | quantity dust is 525,704 
+2025-02-14 08:24:48| successful collected, cycle 34 on 90% | quantity dust is 714,170 
+2025-02-14 09:20:28| successful collected, cycle 35 on 93% | quantity dust is 908,608 
+2025-02-14 10:08:45| successful collected, cycle 36 on 80% | quantity dust is 1,077,232 
+2025-02-14 11:00:53| successful collected, cycle 37 on 87% | quantity dust is 1,259,289 
+2025-02-14 11:43:38| successful collected, cycle 38 on 71% | quantity dust is 1,408,564 
+2025-02-14 12:36:06| successful collected, cycle 39 on 87% | quantity dust is 1,591,740 
+2025-02-14 13:20:15| successful collected, cycle 40 on 74% | quantity dust is 1,745,930 
+2025-02-14 14:16:53| successful collected, cycle 41 on 94% | quantity dust is 1,943,563 
+2025-02-14 15:05:20| successful collected, cycle 42 on 38% | quantity dust is 83,576 
+2025-02-14 16:00:34| successful collected, cycle 43 on 92% | quantity dust is 277,387 
+2025-02-14 16:51:15| successful collected, cycle 44 on 84% | quantity dust is 455,203 
+2025-02-14 17:40:03| successful collected, cycle 45 on 81% | quantity dust is 626,392 
+2025-02-14 18:36:02| successful collected, cycle 46 on 93% | quantity dust is 822,774 
+2025-02-14 19:30:46| successful collected, cycle 47 on 91% | quantity dust is 1,014,740 
+2025-02-14 20:24:15| successful collected, cycle 48 on 89% | quantity dust is 1,202,305 
+2025-02-14 21:08:57| successful collected, cycle 49 on 75% | quantity dust is 1,359,052 
+2025-02-14 21:54:10| successful collected, cycle 50 on 75% | quantity dust is 1,517,595 
+2025-02-14 22:44:47| successful collected, cycle 51 on 6% | quantity dust is 46,261 
+2025-02-14 23:39:41| successful collected, cycle 52 on 91% | quantity dust is 219,777 
+2025-02-15 00:27:30| successful collected, cycle 53 on 28% | quantity dust is 56,097 
+2025-02-15 01:20:15| successful collected, cycle 54 on 88% | quantity dust is 222,958 
+2025-02-15 02:07:13| successful collected, cycle 55 on 78% | quantity dust is 371,459 
+2025-02-15 02:53:49| successful collected, cycle 56 on 78% | quantity dust is 518,889 
+2025-02-15 03:45:37| successful collected, cycle 57 on 59% | quantity dust is 118,060 
+2025-02-15 04:33:24| successful collected, cycle 58 on 80% | quantity dust is 269,419 
+2025-02-15 05:19:10| successful collected, cycle 59 on 76% | quantity dust is 414,385 
+2025-02-15 06:05:06| successful collected, cycle 60 on 77% | quantity dust is 559,875 
+2025-02-15 06:51:12| successful collected, cycle 61 on 77% | quantity dust is 705,832 
+2025-02-15 07:34:00| successful collected, cycle 62 on 71% | quantity dust is 841,426 
+2025-02-15 08:30:01| successful collected, cycle 63 on 93% | quantity dust is 1,018,755 
+2025-02-15 09:25:55| successful collected, cycle 64 on 93% | quantity dust is 1,195,767 
+2025-02-15 10:18:36| successful collected, cycle 65 on 88% | quantity dust is 1,362,586 
+2025-02-15 11:15:21| successful collected, cycle 66 on 95% | quantity dust is 1,542,310 
+2025-02-15 12:03:21| successful collected, cycle 67 on 80% | quantity dust is 1,694,215 
+2025-02-15 12:59:46| successful collected, cycle 68 on 25% | quantity dust is 68,632 
+2025-02-15 13:55:28| successful collected, cycle 69 on 93% | quantity dust is 245,847 
+2025-02-15 14:52:14| successful collected, cycle 70 on 95% | quantity dust is 426,391 
+2025-02-15 15:37:40| successful collected, cycle 71 on 76% | quantity dust is 570,982 
+2025-02-15 16:31:12| successful collected, cycle 72 on 89% | quantity dust is 741,217 
+2025-02-15 17:24:03| successful collected, cycle 73 on 88% | quantity dust is 909,324 
+2025-02-15 18:15:13| successful collected, cycle 74 on 85% | quantity dust is 1,072,075 
+2025-02-15 19:09:19| successful collected, cycle 75 on 79% | quantity dust is 187,930 
+2025-02-15 19:53:10| successful collected, cycle 76 on 73% | quantity dust is 341,090 
+2025-02-15 20:45:31| successful collected, cycle 77 on 14% | quantity dust is 26,979 
+2025-02-15 21:31:43| successful collected, cycle 78 on 77% | quantity dust is 174,536 
+2025-02-15 22:16:10| successful collected, cycle 79 on 74% | quantity dust is 316,489 
+2025-02-15 23:13:07| successful collected, cycle 80 on 95% | quantity dust is 498,363 
+2025-02-16 00:08:01| successful collected, cycle 81 on 91% | quantity dust is 673,674 
+2025-02-16 01:04:00| successful collected, cycle 82 on 93% | quantity dust is 852,478 
+2025-02-16 01:48:50| successful collected, cycle 83 on 75% | quantity dust is 995,565 
+2025-02-16 02:40:56| successful collected, cycle 84 on 87% | quantity dust is 170,797 
+2025-02-16 03:30:17| successful collected, cycle 85 on 82% | quantity dust is 328,845 
+2025-02-16 04:22:49| successful collected, cycle 86 on 88% | quantity dust is 496,969 
+2025-02-16 05:11:40| successful collected, cycle 87 on 81% | quantity dust is 653,347 
+2025-02-16 05:56:10| successful collected, cycle 88 on 74% | quantity dust is 795,792 
+2025-02-16 06:52:03| successful collected, cycle 89 on 93% | quantity dust is 974,658 
+2025-02-16 07:39:19| successful collected, cycle 90 on 79% | quantity dust is 1,125,995 
+2025-02-16 08:27:16| successful collected, cycle 91 on 80% | quantity dust is 1,279,397 
+2025-02-16 09:20:48| successful collected, cycle 92 on 89% | quantity dust is 1,450,704 
+2025-02-16 10:04:02| successful collected, cycle 93 on 72% | quantity dust is 1,589,055 
+2025-02-16 10:57:26| successful collected, cycle 94 on 89% | quantity dust is 1,759,920 
+2025-02-16 11:53:55| successful collected, cycle 95 on 94% | quantity dust is 1,940,639 
+2025-02-16 12:50:17| successful collected, cycle 96 on 94% | quantity dust is 2,120,961 
+2025-02-16 13:42:09| successful collected, cycle 97 on 86% | quantity dust is 2,286,877 
+2025-02-16 14:31:44| successful collected, cycle 98 on 83% | quantity dust is 2,445,489 
+2025-02-16 15:22:04| successful collected, cycle 99 on 84% | quantity dust is 2,606,549 
+2025-02-16 16:09:56| successful collected, cycle 100 on 27% | quantity dust is 227,252 
+2025-02-16 16:56:51| successful collected, cycle 101 on 78% | quantity dust is 378,366 
+2025-02-16 17:49:11| successful collected, cycle 102 on 87% | quantity dust is 546,922 
+2025-02-16 18:38:03| successful collected, cycle 103 on 81% | quantity dust is 704,260 
+2025-02-16 19:29:48| successful collected, cycle 104 on 64% | quantity dust is 126,415 
+2025-02-16 20:24:13| successful collected, cycle 105 on 90% | quantity dust is 302,005 
+2025-02-16 21:14:33| successful collected, cycle 106 on 83% | quantity dust is 464,303 
+2025-02-16 22:06:17| successful collected, cycle 107 on 86% | quantity dust is 631,390 
+2025-02-16 22:53:41| successful collected, cycle 108 on 79% | quantity dust is 784,317 
+2025-02-16 23:48:51| successful collected, cycle 109 on 92% | quantity dust is 962,243 
+2025-02-17 00:41:41| successful collected, cycle 110 on 88% | quantity dust is 1,132,684 
+2025-02-17 01:31:04| successful collected, cycle 111 on 82% | quantity dust is 1,291,987 
+2025-02-17 02:27:03| successful collected, cycle 112 on 93% | quantity dust is 1,472,607 
+2025-02-17 03:20:26| successful collected, cycle 113 on 15% | quantity dust is 45,906 
+2025-02-17 04:03:35| successful collected, cycle 114 on 72% | quantity dust is 185,677 
+2025-02-17 04:51:38| successful collected, cycle 115 on 80% | quantity dust is 341,297 
+2025-02-17 05:43:12| successful collected, cycle 116 on 86% | quantity dust is 508,294 
+2025-02-17 06:28:14| successful collected, cycle 117 on 75% | quantity dust is 654,141 
+2025-02-17 07:24:18| successful collected, cycle 118 on 93% | quantity dust is 835,748 
+2025-02-17 08:11:26| successful collected, cycle 119 on 79% | quantity dust is 988,318 
+2025-02-17 09:06:57| successful collected, cycle 120 on 93% | quantity dust is 1,168,074 
+2025-02-17 09:51:39| successful collected, cycle 121 on 75% | quantity dust is 1,312,854 
+2025-02-17 10:48:06| successful collected, cycle 122 on 94% | quantity dust is 1,495,560 
+2025-02-17 11:38:50| successful collected, cycle 123 on 85% | quantity dust is 1,659,803 
+2025-02-17 12:32:40| successful collected, cycle 124 on 90% | quantity dust is 1,839,232 
+2025-02-17 13:16:31| successful collected, cycle 125 on 18% | quantity dust is 158,744 
+2025-02-17 14:01:39| successful collected, cycle 126 on 75% | quantity dust is 325,169 
+2025-02-17 14:46:06| successful collected, cycle 127 on 74% | quantity dust is 488,949 
+2025-02-17 15:32:49| successful collected, cycle 128 on 78% | quantity dust is 661,184 
+2025-02-17 16:29:58| successful collected, cycle 129 on 95% | quantity dust is 871,718 
+2025-02-17 17:17:39| successful collected, cycle 130 on 79% | quantity dust is 1,047,414 
+2025-02-17 18:12:48| successful collected, cycle 131 on 92% | quantity dust is 1,250,617 
+2025-02-17 19:08:06| successful collected, cycle 132 on 92% | quantity dust is 1,454,353 
+2025-02-17 19:52:40| successful collected, cycle 133 on 74% | quantity dust is 1,618,533 
+2025-02-17 20:35:09| successful collected, cycle 134 on 71% | quantity dust is 1,775,030 
+2025-02-17 21:29:39| successful collected, cycle 135 on 91% | quantity dust is 1,975,753 
+2025-02-17 22:18:59| successful collected, cycle 136 on 82% | quantity dust is 2,157,433 
+2025-02-17 23:04:22| successful collected, cycle 137 on 76% | quantity dust is 2,324,562 
+2025-02-17 23:50:23| successful collected, cycle 138 on 77% | quantity dust is 2,493,998 
+2025-02-18 00:33:50| successful collected, cycle 139 on 72% | quantity dust is 2,653,986 
+2025-02-18 01:20:18| successful collected, cycle 140 on 62% | quantity dust is 223,628 
+2025-02-18 02:09:11| successful collected, cycle 141 on 81% | quantity dust is 404,634 
+2025-02-18 02:55:53| successful collected, cycle 142 on 78% | quantity dust is 577,602 
+2025-02-18 03:40:06| successful collected, cycle 143 on 74% | quantity dust is 741,358 
+2025-02-18 04:28:31| successful collected, cycle 144 on 81% | quantity dust is 920,655 
+2025-02-18 05:19:46| successful collected, cycle 145 on 42% | quantity dust is 98,844 
+2025-02-18 06:10:57| successful collected, cycle 146 on 85% | quantity dust is 288,758 
+2025-02-18 06:58:59| successful collected, cycle 147 on 80% | quantity dust is 467,032 
+2025-02-18 07:42:23| successful collected, cycle 148 on 72% | quantity dust is 628,080 
+2025-02-18 08:37:41| successful collected, cycle 149 on 92% | quantity dust is 833,285 
+2025-02-18 09:24:34| successful collected, cycle 150 on 78% | quantity dust is 1,007,239 
+2025-02-18 10:12:07| successful collected, cycle 151 on 79% | quantity dust is 1,183,648 
+2025-02-18 11:09:09| successful collected, cycle 152 on 95% | quantity dust is 1,395,228 
+2025-02-18 12:01:58| successful collected, cycle 153 on 88% | quantity dust is 1,591,211 
+2025-02-18 12:47:11| successful collected, cycle 154 on 75% | quantity dust is 1,758,848 
+2025-02-18 13:39:01| successful collected, cycle 155 on 86% | quantity dust is 1,951,148 
+2025-02-18 14:21:41| successful collected, cycle 156 on 71% | quantity dust is 2,109,300 
+2025-02-18 15:17:01| successful collected, cycle 157 on 92% | quantity dust is 2,314,536 
+2025-02-18 16:05:39| successful collected, cycle 158 on 81% | quantity dust is 2,494,861 
+2025-02-18 16:51:00| successful collected, cycle 159 on 76% | quantity dust is 2,662,982 
+2025-02-18 17:37:43| successful collected, cycle 160 on 67% | quantity dust is 206,781 
+2025-02-18 18:22:29| successful collected, cycle 161 on 75% | quantity dust is 373,810 
+2025-02-18 19:13:17| successful collected, cycle 162 on 85% | quantity dust is 563,200 
+2025-02-18 19:58:42| successful collected, cycle 163 on 76% | quantity dust is 732,615 
+2025-02-18 20:47:18| successful collected, cycle 164 on 81% | quantity dust is 913,649 
+2025-02-18 21:44:17| successful collected, cycle 165 on 95% | quantity dust is 1,126,294 
+2025-02-18 22:32:05| successful collected, cycle 166 on 80% | quantity dust is 1,304,430 
+2025-02-18 23:27:23| successful collected, cycle 167 on 92% | quantity dust is 1,510,440 
+2025-02-19 00:17:41| successful collected, cycle 168 on 84% | quantity dust is 1,698,048 
+2025-02-19 01:14:23| successful collected, cycle 169 on 21% | quantity dust is 65,253 
+2025-02-19 02:08:31| successful collected, cycle 170 on 90% | quantity dust is 267,838 
+2025-02-19 03:02:43| successful collected, cycle 171 on 90% | quantity dust is 470,651 
+2025-02-19 03:11:29| VERSE IS STARTED | quantity dust is not defined
+2025-02-19 03:12:07| successful collected, cycle 1 on 16% | quantity dust is 505,834 
+2025-02-19 03:12:37| VERSE IS STARTED | quantity dust is not defined
+2025-02-19 03:12:40| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-02-19 03:13:11| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-02-19 03:14:17| successful collected, cycle 1 on 4% | quantity dust is 513,940 
+2025-02-19 04:10:29| successful collected, cycle 2 on 94% | quantity dust is 724,270 
+2025-02-19 04:54:14| successful collected, cycle 3 on 73% | quantity dust is 887,894 
+2025-02-19 05:39:44| successful collected, cycle 4 on 76% | quantity dust is 1,058,171 
+2025-02-19 06:35:01| successful collected, cycle 5 on 92% | quantity dust is 1,264,966 
+2025-02-19 07:17:41| successful collected, cycle 6 on 71% | quantity dust is 1,424,551 
+2025-02-19 08:10:06| successful collected, cycle 7 on 87% | quantity dust is 1,620,583 
+2025-02-19 09:04:56| successful collected, cycle 8 on 91% | quantity dust is 1,825,573 
+2025-02-19 10:00:10| successful collected, cycle 9 on 92% | quantity dust is 2,032,155 
+2025-02-19 10:51:43| successful collected, cycle 10 on 86% | quantity dust is 2,224,900 
+2025-02-19 11:35:32| successful collected, cycle 11 on 73% | quantity dust is 2,388,715 
+2025-02-19 12:19:08| successful collected, cycle 12 on 73% | quantity dust is 2,551,642 
+2025-02-19 13:02:57| successful collected, cycle 13 on 34% | quantity dust is 83,012 
+2025-02-19 13:46:01| successful collected, cycle 14 on 72% | quantity dust is 244,891 
+2025-02-19 14:41:45| successful collected, cycle 15 on 93% | quantity dust is 454,513 
+2025-02-19 15:57:21| VERSE IS STARTED | quantity dust is not defined
+2025-02-19 15:58:23| successful collected, cycle 1 on 50% | quantity dust is 118,584 
+2025-02-19 16:41:41| successful collected, cycle 2 on 72% | quantity dust is 281,636 
+2025-02-19 17:29:02| successful collected, cycle 3 on 79% | quantity dust is 459,873 
+2025-02-19 18:14:56| successful collected, cycle 4 on 76% | quantity dust is 632,559 
+2025-02-19 19:05:44| successful collected, cycle 5 on 85% | quantity dust is 823,791 
+2025-02-19 20:02:14| successful collected, cycle 6 on 94% | quantity dust is 1,036,406 
+2025-02-19 20:45:54| successful collected, cycle 7 on 73% | quantity dust is 1,200,711 
+2025-02-19 21:42:01| successful collected, cycle 8 on 93% | quantity dust is 1,411,774 
+2025-02-19 22:25:44| successful collected, cycle 9 on 73% | quantity dust is 1,576,230 
+2025-02-19 23:14:42| successful collected, cycle 10 on 82% | quantity dust is 1,760,419 
+2025-02-19 23:59:36| successful collected, cycle 11 on 70% | quantity dust is 169,715 
+2025-02-20 00:53:37| successful collected, cycle 12 on 90% | quantity dust is 373,749 
+2025-02-20 01:50:56| successful collected, cycle 13 on 95% | quantity dust is 590,150 
+2025-02-20 02:48:07| successful collected, cycle 14 on 95% | quantity dust is 806,028 
+2025-02-20 03:42:41| successful collected, cycle 15 on 91% | quantity dust is 1,011,989 
+2025-02-20 04:35:54| successful collected, cycle 16 on 89% | quantity dust is 1,212,830 
+2025-02-20 05:23:34| successful collected, cycle 17 on 79% | quantity dust is 1,392,708 
+2025-02-20 06:20:53| successful collected, cycle 18 on 56% | quantity dust is 137,809 
+2025-02-20 07:09:59| successful collected, cycle 19 on 82% | quantity dust is 323,744 
+2025-02-20 07:57:54| successful collected, cycle 20 on 80% | quantity dust is 505,051 
+2025-02-20 08:51:59| successful collected, cycle 21 on 90% | quantity dust is 709,750 
+2025-02-20 09:34:41| successful collected, cycle 22 on 71% | quantity dust is 871,222 
+2025-02-20 10:24:17| successful collected, cycle 23 on 83% | quantity dust is 1,059,036 
+2025-02-20 11:09:29| successful collected, cycle 24 on 75% | quantity dust is 1,230,058 
+2025-02-20 11:52:43| successful collected, cycle 25 on 72% | quantity dust is 1,393,642 
+2025-02-20 12:37:31| successful collected, cycle 26 on 75% | quantity dust is 1,563,066 
+2025-02-20 13:24:00| successful collected, cycle 27 on 77% | quantity dust is 1,738,965 
+2025-02-20 14:08:22| fail: NoSuchElementException, cycle 28 | quantity dust is 1,738,965 
+2025-02-20 14:09:31| fail: NoSuchElementException, cycle 29 | quantity dust is 1,738,965 
+2025-02-20 14:10:42| fail: NoSuchElementException, cycle 30 | quantity dust is 1,738,965 
+2025-02-20 14:12:06| successful collected, cycle 31 on 65% | quantity dust is 147,757 
+2025-02-20 15:04:43| successful collected, cycle 32 on 87% | quantity dust is 347,490 
+2025-02-20 15:51:19| successful collected, cycle 33 on 77% | quantity dust is 523,900 
+2025-02-20 16:42:25| successful collected, cycle 34 on 85% | quantity dust is 718,516 
+2025-02-20 17:33:19| successful collected, cycle 35 on 85% | quantity dust is 911,722 
+2025-02-20 18:28:36| successful collected, cycle 36 on 92% | quantity dust is 1,121,554 
+2025-02-20 19:11:51| successful collected, cycle 37 on 72% | quantity dust is 1,285,689 
+2025-02-20 20:08:15| successful collected, cycle 38 on 94% | quantity dust is 1,499,714 
+2025-02-20 21:02:09| successful collected, cycle 39 on 90% | quantity dust is 1,704,289 
+2025-02-20 21:53:13| successful collected, cycle 40 on 85% | quantity dust is 1,897,962 
+2025-02-20 22:36:47| successful collected, cycle 41 on 73% | quantity dust is 2,063,233 
+2025-02-20 23:22:44| successful collected, cycle 42 on 39% | quantity dust is 301,758 
+2025-02-21 00:05:20| successful collected, cycle 43 on 71% | quantity dust is 463,963 
+2025-02-21 00:53:13| successful collected, cycle 44 on 80% | quantity dust is 646,400 
+2025-02-21 01:42:25| successful collected, cycle 45 on 82% | quantity dust is 833,846 
+2025-02-21 02:37:48| successful collected, cycle 46 on 92% | quantity dust is 1,044,688 
+2025-02-21 03:22:12| successful collected, cycle 47 on 74% | quantity dust is 1,213,681 
+2025-02-21 04:10:53| successful collected, cycle 48 on 81% | quantity dust is 1,399,106 
+2025-02-21 04:59:45| successful collected, cycle 49 on 81% | quantity dust is 1,585,128 
+2025-02-21 05:53:37| successful collected, cycle 50 on 49% | quantity dust is 112,084 
+2025-02-21 06:45:12| successful collected, cycle 51 on 86% | quantity dust is 309,136 
+2025-02-21 07:38:18| successful collected, cycle 52 on 88% | quantity dust is 511,964 
+2025-02-21 08:31:30| successful collected, cycle 53 on 89% | quantity dust is 715,091 
+2025-02-21 09:24:27| successful collected, cycle 54 on 88% | quantity dust is 917,371 
+2025-02-21 10:20:59| successful collected, cycle 55 on 94% | quantity dust is 1,133,168 
+2025-02-21 11:07:52| successful collected, cycle 56 on 78% | quantity dust is 1,312,244 
+2025-02-21 11:50:47| successful collected, cycle 57 on 71% | quantity dust is 1,476,024 
+2025-02-21 12:40:04| successful collected, cycle 58 on 82% | quantity dust is 1,664,156 
+2025-02-21 13:33:46| successful collected, cycle 59 on 89% | quantity dust is 1,869,124 
+2025-02-21 14:21:54| successful collected, cycle 60 on 80% | quantity dust is 2,052,890 
+2025-02-21 15:16:23| successful collected, cycle 61 on 91% | quantity dust is 2,260,810 
+2025-02-21 16:02:52| successful collected, cycle 62 on 38% | quantity dust is 98,795 
+2025-02-21 16:57:22| successful collected, cycle 63 on 91% | quantity dust is 307,918 
+2025-02-21 17:46:12| successful collected, cycle 64 on 81% | quantity dust is 495,164 
+2025-02-21 18:29:30| successful collected, cycle 65 on 72% | quantity dust is 495,164 
+2025-02-21 19:09:08| VERSE IS STARTED | quantity dust is not defined
+2025-02-21 19:09:53| dust storage was full, successful collected on 100% | quantity dust is not defined
+2025-02-21 19:14:16| successful collected, cycle 1 on 7% | quantity dust is 741,536 
+2025-02-21 20:02:10| successful collected, cycle 2 on 80% | quantity dust is 925,209 
+2025-02-21 20:48:01| successful collected, cycle 3 on 76% | quantity dust is 1,100,951 
+2025-02-21 21:34:58| successful collected, cycle 4 on 78% | quantity dust is 1,280,953 
+2025-02-21 22:28:12| successful collected, cycle 5 on 89% | quantity dust is 1,484,865 
+2025-02-21 23:21:34| successful collected, cycle 6 on 89% | quantity dust is 1,689,331 
+2025-02-22 00:25:12| VERSE IS STARTED | quantity dust is not defined
+2025-02-22 00:26:03| dust storage was full, successful collected on 100% | quantity dust is 1,919,190 
+2025-02-22 00:29:14| fail: NoSuchElementException, cycle 1 | quantity dust is 1,919,190 
+2025-02-22 00:30:31| successful collected, cycle 2 on 7% | quantity dust is 1,936,429 
+2025-02-22 01:33:22| VERSE IS STARTED | quantity dust is not defined
+2025-02-22 01:34:30| dust storage was full, successful collected on 100% | quantity dust is 232,684 
+2025-02-22 01:38:19| successful collected, cycle 1 on 6% | quantity dust is 247,547 
+2025-02-22 01:49:05| VERSE IS STARTED | quantity dust is not defined
+2025-02-22 01:49:57| successful collected, cycle 1 on 19% | quantity dust is 292,225 
+2025-02-22 02:43:10| successful collected, cycle 2 on 89% | quantity dust is 496,945 
+2025-02-22 03:37:49| successful collected, cycle 3 on 91% | quantity dust is 707,086 
+2025-02-22 04:34:22| successful collected, cycle 4 on 94% | quantity dust is 924,514 
+2025-02-22 05:19:36| successful collected, cycle 5 on 75% | quantity dust is 1,098,414 
+2025-02-22 06:08:38| successful collected, cycle 6 on 82% | quantity dust is 1,286,965 
+2025-02-22 07:03:59| successful collected, cycle 7 on 92% | quantity dust is 1,499,566 
+2025-02-22 07:57:21| successful collected, cycle 8 on 89% | quantity dust is 1,704,789 
+2025-02-22 08:52:03| successful collected, cycle 9 on 91% | quantity dust is 1,914,917 
+2025-02-22 09:42:40| successful collected, cycle 10 on 84% | quantity dust is 2,109,391 
+2025-02-22 10:27:10| successful collected, cycle 11 on 74% | quantity dust is 2,280,360 
+2025-02-22 11:14:12| successful collected, cycle 12 on 78% | quantity dust is 2,461,036 
+2025-02-22 12:02:03| successful collected, cycle 13 on 80% | quantity dust is 2,644,757 
+2025-02-22 12:57:57| successful collected, cycle 14 on 93% | quantity dust is 2,859,492 
+2025-02-22 13:40:44| successful collected, cycle 15 on 31% | quantity dust is 240,195 
+2025-02-22 14:29:12| successful collected, cycle 16 on 81% | quantity dust is 427,474 
+2025-02-22 15:22:37| successful collected, cycle 17 on 89% | quantity dust is 633,710 
+2025-02-22 16:12:42| successful collected, cycle 18 on 83% | quantity dust is 827,179 
+2025-02-22 17:00:57| successful collected, cycle 19 on 80% | quantity dust is 1,013,422 
+2025-02-22 17:57:17| successful collected, cycle 20 on 94% | quantity dust is 1,230,910 
+2025-02-22 18:44:45| successful collected, cycle 21 on 79% | quantity dust is 1,414,210 
+2025-02-22 19:30:49| successful collected, cycle 22 on 77% | quantity dust is 1,592,023 
+2025-02-22 20:13:25| successful collected, cycle 23 on 71% | quantity dust is 1,756,366 
+2025-02-22 20:59:14| successful collected, cycle 24 on 76% | quantity dust is 1,933,054 
+2025-02-22 21:52:07| successful collected, cycle 25 on 88% | quantity dust is 2,137,224 
+2025-02-22 22:40:25| successful collected, cycle 26 on 80% | quantity dust is 2,323,569 
+2025-02-22 23:36:38| successful collected, cycle 27 on 94% | quantity dust is 2,540,371 
+2025-02-23 00:26:29| successful collected, cycle 28 on 83% | quantity dust is 2,732,707 
+2025-02-23 01:21:40| successful collected, cycle 29 on 92% | quantity dust is 2,945,448 
+2025-02-23 02:08:56| successful collected, cycle 30 on 79% | quantity dust is 348,351 
+2025-02-23 03:02:59| successful collected, cycle 31 on 90% | quantity dust is 557,967 
+2025-02-23 03:51:26| successful collected, cycle 32 on 81% | quantity dust is 745,849 
+2025-02-23 04:48:02| successful collected, cycle 33 on 94% | quantity dust is 965,250 
+2025-02-23 05:38:46| successful collected, cycle 34 on 85% | quantity dust is 1,161,990 
+2025-02-23 06:27:45| successful collected, cycle 35 on 82% | quantity dust is 1,351,868 
+2025-02-23 07:13:07| successful collected, cycle 36 on 76% | quantity dust is 1,527,771 
+2025-02-23 08:07:35| successful collected, cycle 37 on 91% | quantity dust is 1,738,780 
+2025-02-23 09:01:45| successful collected, cycle 38 on 90% | quantity dust is 1,948,671 
+2025-02-23 09:54:50| successful collected, cycle 39 on 88% | quantity dust is 2,154,320 
+2025-02-23 10:49:34| successful collected, cycle 40 on 91% | quantity dust is 2,366,266 
+2025-02-23 11:46:12| successful collected, cycle 41 on 94% | quantity dust is 2,585,616 
+2025-02-23 12:37:41| successful collected, cycle 42 on 86% | quantity dust is 2,785,047 
+2025-02-23 13:26:32| successful collected, cycle 43 on 81% | quantity dust is 2,974,139 
+2025-02-23 14:13:24| successful collected, cycle 44 on 78% | quantity dust is 3,155,725 
+2025-02-23 15:07:08| successful collected, cycle 45 on 90% | quantity dust is 3,363,667 
+2025-02-23 15:52:05| successful collected, cycle 46 on 75% | quantity dust is 3,537,657 
+2025-02-23 16:46:58| successful collected, cycle 47 on 68% | quantity dust is 220,919 
+2025-02-23 17:34:00| successful collected, cycle 48 on 78% | quantity dust is 404,335 
+2025-02-23 18:23:31| successful collected, cycle 49 on 82% | quantity dust is 597,268 
+2025-02-23 19:07:20| successful collected, cycle 50 on 73% | quantity dust is 768,033 
+2025-02-23 19:57:14| successful collected, cycle 51 on 83% | quantity dust is 961,827 
+2025-02-23 20:50:29| successful collected, cycle 52 on 88% | quantity dust is 1,169,878 
+2025-02-23 21:46:52| successful collected, cycle 53 on 94% | quantity dust is 1,389,439 
+2025-02-23 22:36:16| successful collected, cycle 54 on 82% | quantity dust is 1,581,979 
+2025-02-23 23:31:32| successful collected, cycle 55 on 92% | quantity dust is 1,796,549 
+2025-02-24 00:19:22| successful collected, cycle 56 on 80% | quantity dust is 1,983,450 
+2025-02-24 01:03:37| successful collected, cycle 57 on 73% | quantity dust is 2,155,658 
+2025-02-24 01:49:38| successful collected, cycle 58 on 77% | quantity dust is 2,334,661 
+2025-02-24 02:33:21| successful collected, cycle 59 on 73% | quantity dust is 2,504,951 
+2025-02-24 03:30:50| successful collected, cycle 60 on 96% | quantity dust is 2,728,661 
+2025-02-24 04:14:24| successful collected, cycle 61 on 71% | quantity dust is 172,297 
+2025-02-24 05:00:30| successful collected, cycle 62 on 77% | quantity dust is 352,724 
+2025-02-24 05:44:30| successful collected, cycle 63 on 73% | quantity dust is 524,463 
+2025-02-24 06:27:28| successful collected, cycle 64 on 72% | quantity dust is 692,851 
+2025-02-24 07:24:41| successful collected, cycle 65 on 95% | quantity dust is 916,536 
+2025-02-24 08:19:00| successful collected, cycle 66 on 91% | quantity dust is 1,129,042 
+2025-02-24 09:03:34| successful collected, cycle 67 on 74% | quantity dust is 1,303,282 
+2025-02-24 09:47:17| successful collected, cycle 68 on 72% | quantity dust is 1,474,096 
+2025-02-24 10:43:01| successful collected, cycle 69 on 93% | quantity dust is 1,692,039 
+2025-02-24 11:39:44| successful collected, cycle 70 on 94% | quantity dust is 1,913,530 
+2025-02-24 12:25:58| successful collected, cycle 71 on 77% | quantity dust is 2,093,845 
+2025-02-24 13:12:19| successful collected, cycle 72 on 77% | quantity dust is 2,275,304 
+2025-02-24 13:57:39| successful collected, cycle 73 on 76% | quantity dust is 2,452,374 
+2025-02-24 14:41:56| successful collected, cycle 74 on 73% | quantity dust is 2,625,181 
+2025-02-24 15:39:43| successful collected, cycle 75 on 61% | quantity dust is 148,503 
+2025-02-24 16:35:59| successful collected, cycle 76 on 94% | quantity dust is 356,955 
+2025-02-24 17:22:11| successful collected, cycle 77 on 77% | quantity dust is 527,890 
+2025-02-24 18:12:27| successful collected, cycle 78 on 84% | quantity dust is 713,944 
+2025-02-24 18:55:33| successful collected, cycle 79 on 71% | quantity dust is 872,589 
+2025-02-24 19:51:03| successful collected, cycle 80 on 93% | quantity dust is 1,078,794 
+2025-02-24 20:46:53| successful collected, cycle 81 on 93% | quantity dust is 1,284,813 
+2025-02-24 21:33:14| successful collected, cycle 82 on 77% | quantity dust is 1,456,897 
+2025-02-24 22:25:28| successful collected, cycle 83 on 86% | quantity dust is 1,650,136 
+2025-02-24 23:18:45| successful collected, cycle 84 on 89% | quantity dust is 1,847,499 
+2025-02-25 00:12:31| successful collected, cycle 85 on 44% | quantity dust is 105,732 
+2025-02-25 00:58:16| successful collected, cycle 86 on 76% | quantity dust is 275,724 
+2025-02-25 01:57:56| successful collected, cycle 87 on 95% | quantity dust is 496,359 
+2025-02-25 02:49:38| successful collected, cycle 88 on 87% | quantity dust is 689,567 
+2025-02-25 03:41:27| successful collected, cycle 89 on 86% | quantity dust is 882,079 
+2025-02-25 04:27:46| successful collected, cycle 90 on 77% | quantity dust is 1,053,542 
+2025-02-25 05:22:04| successful collected, cycle 91 on 15% | quantity dust is 43,851 
+2025-02-25 06:18:08| successful collected, cycle 92 on 93% | quantity dust is 252,616 
+2025-02-25 07:08:58| successful collected, cycle 93 on 84% | quantity dust is 441,820 
+2025-02-25 07:59:22| successful collected, cycle 94 on 84% | quantity dust is 629,029 
+2025-02-25 08:46:01| successful collected, cycle 95 on 78% | quantity dust is 803,497 
+2025-02-25 09:31:42| successful collected, cycle 96 on 76% | quantity dust is 973,491 
+2025-02-25 10:21:12| successful collected, cycle 97 on 82% | quantity dust is 1,157,890 
+2025-02-25 11:05:03| successful collected, cycle 98 on 72% | quantity dust is 1,320,746 
+2025-02-25 12:01:48| successful collected, cycle 99 on 95% | quantity dust is 1,532,502 
+2025-02-25 12:56:46| successful collected, cycle 100 on 91% | quantity dust is 1,736,922 
+2025-02-25 13:39:43| successful collected, cycle 101 on 71% | quantity dust is 1,896,411 
+2025-02-25 14:34:12| successful collected, cycle 102 on 91% | quantity dust is 2,099,879 
+2025-02-25 15:29:13| successful collected, cycle 103 on 91% | quantity dust is 2,304,593 
+2025-02-25 16:26:00| successful collected, cycle 104 on 95% | quantity dust is 2,516,178 
+2025-02-25 17:12:22| successful collected, cycle 105 on 24% | quantity dust is 61,443 
+2025-02-25 18:09:39| successful collected, cycle 106 on 95% | quantity dust is 275,806 
+2025-02-25 19:06:00| successful collected, cycle 107 on 94% | quantity dust is 486,681 
+2025-02-25 19:59:02| successful collected, cycle 108 on 88% | quantity dust is 685,263 
+2025-02-25 20:44:34| successful collected, cycle 109 on 76% | quantity dust is 855,700 
+2025-02-25 21:31:30| successful collected, cycle 110 on 78% | quantity dust is 1,030,376 
+2025-02-25 22:19:36| successful collected, cycle 111 on 81% | quantity dust is 1,211,470 
+2025-02-25 23:11:26| successful collected, cycle 112 on 85% | quantity dust is 1,211,470 
+2025-02-26 00:05:18| successful collected, cycle 113 on 88% | quantity dust is 394,141 
+2025-02-26 00:53:42| fail: NoSuchElementException, cycle 114 | quantity dust is 394,141 
+2025-02-26 00:56:24| successful collected, cycle 115 on 83% | quantity dust is 584,366 
+2025-02-26 01:22:49| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 01:23:54| successful collected, cycle 1 on 46% | quantity dust is 689,044 
+2025-02-26 02:16:56| successful collected, cycle 2 on 88% | quantity dust is 888,082 
+2025-02-26 02:59:54| successful collected, cycle 3 on 71% | quantity dust is 1,048,599 
+2025-02-26 03:45:21| successful collected, cycle 4 on 6% | quantity dust is 18,236 
+2025-02-26 04:29:46| successful collected, cycle 5 on 74% | quantity dust is 199,455 
+2025-02-26 05:23:03| successful collected, cycle 6 on 89% | quantity dust is 420,968 
+2025-02-26 06:17:28| successful collected, cycle 7 on 90% | quantity dust is 420,968 
+2025-02-26 07:04:52| dust storage was full, successful collected on 100% | quantity dust is 670,218 
+2025-02-26 07:07:53| successful collected, cycle 8 on 5% | quantity dust is 682,955 
+2025-02-26 07:51:43| successful collected, cycle 9 on 73% | quantity dust is 864,897 
+2025-02-26 08:34:40| successful collected, cycle 10 on 72% | quantity dust is 1,043,290 
+2025-02-26 09:26:09| successful collected, cycle 11 on 86% | quantity dust is 1,257,257 
+2025-02-26 10:15:34| successful collected, cycle 12 on 82% | quantity dust is 1,462,415 
+2025-02-26 10:58:55| successful collected, cycle 13 on 72% | quantity dust is 1,641,748 
+2025-02-26 11:55:16| successful collected, cycle 14 on 94% | quantity dust is 1,876,381 
+2025-02-26 12:49:32| successful collected, cycle 15 on 90% | quantity dust is 2,101,655 
+2025-02-26 13:44:11| successful collected, cycle 16 on 91% | quantity dust is 2,328,632 
+2025-02-26 14:33:29| successful collected, cycle 17 on 22% | quantity dust is 59,282 
+2025-02-26 15:29:48| successful collected, cycle 18 on 93% | quantity dust is 294,315 
+2025-02-26 16:22:26| successful collected, cycle 19 on 88% | quantity dust is 513,893 
+2025-02-26 17:13:19| successful collected, cycle 20 on 20% | quantity dust is 56,817 
+2025-02-26 18:07:35| successful collected, cycle 21 on 92% | quantity dust is 286,507 
+2025-02-26 19:03:35| successful collected, cycle 22 on 93% | quantity dust is 520,638 
+2025-02-26 19:55:32| successful collected, cycle 23 on 86% | quantity dust is 737,223 
+2025-02-26 20:46:51| successful collected, cycle 24 on 86% | quantity dust is 951,790 
+2025-02-26 21:33:56| successful collected, cycle 25 on 78% | quantity dust is 951,790 
+2025-02-26 21:51:07| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 21:52:28| successful collected, cycle 1 on 18% | quantity dust is 70,835 
+2025-02-26 21:54:56| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 21:55:46| successful collected, cycle 1 on 6% | quantity dust is 85,617 
+2025-02-26 21:58:26| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 21:59:10| successful collected, cycle 1 on 6% | quantity dust is 99,973 
+2025-02-26 22:12:23| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 22:13:11| successful collected, cycle 1 on 23% | quantity dust is 158,322 
+2025-02-26 22:37:27| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 22:38:24| successful collected, cycle 1 on 42% | quantity dust is 263,874 
+2025-02-26 23:10:52| VERSE IS STARTED | quantity dust is not defined
+2025-02-26 23:12:27| successful collected, cycle 1 on 56% | quantity dust is 406,009 
+2025-02-27 00:18:42| VERSE IS STARTED | quantity dust is not defined
+2025-02-27 00:19:27| fail: NoSuchElementException, cycle 1 | quantity dust is not defined
+2025-02-27 00:20:38| fail: NoSuchElementException, cycle 2 | quantity dust is not defined
+2025-02-27 00:30:17| VERSE IS STARTED | quantity dust is not defined
+2025-02-27 00:31:07| dust storage was full, successful collected on 100% | quantity dust is 656,929 
+2025-02-27 00:35:11| successful collected, cycle 1 on 7% | quantity dust is 673,941 
+2025-02-27 01:31:22| successful collected, cycle 2 on 94% | quantity dust is 908,734 
+2025-02-27 02:24:24| successful collected, cycle 3 on 88% | quantity dust is 1,130,615 
+2025-02-27 03:21:21| successful collected, cycle 4 on 21% | quantity dust is 131,061 
+2025-02-27 04:13:47| successful collected, cycle 5 on 87% | quantity dust is 350,503 
+2025-02-27 05:10:48| successful collected, cycle 6 on 95% | quantity dust is 590,041 
+2025-02-27 06:07:26| successful collected, cycle 7 on 94% | quantity dust is 827,599 
+2025-02-27 06:53:20| successful collected, cycle 8 on 76% | quantity dust is 1,019,898 
+2025-02-27 07:37:32| successful collected, cycle 9 on 73% | quantity dust is 1,204,218 
+2025-02-27 08:31:54| successful collected, cycle 10 on 91% | quantity dust is 1,432,584 
+2025-02-27 09:19:35| successful collected, cycle 11 on 79% | quantity dust is 1,632,310 
+2025-02-27 10:14:31| successful collected, cycle 12 on 91% | quantity dust is 1,861,702 
+2025-02-27 11:11:18| successful collected, cycle 13 on 95% | quantity dust is 2,100,351 
+2025-02-27 11:55:59| successful collected, cycle 14 on 74% | quantity dust is 2,287,549 
+2025-02-27 12:46:56| successful collected, cycle 15 on 85% | quantity dust is 2,500,414 
+2025-02-27 13:31:45| successful collected, cycle 16 on 75% | quantity dust is 2,688,494 
+2025-02-27 14:15:35| fail: NoSuchElementException, cycle 17 | quantity dust is not defined
+2025-02-27 14:16:19| fail: NoSuchElementException, cycle 18 | quantity dust is not defined
+2025-02-27 14:17:57| successful collected, cycle 19 on 77% | quantity dust is 2,882,013 
+2025-02-27 15:14:22| successful collected, cycle 20 on 94% | quantity dust is 3,118,149 
+2025-02-27 16:05:43| successful collected, cycle 21 on 85% | quantity dust is 3,333,118 
+2025-02-27 17:03:20| successful collected, cycle 22 on 96% | quantity dust is 3,573,817 
+2025-02-27 17:47:39| successful collected, cycle 23 on 74% | quantity dust is 3,759,826 
+2025-02-27 18:31:56| successful collected, cycle 24 on 73% | quantity dust is 3,945,045 
+2025-02-27 19:21:51| successful collected, cycle 25 on 83% | quantity dust is 4,154,110 
+2025-02-27 20:17:31| successful collected, cycle 26 on 64% | quantity dust is 165,601 
+2025-02-27 21:04:46| successful collected, cycle 27 on 79% | quantity dust is 366,288 
+2025-02-27 21:47:35| successful collected, cycle 28 on 71% | quantity dust is 546,774 
+2025-02-27 22:42:49| successful collected, cycle 29 on 92% | quantity dust is 779,822 
+2025-02-27 23:28:43| successful collected, cycle 30 on 76% | quantity dust is 973,288 
+2025-02-28 00:14:16| successful collected, cycle 31 on 76% | quantity dust is 1,165,275 
+2025-02-28 01:09:01| successful collected, cycle 32 on 91% | quantity dust is 1,396,103 
+2025-02-28 01:54:39| successful collected, cycle 33 on 62% | quantity dust is 336,212 
+2025-02-28 02:51:35| successful collected, cycle 34 on 95% | quantity dust is 576,684 
+2025-02-28 03:44:28| successful collected, cycle 35 on 81% | quantity dust is 207,934 
+2025-02-28 04:35:02| successful collected, cycle 36 on 84% | quantity dust is 421,987 
+2025-02-28 05:18:42| successful collected, cycle 37 on 73% | quantity dust is 606,723 
+2025-02-28 06:15:09| successful collected, cycle 38 on 93% | quantity dust is 844,853 
+2025-02-28 07:10:50| successful collected, cycle 39 on 93% | quantity dust is 1,080,860 
+2025-02-28 07:58:41| successful collected, cycle 40 on 80% | quantity dust is 1,283,164 
+2025-02-28 08:46:56| successful collected, cycle 41 on 80% | quantity dust is 1,487,079 
+2025-02-28 09:41:41| successful collected, cycle 42 on 91% | quantity dust is 1,718,600 
+2025-02-28 10:33:30| successful collected, cycle 43 on 86% | quantity dust is 1,936,993 
+2025-02-28 11:31:11| successful collected, cycle 44 on 96% | quantity dust is 2,181,160 
+2025-02-28 12:17:36| successful collected, cycle 45 on 77% | quantity dust is 2,377,538 
+2025-02-28 13:04:37| successful collected, cycle 46 on 78% | quantity dust is 2,575,603 
+2025-02-28 13:50:11| successful collected, cycle 47 on 76% | quantity dust is 2,768,789 
+2025-02-28 14:40:18| successful collected, cycle 48 on 83% | quantity dust is 2,980,571 
+2025-02-28 15:25:47| successful collected, cycle 49 on 76% | quantity dust is 3,172,769 
+2025-02-28 16:14:15| successful collected, cycle 50 on 80% | quantity dust is 3,377,200 
+2025-02-28 17:07:31| successful collected, cycle 51 on 80% | quantity dust is 228,160 
+2025-02-28 19:47:06| VERSE IS STARTED | quantity dust is not defined
+2025-02-28 19:48:34| successful collected, cycle 1 on 65% | quantity dust is 169,408 
+2025-02-28 20:36:22| successful collected, cycle 2 on 80% | quantity dust is 372,911 
+2025-02-28 21:30:56| successful collected, cycle 3 on 90% | quantity dust is 604,671 
+2025-02-28 22:15:26| successful collected, cycle 4 on 74% | quantity dust is 794,270 
+2025-02-28 23:10:44| successful collected, cycle 5 on 92% | quantity dust is 1,029,419 
+2025-03-01 00:00:00| successful collected, cycle 6 on 26% | quantity dust is 68,296 
+2025-03-01 00:42:50| successful collected, cycle 7 on 71% | quantity dust is 250,708 
+2025-03-01 01:36:18| successful collected, cycle 8 on 89% | quantity dust is 478,349 
+2025-03-01 02:33:00| successful collected, cycle 9 on 95% | quantity dust is 720,081 
+2025-03-01 03:29:02| successful collected, cycle 10 on 93% | quantity dust is 958,755 
+2025-03-01 04:22:25| successful collected, cycle 11 on 89% | quantity dust is 1,186,117 
+2025-03-01 05:10:47| successful collected, cycle 12 on 81% | quantity dust is 1,392,102 
+2025-03-01 05:53:34| successful collected, cycle 13 on 65% | quantity dust is 297,948 
+2025-03-01 06:39:44| successful collected, cycle 14 on 77% | quantity dust is 495,053 
+2025-03-01 07:23:32| successful collected, cycle 15 on 73% | quantity dust is 681,978 
+2025-03-01 08:15:37| successful collected, cycle 16 on 87% | quantity dust is 904,252 
+2025-03-01 09:03:38| successful collected, cycle 17 on 80% | quantity dust is 1,109,077 
+2025-03-01 09:50:15| successful collected, cycle 18 on 78% | quantity dust is 1,307,847 
+2025-03-01 10:36:28| successful collected, cycle 19 on 77% | quantity dust is 1,505,171 
+2025-03-01 11:23:45| successful collected, cycle 20 on 79% | quantity dust is 1,706,911 
+2025-03-01 12:11:12| successful collected, cycle 21 on 79% | quantity dust is 1,909,328 
+2025-03-01 13:04:02| successful collected, cycle 22 on 49% | quantity dust is 129,800 
+2025-03-01 13:51:38| successful collected, cycle 23 on 79% | quantity dust is 333,495 
+2025-03-01 14:43:03| successful collected, cycle 24 on 86% | quantity dust is 553,561 
+2025-03-01 15:34:37| successful collected, cycle 25 on 86% | quantity dust is 774,253 
+2025-03-01 16:28:34| successful collected, cycle 26 on 90% | quantity dust is 1,005,151 
+2025-03-01 17:12:26| successful collected, cycle 27 on 73% | quantity dust is 1,192,872 
+2025-03-01 18:00:20| successful collected, cycle 28 on 80% | quantity dust is 1,397,834 
+2025-03-01 18:54:38| successful collected, cycle 29 on 91% | quantity dust is 1,630,252 
+2025-03-01 19:47:46| successful collected, cycle 30 on 71% | quantity dust is 187,684 
+2025-03-01 20:40:34| successful collected, cycle 31 on 88% | quantity dust is 414,027 
+2025-03-01 21:32:12| successful collected, cycle 32 on 86% | quantity dust is 635,772 
+2025-03-01 22:18:35| successful collected, cycle 33 on 77% | quantity dust is 834,826 
+2025-03-01 23:05:21| successful collected, cycle 34 on 78% | quantity dust is 1,035,386 
+2025-03-02 00:02:44| successful collected, cycle 35 on 95% | quantity dust is 1,281,537 
+2025-03-02 00:51:27| successful collected, cycle 36 on 81% | quantity dust is 1,490,485 
+2025-03-02 01:45:08| successful collected, cycle 37 on 89% | quantity dust is 1,720,801 
+2025-03-02 02:38:26| successful collected, cycle 38 on 89% | quantity dust is 1,949,326 
+2025-03-02 03:26:10| successful collected, cycle 39 on 80% | quantity dust is 2,154,037 
+2025-03-02 04:16:24| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:16:55| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:17:26| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:17:57| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:18:28| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:18:58| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:19:29| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:20:00| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:20:31| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is 2,154,037 
+2025-03-02 04:21:51| successful collected, cycle 40 on 93% | quantity dust is 2,392,822 
+2025-03-02 04:38:23| VERSE IS STARTED | quantity dust is not defined
+2025-03-02 04:39:06| successful collected, cycle 1 on 9% | quantity dust is 273,902 
+2025-03-02 04:40:30| VERSE IS STARTED | quantity dust is not defined
+2025-03-02 04:40:33| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 04:40:51| VERSE IS STARTED | quantity dust is not defined
+2025-03-02 04:41:29| successful collected, cycle 1 on 4% | quantity dust is 284,310 
+2025-03-02 05:30:57| successful collected, cycle 2 on 82% | quantity dust is 497,150 
+2025-03-02 06:16:12| successful collected, cycle 3 on 75% | quantity dust is 691,901 
+2025-03-02 07:12:51| successful collected, cycle 4 on 94% | quantity dust is 935,747 
+2025-03-02 08:03:56| successful collected, cycle 5 on 85% | quantity dust is 1,155,567 
+2025-03-02 08:49:46| successful collected, cycle 6 on 76% | quantity dust is 1,352,704 
+2025-03-02 09:33:18| successful collected, cycle 7 on 73% | quantity dust is 1,540,021 
+2025-03-02 10:17:29| successful collected, cycle 8 on 73% | quantity dust is 1,730,116 
+2025-03-02 11:09:40| successful collected, cycle 9 on 87% | quantity dust is 1,954,604 
+2025-03-02 12:00:36| successful collected, cycle 10 on 85% | quantity dust is 2,173,708 
+2025-03-02 12:48:08| successful collected, cycle 11 on 79% | quantity dust is 2,378,163 
+2025-03-02 13:38:41| successful collected, cycle 12 on 84% | quantity dust is 2,595,586 
+2025-03-02 14:33:46| successful collected, cycle 13 on 92% | quantity dust is 2,832,502 
+2025-03-02 15:25:41| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:26:12| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:26:43| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:27:14| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:27:46| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:28:17| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:28:48| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:29:18| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:29:49| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:30:20| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:30:51| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:31:22| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:31:52| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:32:23| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:32:54| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:33:26| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:33:56| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:34:27| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:34:58| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:35:29| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:36:00| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:36:31| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:37:02| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:37:32| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:38:03| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:38:34| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:39:05| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:39:36| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:40:06| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:40:37| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:41:08| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:41:39| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:42:10| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:42:40| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:43:11| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:43:42| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:44:13| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:44:44| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:45:15| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:45:45| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:46:16| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:46:47| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:47:18| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:47:49| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:48:19| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:48:50| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:49:21| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:49:52| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:50:23| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:50:53| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:51:24| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:51:55| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:52:26| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:52:57| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:53:27| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:53:58| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:54:29| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:55:00| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:55:31| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:56:02| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:56:32| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:57:03| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:57:34| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:58:05| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:58:36| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:59:07| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 15:59:37| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:00:08| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:00:39| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:01:10| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:01:41| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:02:11| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:02:42| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:03:13| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:03:45| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:04:15| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:04:46| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:05:17| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:05:48| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:06:19| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:06:50| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:07:20| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:07:51| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:08:22| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:08:53| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:09:24| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:09:54| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:10:25| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:10:56| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:11:27| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:11:58| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:12:30| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:13:01| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:13:31| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:14:02| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:14:33| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-02 16:15:39| dust storage was full, successful collected on 100% | quantity dust is 265,435 
+2025-03-02 16:20:17| successful collected, cycle 14 on 8% | quantity dust is 285,379 
+2025-03-02 17:08:43| successful collected, cycle 15 on 81% | quantity dust is 494,709 
+2025-03-02 17:59:59| successful collected, cycle 16 on 85% | quantity dust is 716,263 
+2025-03-02 18:45:43| successful collected, cycle 17 on 76% | quantity dust is 913,898 
+2025-03-02 19:40:25| successful collected, cycle 18 on 91% | quantity dust is 1,150,280 
+2025-03-02 20:23:53| successful collected, cycle 19 on 72% | quantity dust is 1,338,036 
+2025-03-02 21:19:41| successful collected, cycle 20 on 93% | quantity dust is 1,579,133 
+2025-03-02 22:03:36| successful collected, cycle 21 on 73% | quantity dust is 1,768,938 
+2025-03-02 22:52:25| successful collected, cycle 22 on 81% | quantity dust is 1,979,908 
+2025-03-02 23:44:08| successful collected, cycle 23 on 86% | quantity dust is 2,203,254 
+2025-03-03 00:29:10| successful collected, cycle 24 on 72% | quantity dust is 189,470 
+2025-03-03 01:17:54| successful collected, cycle 25 on 81% | quantity dust is 400,751 
+2025-03-03 02:11:04| successful collected, cycle 26 on 89% | quantity dust is 631,239 
+2025-03-03 03:08:17| successful collected, cycle 27 on 95% | quantity dust is 879,267 
+2025-03-03 04:02:58| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-03 04:03:30| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-03 04:04:01| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-03 04:04:31| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-03 04:05:03| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-03 04:06:17| successful collected, cycle 28 on 91% | quantity dust is 256,555 
+2025-03-03 04:59:42| successful collected, cycle 29 on 89% | quantity dust is 488,424 
+2025-03-03 05:47:49| successful collected, cycle 30 on 80% | quantity dust is 697,334 
+2025-03-03 06:42:19| successful collected, cycle 31 on 91% | quantity dust is 933,858 
+2025-03-03 07:26:46| successful collected, cycle 32 on 74% | quantity dust is 1,126,830 
+2025-03-03 08:21:16| successful collected, cycle 33 on 91% | quantity dust is 1,363,269 
+2025-03-03 09:08:28| successful collected, cycle 34 on 79% | quantity dust is 1,568,088 
+2025-03-03 10:03:04| successful collected, cycle 35 on 91% | quantity dust is 1,805,066 
+2025-03-03 10:48:29| successful collected, cycle 36 on 76% | quantity dust is 2,002,048 
+2025-03-03 11:33:40| successful collected, cycle 37 on 75% | quantity dust is 2,198,079 
+2025-03-03 12:28:56| successful collected, cycle 38 on 92% | quantity dust is 2,437,901 
+2025-03-03 13:18:12| successful collected, cycle 39 on 82% | quantity dust is 2,651,603 
+2025-03-03 14:14:59| successful collected, cycle 40 on 95% | quantity dust is 2,897,895 
+2025-03-03 15:03:45| successful collected, cycle 41 on 81% | quantity dust is 3,109,327 
+2025-03-03 15:53:31| successful collected, cycle 42 on 83% | quantity dust is 3,325,143 
+2025-03-03 16:45:59| successful collected, cycle 43 on 66% | quantity dust is 412,276 
+2025-03-03 17:30:03| successful collected, cycle 44 on 73% | quantity dust is 604,306 
+2025-03-03 18:16:40| successful collected, cycle 45 on 78% | quantity dust is 807,491 
+2025-03-03 19:08:27| successful collected, cycle 46 on 86% | quantity dust is 1,033,206 
+2025-03-03 19:53:23| successful collected, cycle 47 on 75% | quantity dust is 1,229,042 
+2025-03-03 20:39:55| successful collected, cycle 48 on 78% | quantity dust is 1,431,847 
+2025-03-03 21:33:48| successful collected, cycle 49 on 90% | quantity dust is 1,666,720 
+2025-03-03 22:16:52| successful collected, cycle 50 on 72% | quantity dust is 1,854,309 
+2025-03-03 23:07:56| successful collected, cycle 51 on 85% | quantity dust is 2,076,811 
+2025-03-04 00:02:34| successful collected, cycle 52 on 46% | quantity dust is 123,330 
+2025-03-04 00:52:29| successful collected, cycle 53 on 82% | quantity dust is 341,234 
+2025-03-04 01:42:58| successful collected, cycle 54 on 69% | quantity dust is 195,857 
+2025-03-04 02:33:51| successful collected, cycle 55 on 85% | quantity dust is 418,510 
+2025-03-04 03:27:13| successful collected, cycle 56 on 89% | quantity dust is 651,880 
+2025-03-04 04:21:18| successful collected, cycle 57 on 90% | quantity dust is 888,147 
+2025-03-04 05:12:09| successful collected, cycle 58 on 30% | quantity dust is 80,342 
+2025-03-04 06:05:20| successful collected, cycle 59 on 89% | quantity dust is 313,165 
+2025-03-04 06:52:30| successful collected, cycle 60 on 79% | quantity dust is 519,769 
+2025-03-04 07:43:28| successful collected, cycle 61 on 85% | quantity dust is 743,152 
+2025-03-04 08:32:44| successful collected, cycle 62 on 82% | quantity dust is 958,926 
+2025-03-04 09:17:13| successful collected, cycle 63 on 74% | quantity dust is 1,153,665 
+2025-03-04 10:10:59| successful collected, cycle 64 on 90% | quantity dust is 1,389,117 
+2025-03-04 11:07:59| successful collected, cycle 65 on 95% | quantity dust is 1,638,711 
+2025-03-04 11:55:38| successful collected, cycle 66 on 79% | quantity dust is 1,847,358 
+2025-03-04 12:43:45| successful collected, cycle 67 on 80% | quantity dust is 2,057,961 
+2025-03-04 13:30:25| successful collected, cycle 68 on 78% | quantity dust is 2,262,403 
+2025-03-04 14:24:44| successful collected, cycle 69 on 91% | quantity dust is 2,500,187 
+2025-03-04 15:14:30| successful collected, cycle 70 on 83% | quantity dust is 2,717,968 
+2025-03-04 16:03:27| successful collected, cycle 71 on 82% | quantity dust is 2,932,295 
+2025-03-04 16:50:30| successful collected, cycle 72 on 78% | quantity dust is 3,138,230 
+2025-03-04 17:46:56| successful collected, cycle 73 on 42% | quantity dust is 113,685 
+2025-03-04 18:36:38| successful collected, cycle 74 on 83% | quantity dust is 332,285 
+2025-03-04 19:23:14| successful collected, cycle 75 on 78% | quantity dust is 537,304 
+2025-03-04 20:07:01| successful collected, cycle 76 on 73% | quantity dust is 729,826 
+2025-03-04 20:49:44| successful collected, cycle 77 on 71% | quantity dust is 917,876 
+2025-03-04 21:41:23| successful collected, cycle 78 on 86% | quantity dust is 1,145,049 
+2025-03-04 22:36:33| successful collected, cycle 79 on 92% | quantity dust is 1,387,617 
+2025-03-04 23:27:25| successful collected, cycle 80 on 85% | quantity dust is 1,611,038 
+2025-03-05 00:18:36| successful collected, cycle 81 on 85% | quantity dust is 1,836,472 

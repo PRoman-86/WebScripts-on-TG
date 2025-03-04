@@ -44,6 +44,7 @@ public class Verse {
             } catch (ElementClickInterceptedException e) {
                 handlingException("ElementClickInterceptedException");
             } catch (SessionNotCreatedException e) {
+                setDefaultQuantityDustLine();
                 appendLineToLog(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
                 if (this.driver != null) this.driver = null;
                 waitOnSec(30);
@@ -110,10 +111,12 @@ public class Verse {
         return this.driver.findElement(By.className("ml-16px")).getText();
     }
 
+    private void setDefaultQuantityDustLine() { this.quantityDustLine = " quantity dust is not defined"; }
+
     public void handlingException(String typeException) {
         this.driver.quit();
         this.counter++;
-        this.quantityDustLine = " quantity dust is not defined";
+        setDefaultQuantityDustLine();
         appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
         waitOnSec(30);
     }
@@ -135,10 +138,10 @@ public class Verse {
                 String getCurrentQuantityDustLine = this.driver.findElement(QUANTITY_DUST_LINE).getText();
                 this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
             } else {
-                this.quantityDustLine = " quantity dust is not defined";
+                setDefaultQuantityDustLine();
             }
         } else {
-            this.quantityDustLine = " quantity dust is not defined";
+            setDefaultQuantityDustLine();
         }
     }
 }
