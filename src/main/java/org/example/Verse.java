@@ -20,6 +20,7 @@ public class Verse {
     private final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
     private final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
     private final By QUANTITY_DUST_LINE = By.xpath("(//label[@class='details link'])[2]");
+    private final By DUST_PERCENT_VALUE_ON_BUTTON = By.className("ml-16px");
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_RED = "\u001B[31m";
     public static final String ANSI_GREEN = "\u001B[32m";
@@ -74,10 +75,10 @@ public class Verse {
             waitOnSec(randomRangeOnSec(120, 280));
         }
 
-        String percent = getPercentCollection();
+        String percent = getTextOfElement(DUST_PERCENT_VALUE_ON_BUTTON);
         this.driver.findElement(COLLECT_DUST_BUTTON).click();
         waitOnSec(2);
-        if (!getPercentCollection().equals("0%")) this.driver.findElement(COLLECT_DUST_BUTTON).click(); //repeat click
+        if (!getTextOfElement(DUST_PERCENT_VALUE_ON_BUTTON).equals("0%")) this.driver.findElement(COLLECT_DUST_BUTTON).click(); //repeat click
         this.counter++;
         waitOnSec(3);
         fetchQuantityDust();
@@ -107,8 +108,14 @@ public class Verse {
         return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
     }
 
-    public String getPercentCollection() {
-        return this.driver.findElement(By.className("ml-16px")).getText();
+    public String getTextOfElement(By locator) {
+        String currentText;
+        try {
+            currentText = this.driver.findElement(locator).getText();
+        } catch (NoSuchElementException e) {
+            return "NA";
+        }
+        return currentText;
     }
 
     private void setDefaultQuantityDustLine() { this.quantityDustLine = " quantity dust is not defined"; }
@@ -135,7 +142,7 @@ public class Verse {
         if (elementIsExist(UFO_FACE_BUTTON)) {
             this.driver.findElement(UFO_FACE_BUTTON).click();
             if (elementIsExist(QUANTITY_DUST_LINE)) {
-                String getCurrentQuantityDustLine = this.driver.findElement(QUANTITY_DUST_LINE).getText();
+                String getCurrentQuantityDustLine = getTextOfElement(QUANTITY_DUST_LINE);
                 this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
             } else {
                 setDefaultQuantityDustLine();
