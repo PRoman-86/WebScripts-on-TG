@@ -15,18 +15,19 @@ public class Verse {
 
     private ChromeDriver driver;
     private int counter;
+    private long waitingTimeSec = 0;
     private String quantityDustLine = " quantity dust is not defined";
-    private final By COLLECT_DUST_BUTTON = By.className("progress-bar-container");
-    private final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
-    private final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
-    private final By QUANTITY_DUST_LINE = By.xpath("(//label[@class='details link'])[2]");
-    private final By DUST_PERCENT_VALUE_ON_BUTTON = By.className("ml-16px");
+    private static final By COLLECT_DUST_BUTTON = By.className("progress-bar-container");
+    private static final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
+    private static final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
+    private static final By QUANTITY_DUST_LINE = By.xpath("(//label[@class='details link'])[2]");
+    private static final By DUST_PERCENT_VALUE_ON_BUTTON = By.className("ml-16px");
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_RED = "\u001B[31m";
     public static final String ANSI_GREEN = "\u001B[32m";
     public static final String ANSI_YELLOW = "\u001B[33m";
 
-    public ChromeOptions getChromeOptions() {
+    private ChromeOptions getChromeOptions() {
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.setBinary("C:/Program Files/Google/Chrome/Application/chrome.exe")
                 .addArguments("user-data-dir=C:/Users/suvor/AppData/Local/Google/Chrome/User Data")
@@ -56,7 +57,7 @@ public class Verse {
         appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
     }
 
-    public void script() throws NoSuchElementException, ElementClickInterceptedException {
+    private void script() throws NoSuchElementException, ElementClickInterceptedException {
         this.driver = new ChromeDriver(getChromeOptions());
         this.driver.get("https://web.telegram.org/a/");
         waitOnSec(7);
@@ -82,12 +83,14 @@ public class Verse {
         this.counter++;
         waitOnSec(3);
         fetchQuantityDust();
-        appendLineToLog(ANSI_GREEN + getTime() + "| successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
+        appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
+                + " | successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
         this.driver.quit();
-        waitOnSec(randomRangeOnSec(2500, 3400));
+        this.waitingTimeSec = randomRangeOnSec(2700, 3500);
+        waitOnSec(this.waitingTimeSec);
     }
 
-    public void waitOnSec(long sec) {
+    public static void waitOnSec(long sec) {
         try {
             Thread.sleep(sec * 1000);
         } catch (InterruptedException e) {
@@ -95,7 +98,7 @@ public class Verse {
         }
     }
 
-    public long randomRangeOnSec(int from, int to) {
+    public static long randomRangeOnSec(int from, int to) {
         return (long) (from + Math.random() * (to - from));
     }
 
@@ -104,8 +107,14 @@ public class Verse {
         return !elements.isEmpty();
     }
 
-    public String getTime() {
+    public static String getTime() {
         return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
+    }
+
+    public static String convertSecondsToMinutesSeconds(long seconds) {
+        long minutes = seconds / 60;
+        long remainingSeconds = seconds % 60;
+        return String.format("%02d:%02d", minutes, remainingSeconds);
     }
 
     public String getTextOfElement(By locator) {
@@ -128,7 +137,7 @@ public class Verse {
         waitOnSec(30);
     }
 
-    public void appendLineToLog(String logLine) {
+    private void appendLineToLog(String logLine) {
         System.out.println(logLine + this.quantityDustLine);
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("VerseLogFile.txt", true))) {
                 writer.write(logLine.substring(5, logLine.length() - 4) + this.quantityDustLine);
@@ -138,7 +147,7 @@ public class Verse {
         }
     }
 
-    public void fetchQuantityDust() {
+    private void fetchQuantityDust() {
         if (elementIsExist(UFO_FACE_BUTTON)) {
             this.driver.findElement(UFO_FACE_BUTTON).click();
             if (elementIsExist(QUANTITY_DUST_LINE)) {
