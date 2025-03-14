@@ -911,3 +911,743 @@
 2025-03-04 22:36:33| successful collected, cycle 79 on 92% | quantity dust is 1,387,617 
 2025-03-04 23:27:25| successful collected, cycle 80 on 85% | quantity dust is 1,611,038 
 2025-03-05 00:18:36| successful collected, cycle 81 on 85% | quantity dust is 1,836,472 
+2025-03-05 01:07:20| VERSE IS STARTED | quantity dust is not defined
+2025-03-05 01:08:00| successful collected, cycle 1 on 82% | quantity dust is 2,053,554 
+2025-03-05 01:51:46| successful collected, cycle 2 on 73% | quantity dust is 2,246,062 
+2025-03-05 02:35:39| successful collected, cycle 3 on 73% | quantity dust is 2,439,086 
+2025-03-05 03:30:24| successful collected, cycle 4 on 91% | quantity dust is 2,679,786 
+2025-03-05 04:25:10| successful collected, cycle 5 on 91% | quantity dust is 2,920,547 
+2025-03-05 05:20:29| successful collected, cycle 6 on 7% | quantity dust is 28,938 
+2025-03-05 06:09:03| successful collected, cycle 7 on 81% | quantity dust is 243,486 
+2025-03-05 06:56:09| successful collected, cycle 8 on 79% | quantity dust is 451,551 
+2025-03-05 07:41:25| successful collected, cycle 9 on 75% | quantity dust is 651,492 
+2025-03-05 08:38:24| successful collected, cycle 10 on 95% | quantity dust is 903,256 
+2025-03-05 09:26:48| successful collected, cycle 11 on 81% | quantity dust is 1,117,029 
+2025-03-05 10:22:28| successful collected, cycle 12 on 93% | quantity dust is 1,362,793 
+2025-03-05 11:16:57| successful collected, cycle 13 on 91% | quantity dust is 1,603,453 
+2025-03-05 12:12:05| successful collected, cycle 14 on 92% | quantity dust is 1,846,903 
+2025-03-05 12:56:21| successful collected, cycle 15 on 74% | quantity dust is 2,042,279 
+2025-03-05 13:41:13| successful collected, cycle 16 on 75% | quantity dust is 2,240,451 
+2025-03-05 14:33:38| successful collected, cycle 17 on 87% | quantity dust is 2,471,772 
+2025-03-05 15:19:30| successful collected, cycle 18 on 76% | quantity dust is 2,674,234 
+2025-03-05 16:08:22| successful collected, cycle 19 on 81% | quantity dust is 2,890,004 
+2025-03-05 17:02:53| successful collected, cycle 20 on 91% | quantity dust is 3,130,624 
+2025-03-05 17:54:34| successful collected, cycle 21 on 39% | quantity dust is 205,255 
+2025-03-05 18:40:11| successful collected, cycle 22 on 76% | quantity dust is 407,519 
+2025-03-05 19:31:56| successful collected, cycle 23 on 86% | quantity dust is 637,044 
+2025-03-05 20:21:40| successful collected, cycle 24 on 37% | quantity dust is 857,617 
+2025-03-05 21:16:40| successful collected, cycle 25 on 92% | quantity dust is 1,101,530 
+2025-03-05 22:11:01| successful collected, cycle 26 on 91% | quantity dust is 1,342,525 
+2025-03-05 23:03:17| successful collected, cycle 27 on 87% | quantity dust is 1,574,269 
+2025-03-05 23:56:25| successful collected, cycle 28 on 89% | quantity dust is 1,809,852 
+2025-03-06 00:48:09| successful collected, cycle 29 on 86% | quantity dust is 2,039,194 
+2025-03-06 01:37:15| successful collected, cycle 30 on 82% | quantity dust is 2,256,845 
+2025-03-06 02:32:08| successful collected, cycle 31 on 91% | quantity dust is 2,500,116 
+2025-03-06 03:15:53| successful collected, cycle 32 on 73% | quantity dust is 2,694,040 
+2025-03-06 04:09:39| successful collected, cycle 33 on 90% | quantity dust is 2,932,331 
+2025-03-06 05:05:50| successful collected, cycle 34 on 94% | quantity dust is 3,181,399 
+2025-03-06 05:56:06| successful collected, cycle 35 on 17% | quantity dust is 50,592 
+2025-03-06 06:49:07| successful collected, cycle 36 on 88% | quantity dust is 286,763 
+2025-03-06 07:44:30| successful collected, cycle 37 on 92% | quantity dust is 533,470 
+2025-03-06 08:27:00| successful collected, cycle 38 on 71% | quantity dust is 722,840 
+2025-03-06 09:17:40| successful collected, cycle 39 on 84% | quantity dust is 948,484 
+2025-03-06 10:07:11| successful collected, cycle 40 on 83% | quantity dust is 1,169,010 
+2025-03-06 11:01:19| successful collected, cycle 41 on 90% | quantity dust is 1,410,065 
+2025-03-06 11:45:08| successful collected, cycle 42 on 73% | quantity dust is 1,605,097 
+2025-03-06 12:34:35| successful collected, cycle 43 on 82% | quantity dust is 1,825,334 
+2025-03-06 13:17:00| successful collected, cycle 44 on 59% | quantity dust is 223,829 
+2025-03-06 14:04:16| successful collected, cycle 45 on 79% | quantity dust is 434,936 
+2025-03-06 14:54:42| successful collected, cycle 46 on 84% | quantity dust is 660,010 
+2025-03-06 15:51:40| successful collected, cycle 47 on 95% | quantity dust is 914,367 
+2025-03-06 16:47:59| successful collected, cycle 48 on 79% | quantity dust is 213,754 
+2025-03-06 17:38:28| successful collected, cycle 49 on 84% | quantity dust is 439,488 
+2025-03-06 18:29:48| successful collected, cycle 50 on 86% | quantity dust is 668,932 
+2025-03-06 19:21:22| successful collected, cycle 51 on 86% | quantity dust is 899,322 
+2025-03-06 20:08:35| successful collected, cycle 52 on 79% | quantity dust is 1,110,313 
+2025-03-06 21:04:14| successful collected, cycle 53 on 93% | quantity dust is 1,358,984 
+2025-03-06 21:51:14| successful collected, cycle 54 on 78% | quantity dust is 1,569,059 
+2025-03-06 22:46:33| successful collected, cycle 55 on 92% | quantity dust is 1,816,135 
+2025-03-06 23:36:00| successful collected, cycle 56 on 82% | quantity dust is 2,037,059 
+2025-03-07 00:26:54| successful collected, cycle 57 on 85% | quantity dust is 2,264,508 
+2025-03-07 01:09:49| successful collected, cycle 58 on 72% | quantity dust is 2,456,216 
+2025-03-07 02:01:24| successful collected, cycle 59 on 73% | quantity dust is 200,271 
+2025-03-07 02:53:24| successful collected, cycle 60 on 87% | quantity dust is 433,478 
+2025-03-07 03:46:01| successful collected, cycle 61 on 88% | quantity dust is 669,356 
+2025-03-07 04:36:56| successful collected, cycle 62 on 85% | quantity dust is 897,525 
+2025-03-07 05:21:31| successful collected, cycle 63 on 58% | quantity dust is 217,090 
+2025-03-07 06:14:34| successful collected, cycle 64 on 88% | quantity dust is 455,126 
+2025-03-07 07:06:03| fail: NoSuchElementException, cycle 65 | quantity dust is not defined
+2025-03-07 07:07:08| successful collected, cycle 66 on 88% | quantity dust is 691,043 
+2025-03-07 07:59:39| successful collected, cycle 67 on 88% | quantity dust is 926,807 
+2025-03-07 08:52:53| successful collected, cycle 68 on 89% | quantity dust is 1,165,597 
+2025-03-07 09:42:20| successful collected, cycle 69 on 82% | quantity dust is 1,387,487 
+2025-03-07 10:36:18| fail: NoSuchElementException, cycle 70 | quantity dust is not defined
+2025-03-07 10:37:26| successful collected, cycle 71 on 92% | quantity dust is 1,634,692 
+2025-03-07 11:28:26| successful collected, cycle 72 on 85% | quantity dust is 1,863,494 
+2025-03-07 12:24:44| successful collected, cycle 73 on 94% | quantity dust is 2,116,043 
+2025-03-07 13:07:20| successful collected, cycle 74 on 71% | quantity dust is 2,307,131 
+2025-03-07 13:56:54| successful collected, cycle 75 on 83% | quantity dust is 2,529,530 
+2025-03-07 14:46:21| successful collected, cycle 76 on 82% | quantity dust is 2,751,242 
+2025-03-07 15:29:57| successful collected, cycle 77 on 73% | quantity dust is 2,946,839 
+2025-03-07 16:17:53| successful collected, cycle 78 on 80% | quantity dust is 3,161,794 
+2025-03-07 17:05:45| successful collected, cycle 79 on 80% | quantity dust is 3,376,358 
+2025-03-07 17:54:40| successful collected, cycle 80 on 82% | quantity dust is 3,595,774 
+2025-03-07 18:39:11| successful collected, cycle 81 on 74% | quantity dust is 276,722 
+2025-03-07 19:31:52| successful collected, cycle 82 on 88% | quantity dust is 514,206 
+2025-03-07 20:27:58| successful collected, cycle 83 on 94% | quantity dust is 767,140 
+2025-03-07 21:11:15| successful collected, cycle 84 on 72% | quantity dust is 962,215 
+2025-03-07 22:03:05| successful collected, cycle 85 on 20% | quantity dust is 103,659 
+2025-03-07 22:49:50| successful collected, cycle 86 on 78% | quantity dust is 314,740 
+2025-03-07 23:45:50| successful collected, cycle 87 on 93% | quantity dust is 567,481 
+2025-03-08 00:30:11| successful collected, cycle 88 on 7% | quantity dust is 767,565 
+2025-03-08 01:18:44| successful collected, cycle 89 on 81% | quantity dust is 986,670 
+2025-03-08 02:02:17| successful collected, cycle 90 on 73% | quantity dust is 1,183,179 
+2025-03-08 02:59:23| successful collected, cycle 91 on 95% | quantity dust is 1,440,830 
+2025-03-08 03:44:39| successful collected, cycle 92 on 75% | quantity dust is 1,645,050 
+2025-03-08 04:31:40| successful collected, cycle 93 on 78% | quantity dust is 1,857,242 
+2025-03-08 05:28:09| successful collected, cycle 94 on 45% | quantity dust is 367,029 
+2025-03-08 06:24:50| successful collected, cycle 95 on 94% | quantity dust is 623,385 
+2025-03-08 07:11:20| successful collected, cycle 96 on 77% | quantity dust is 833,595 
+2025-03-08 08:05:55| successful collected, cycle 97 on 91% | quantity dust is 1,080,416 
+2025-03-08 08:59:25| successful collected, cycle 98 on 89% | quantity dust is 1,322,335 
+2025-03-08 09:53:05| successful collected, cycle 99 on 89% | quantity dust is 1,565,047 
+2025-03-08 10:39:42| successful collected, cycle 100 on 78% | quantity dust is 1,775,733 
+2025-03-08 11:28:25| successful collected, cycle 101 on 81% | quantity dust is 1,996,033 
+2025-03-08 12:15:47| successful collected, cycle 102 on 79% | quantity dust is 2,210,079 
+2025-03-08 13:05:51| successful collected, cycle 103 on 83% | quantity dust is 2,436,367 
+2025-03-08 13:55:14| successful collected, cycle 104 on 82% | quantity dust is 2,659,576 
+2025-03-08 14:46:02| successful collected, cycle 105 on 85% | quantity dust is 2,889,166 
+2025-03-08 15:29:20| successful collected, cycle 106 on 72% | quantity dust is 3,084,848 
+2025-03-08 16:18:46| successful collected, cycle 107 on 82% | quantity dust is 3,308,225 
+2025-03-08 17:02:56| successful collected, cycle 108 on 74% | quantity dust is 3,507,782 
+2025-03-08 17:48:35| successful collected, cycle 109 on 41% | quantity dust is 119,993 
+2025-03-08 18:33:57| successful collected, cycle 110 on 76% | quantity dust is 326,228 
+2025-03-08 19:20:32| successful collected, cycle 111 on 77% | quantity dust is 537,356 
+2025-03-08 20:08:25| successful collected, cycle 112 on 80% | quantity dust is 755,280 
+2025-03-08 21:04:32| successful collected, cycle 113 on 94% | quantity dust is 1,010,133 
+2025-03-08 21:49:34| successful collected, cycle 114 on 75% | quantity dust is 1,214,645 
+2025-03-08 22:37:45| fail: NoSuchElementException, cycle 115 | quantity dust is not defined
+2025-03-08 22:38:44| fail: NoSuchElementException, cycle 116 | quantity dust is not defined
+2025-03-08 22:39:50| successful collected, cycle 117 on 84% | quantity dust is 1,442,897 
+2025-03-08 23:35:39| successful collected, cycle 118 on 93% | quantity dust is 1,696,167 
+2025-03-09 00:20:49| successful collected, cycle 119 on 74% | quantity dust is 210,350 
+2025-03-09 01:16:11| successful collected, cycle 120 on 92% | quantity dust is 462,475 
+2025-03-09 02:13:12| successful collected, cycle 121 on 69% | quantity dust is 721,875 
+2025-03-09 03:08:00| successful collected, cycle 122 on 91% | quantity dust is 971,310 
+2025-03-09 04:01:22| successful collected, cycle 123 on 89% | quantity dust is 1,214,064 
+2025-03-09 04:45:16| successful collected, cycle 124 on 73% | quantity dust is 1,413,806 
+2025-03-09 05:39:24| successful collected, cycle 125 on 90% | quantity dust is 1,660,151 
+2025-03-09 06:36:30| successful collected, cycle 126 on 84% | quantity dust is 235,224 
+2025-03-09 07:27:48| fail: NoSuchElementException, cycle 127 | quantity dust is not defined
+2025-03-09 07:28:50| fail: NoSuchElementException, cycle 128 | quantity dust is not defined
+2025-03-09 07:29:51| fail: NoSuchElementException, cycle 129 | quantity dust is not defined
+2025-03-09 07:30:52| fail: NoSuchElementException, cycle 130 | quantity dust is not defined
+2025-03-09 07:31:58| fail: NoSuchElementException, cycle 131 | quantity dust is not defined
+2025-03-09 07:33:04| fail: NoSuchElementException, cycle 132 | quantity dust is not defined
+2025-03-09 07:34:07| fail: NoSuchElementException, cycle 133 | quantity dust is not defined
+2025-03-09 07:35:08| fail: NoSuchElementException, cycle 134 | quantity dust is not defined
+2025-03-09 07:36:11| fail: NoSuchElementException, cycle 135 | quantity dust is not defined
+2025-03-09 07:37:13| fail: NoSuchElementException, cycle 136 | quantity dust is not defined
+2025-03-09 07:38:14| fail: NoSuchElementException, cycle 137 | quantity dust is not defined
+2025-03-09 07:39:11| fail: NoSuchElementException, cycle 138 | quantity dust is not defined
+2025-03-09 07:40:12| fail: NoSuchElementException, cycle 139 | quantity dust is not defined
+2025-03-09 07:41:29| fail: NoSuchElementException, cycle 140 | quantity dust is not defined
+2025-03-09 07:42:35| fail: NoSuchElementException, cycle 141 | quantity dust is not defined
+2025-03-09 07:43:42| fail: NoSuchElementException, cycle 142 | quantity dust is not defined
+2025-03-09 07:44:50| fail: NoSuchElementException, cycle 143 | quantity dust is not defined
+2025-03-09 07:46:04| fail: NoSuchElementException, cycle 144 | quantity dust is not defined
+2025-03-09 07:46:59| fail: NoSuchElementException, cycle 145 | quantity dust is not defined
+2025-03-09 07:48:00| fail: NoSuchElementException, cycle 146 | quantity dust is not defined
+2025-03-09 07:49:06| fail: NoSuchElementException, cycle 147 | quantity dust is not defined
+2025-03-09 07:50:09| fail: NoSuchElementException, cycle 148 | quantity dust is not defined
+2025-03-09 07:51:22| fail: NoSuchElementException, cycle 149 | quantity dust is not defined
+2025-03-09 07:52:39| fail: NoSuchElementException, cycle 150 | quantity dust is not defined
+2025-03-09 07:53:51| fail: NoSuchElementException, cycle 151 | quantity dust is not defined
+2025-03-09 07:54:52| fail: NoSuchElementException, cycle 152 | quantity dust is not defined
+2025-03-09 07:55:55| fail: NoSuchElementException, cycle 153 | quantity dust is not defined
+2025-03-09 07:57:07| fail: NoSuchElementException, cycle 154 | quantity dust is not defined
+2025-03-09 07:58:20| fail: NoSuchElementException, cycle 155 | quantity dust is not defined
+2025-03-09 07:59:34| fail: NoSuchElementException, cycle 156 | quantity dust is not defined
+2025-03-09 08:00:40| fail: NoSuchElementException, cycle 157 | quantity dust is not defined
+2025-03-09 08:01:50| fail: NoSuchElementException, cycle 158 | quantity dust is not defined
+2025-03-09 08:03:01| fail: NoSuchElementException, cycle 159 | quantity dust is not defined
+2025-03-09 08:04:07| fail: NoSuchElementException, cycle 160 | quantity dust is not defined
+2025-03-09 08:05:29| fail: NoSuchElementException, cycle 161 | quantity dust is not defined
+2025-03-09 08:06:30| fail: NoSuchElementException, cycle 162 | quantity dust is not defined
+2025-03-09 08:07:32| fail: NoSuchElementException, cycle 163 | quantity dust is not defined
+2025-03-09 08:08:44| fail: NoSuchElementException, cycle 164 | quantity dust is not defined
+2025-03-09 08:10:02| fail: NoSuchElementException, cycle 165 | quantity dust is not defined
+2025-03-09 08:11:14| fail: NoSuchElementException, cycle 166 | quantity dust is not defined
+2025-03-09 08:12:17| fail: NoSuchElementException, cycle 167 | quantity dust is not defined
+2025-03-09 08:13:31| fail: NoSuchElementException, cycle 168 | quantity dust is not defined
+2025-03-09 08:14:32| fail: NoSuchElementException, cycle 169 | quantity dust is not defined
+2025-03-09 08:15:46| fail: NoSuchElementException, cycle 170 | quantity dust is not defined
+2025-03-09 08:16:48| fail: NoSuchElementException, cycle 171 | quantity dust is not defined
+2025-03-09 08:18:00| fail: NoSuchElementException, cycle 172 | quantity dust is not defined
+2025-03-09 08:19:15| fail: NoSuchElementException, cycle 173 | quantity dust is not defined
+2025-03-09 08:20:16| fail: NoSuchElementException, cycle 174 | quantity dust is not defined
+2025-03-09 08:21:27| fail: NoSuchElementException, cycle 175 | quantity dust is not defined
+2025-03-09 08:22:29| fail: NoSuchElementException, cycle 176 | quantity dust is not defined
+2025-03-09 08:23:10| fail: NoSuchElementException, cycle 177 | quantity dust is not defined
+2025-03-09 08:23:51| fail: NoSuchElementException, cycle 178 | quantity dust is not defined
+2025-03-09 08:24:32| fail: NoSuchElementException, cycle 179 | quantity dust is not defined
+2025-03-09 08:25:12| fail: NoSuchElementException, cycle 180 | quantity dust is not defined
+2025-03-09 08:25:52| fail: NoSuchElementException, cycle 181 | quantity dust is not defined
+2025-03-09 08:26:33| fail: NoSuchElementException, cycle 182 | quantity dust is not defined
+2025-03-09 08:27:13| fail: NoSuchElementException, cycle 183 | quantity dust is not defined
+2025-03-09 08:27:53| fail: NoSuchElementException, cycle 184 | quantity dust is not defined
+2025-03-09 08:28:33| fail: NoSuchElementException, cycle 185 | quantity dust is not defined
+2025-03-09 08:29:14| fail: NoSuchElementException, cycle 186 | quantity dust is not defined
+2025-03-09 08:29:55| fail: NoSuchElementException, cycle 187 | quantity dust is not defined
+2025-03-09 08:30:36| fail: NoSuchElementException, cycle 188 | quantity dust is not defined
+2025-03-09 08:31:17| fail: NoSuchElementException, cycle 189 | quantity dust is not defined
+2025-03-09 08:31:57| fail: NoSuchElementException, cycle 190 | quantity dust is not defined
+2025-03-09 08:32:37| fail: NoSuchElementException, cycle 191 | quantity dust is not defined
+2025-03-09 08:33:17| fail: NoSuchElementException, cycle 192 | quantity dust is not defined
+2025-03-09 08:33:57| fail: NoSuchElementException, cycle 193 | quantity dust is not defined
+2025-03-09 08:34:38| fail: NoSuchElementException, cycle 194 | quantity dust is not defined
+2025-03-09 08:35:18| fail: NoSuchElementException, cycle 195 | quantity dust is not defined
+2025-03-09 08:36:00| fail: NoSuchElementException, cycle 196 | quantity dust is not defined
+2025-03-09 08:36:41| fail: NoSuchElementException, cycle 197 | quantity dust is not defined
+2025-03-09 08:37:22| fail: NoSuchElementException, cycle 198 | quantity dust is not defined
+2025-03-09 08:38:04| fail: NoSuchElementException, cycle 199 | quantity dust is not defined
+2025-03-09 08:38:44| fail: NoSuchElementException, cycle 200 | quantity dust is not defined
+2025-03-09 08:39:24| fail: NoSuchElementException, cycle 201 | quantity dust is not defined
+2025-03-09 08:40:05| fail: NoSuchElementException, cycle 202 | quantity dust is not defined
+2025-03-09 08:40:45| fail: NoSuchElementException, cycle 203 | quantity dust is not defined
+2025-03-09 08:41:25| fail: NoSuchElementException, cycle 204 | quantity dust is not defined
+2025-03-09 08:42:05| fail: NoSuchElementException, cycle 205 | quantity dust is not defined
+2025-03-09 08:42:45| fail: NoSuchElementException, cycle 206 | quantity dust is not defined
+2025-03-09 08:43:26| fail: NoSuchElementException, cycle 207 | quantity dust is not defined
+2025-03-09 08:44:07| fail: NoSuchElementException, cycle 208 | quantity dust is not defined
+2025-03-09 08:44:49| fail: NoSuchElementException, cycle 209 | quantity dust is not defined
+2025-03-09 08:45:29| fail: NoSuchElementException, cycle 210 | quantity dust is not defined
+2025-03-09 08:46:09| fail: NoSuchElementException, cycle 211 | quantity dust is not defined
+2025-03-09 08:46:51| fail: NoSuchElementException, cycle 212 | quantity dust is not defined
+2025-03-09 08:47:31| fail: NoSuchElementException, cycle 213 | quantity dust is not defined
+2025-03-09 08:48:11| fail: NoSuchElementException, cycle 214 | quantity dust is not defined
+2025-03-09 08:48:52| fail: NoSuchElementException, cycle 215 | quantity dust is not defined
+2025-03-09 08:49:32| fail: NoSuchElementException, cycle 216 | quantity dust is not defined
+2025-03-09 08:50:12| fail: NoSuchElementException, cycle 217 | quantity dust is not defined
+2025-03-09 08:50:53| fail: NoSuchElementException, cycle 218 | quantity dust is not defined
+2025-03-09 08:51:34| fail: NoSuchElementException, cycle 219 | quantity dust is not defined
+2025-03-09 08:52:15| fail: NoSuchElementException, cycle 220 | quantity dust is not defined
+2025-03-09 08:52:56| fail: NoSuchElementException, cycle 221 | quantity dust is not defined
+2025-03-09 08:53:36| fail: NoSuchElementException, cycle 222 | quantity dust is not defined
+2025-03-09 08:54:16| fail: NoSuchElementException, cycle 223 | quantity dust is not defined
+2025-03-09 08:54:56| fail: NoSuchElementException, cycle 224 | quantity dust is not defined
+2025-03-09 08:55:39| fail: NoSuchElementException, cycle 225 | quantity dust is not defined
+2025-03-09 08:56:19| fail: NoSuchElementException, cycle 226 | quantity dust is not defined
+2025-03-09 08:56:59| fail: NoSuchElementException, cycle 227 | quantity dust is not defined
+2025-03-09 08:57:40| fail: NoSuchElementException, cycle 228 | quantity dust is not defined
+2025-03-09 08:58:21| fail: NoSuchElementException, cycle 229 | quantity dust is not defined
+2025-03-09 08:59:02| fail: NoSuchElementException, cycle 230 | quantity dust is not defined
+2025-03-09 08:59:42| fail: NoSuchElementException, cycle 231 | quantity dust is not defined
+2025-03-09 09:00:22| fail: NoSuchElementException, cycle 232 | quantity dust is not defined
+2025-03-09 09:01:03| fail: NoSuchElementException, cycle 233 | quantity dust is not defined
+2025-03-09 09:01:43| fail: NoSuchElementException, cycle 234 | quantity dust is not defined
+2025-03-09 09:02:23| fail: NoSuchElementException, cycle 235 | quantity dust is not defined
+2025-03-09 09:03:04| fail: NoSuchElementException, cycle 236 | quantity dust is not defined
+2025-03-09 09:03:44| fail: NoSuchElementException, cycle 237 | quantity dust is not defined
+2025-03-09 09:04:26| fail: NoSuchElementException, cycle 238 | quantity dust is not defined
+2025-03-09 09:05:07| fail: NoSuchElementException, cycle 239 | quantity dust is not defined
+2025-03-09 09:05:48| fail: NoSuchElementException, cycle 240 | quantity dust is not defined
+2025-03-09 09:06:28| fail: NoSuchElementException, cycle 241 | quantity dust is not defined
+2025-03-09 09:07:08| fail: NoSuchElementException, cycle 242 | quantity dust is not defined
+2025-03-09 09:07:49| fail: NoSuchElementException, cycle 243 | quantity dust is not defined
+2025-03-09 09:08:29| fail: NoSuchElementException, cycle 244 | quantity dust is not defined
+2025-03-09 09:09:09| fail: NoSuchElementException, cycle 245 | quantity dust is not defined
+2025-03-09 09:09:49| fail: NoSuchElementException, cycle 246 | quantity dust is not defined
+2025-03-09 09:10:29| fail: NoSuchElementException, cycle 247 | quantity dust is not defined
+2025-03-09 09:11:11| fail: NoSuchElementException, cycle 248 | quantity dust is not defined
+2025-03-09 09:11:52| fail: NoSuchElementException, cycle 249 | quantity dust is not defined
+2025-03-09 09:12:34| fail: NoSuchElementException, cycle 250 | quantity dust is not defined
+2025-03-09 09:13:14| fail: NoSuchElementException, cycle 251 | quantity dust is not defined
+2025-03-09 09:13:54| fail: NoSuchElementException, cycle 252 | quantity dust is not defined
+2025-03-09 09:14:34| fail: NoSuchElementException, cycle 253 | quantity dust is not defined
+2025-03-09 09:15:14| fail: NoSuchElementException, cycle 254 | quantity dust is not defined
+2025-03-09 09:15:54| fail: NoSuchElementException, cycle 255 | quantity dust is not defined
+2025-03-09 09:16:34| fail: NoSuchElementException, cycle 256 | quantity dust is not defined
+2025-03-09 09:17:15| fail: NoSuchElementException, cycle 257 | quantity dust is not defined
+2025-03-09 09:17:55| fail: NoSuchElementException, cycle 258 | quantity dust is not defined
+2025-03-09 09:18:36| fail: NoSuchElementException, cycle 259 | quantity dust is not defined
+2025-03-09 09:19:18| fail: NoSuchElementException, cycle 260 | quantity dust is not defined
+2025-03-09 09:19:58| fail: NoSuchElementException, cycle 261 | quantity dust is not defined
+2025-03-09 09:20:39| fail: NoSuchElementException, cycle 262 | quantity dust is not defined
+2025-03-09 09:21:19| fail: NoSuchElementException, cycle 263 | quantity dust is not defined
+2025-03-09 09:21:59| fail: NoSuchElementException, cycle 264 | quantity dust is not defined
+2025-03-09 09:22:40| fail: NoSuchElementException, cycle 265 | quantity dust is not defined
+2025-03-09 09:23:20| fail: NoSuchElementException, cycle 266 | quantity dust is not defined
+2025-03-09 09:24:01| fail: NoSuchElementException, cycle 267 | quantity dust is not defined
+2025-03-09 09:24:42| fail: NoSuchElementException, cycle 268 | quantity dust is not defined
+2025-03-09 09:25:23| fail: NoSuchElementException, cycle 269 | quantity dust is not defined
+2025-03-09 09:26:04| fail: NoSuchElementException, cycle 270 | quantity dust is not defined
+2025-03-09 09:26:44| fail: NoSuchElementException, cycle 271 | quantity dust is not defined
+2025-03-09 09:27:25| fail: NoSuchElementException, cycle 272 | quantity dust is not defined
+2025-03-09 09:28:05| fail: NoSuchElementException, cycle 273 | quantity dust is not defined
+2025-03-09 09:28:45| fail: NoSuchElementException, cycle 274 | quantity dust is not defined
+2025-03-09 09:29:26| fail: NoSuchElementException, cycle 275 | quantity dust is not defined
+2025-03-09 09:30:06| fail: NoSuchElementException, cycle 276 | quantity dust is not defined
+2025-03-09 09:30:47| fail: NoSuchElementException, cycle 277 | quantity dust is not defined
+2025-03-09 09:31:29| fail: NoSuchElementException, cycle 278 | quantity dust is not defined
+2025-03-09 09:32:10| fail: NoSuchElementException, cycle 279 | quantity dust is not defined
+2025-03-09 09:32:50| fail: NoSuchElementException, cycle 280 | quantity dust is not defined
+2025-03-09 09:33:30| fail: NoSuchElementException, cycle 281 | quantity dust is not defined
+2025-03-09 09:34:12| fail: NoSuchElementException, cycle 282 | quantity dust is not defined
+2025-03-09 09:34:52| fail: NoSuchElementException, cycle 283 | quantity dust is not defined
+2025-03-09 09:35:32| fail: NoSuchElementException, cycle 284 | quantity dust is not defined
+2025-03-09 09:36:12| fail: NoSuchElementException, cycle 285 | quantity dust is not defined
+2025-03-09 09:36:52| fail: NoSuchElementException, cycle 286 | quantity dust is not defined
+2025-03-09 09:37:33| fail: NoSuchElementException, cycle 287 | quantity dust is not defined
+2025-03-09 09:38:15| fail: NoSuchElementException, cycle 288 | quantity dust is not defined
+2025-03-09 09:38:56| fail: NoSuchElementException, cycle 289 | quantity dust is not defined
+2025-03-09 09:39:36| fail: NoSuchElementException, cycle 290 | quantity dust is not defined
+2025-03-09 09:40:16| fail: NoSuchElementException, cycle 291 | quantity dust is not defined
+2025-03-09 09:40:56| fail: NoSuchElementException, cycle 292 | quantity dust is not defined
+2025-03-09 09:41:36| fail: NoSuchElementException, cycle 293 | quantity dust is not defined
+2025-03-09 09:42:16| fail: NoSuchElementException, cycle 294 | quantity dust is not defined
+2025-03-09 09:42:57| fail: NoSuchElementException, cycle 295 | quantity dust is not defined
+2025-03-09 09:43:37| fail: NoSuchElementException, cycle 296 | quantity dust is not defined
+2025-03-09 09:44:18| fail: NoSuchElementException, cycle 297 | quantity dust is not defined
+2025-03-09 09:44:59| fail: NoSuchElementException, cycle 298 | quantity dust is not defined
+2025-03-09 09:45:40| fail: NoSuchElementException, cycle 299 | quantity dust is not defined
+2025-03-09 09:46:21| fail: NoSuchElementException, cycle 300 | quantity dust is not defined
+2025-03-09 09:47:01| fail: NoSuchElementException, cycle 301 | quantity dust is not defined
+2025-03-09 09:47:41| fail: NoSuchElementException, cycle 302 | quantity dust is not defined
+2025-03-09 09:48:23| fail: NoSuchElementException, cycle 303 | quantity dust is not defined
+2025-03-09 09:49:03| fail: NoSuchElementException, cycle 304 | quantity dust is not defined
+2025-03-09 09:49:43| fail: NoSuchElementException, cycle 305 | quantity dust is not defined
+2025-03-09 09:50:23| fail: NoSuchElementException, cycle 306 | quantity dust is not defined
+2025-03-09 09:51:03| fail: NoSuchElementException, cycle 307 | quantity dust is not defined
+2025-03-09 09:51:44| fail: NoSuchElementException, cycle 308 | quantity dust is not defined
+2025-03-09 09:52:25| fail: NoSuchElementException, cycle 309 | quantity dust is not defined
+2025-03-09 09:53:06| fail: NoSuchElementException, cycle 310 | quantity dust is not defined
+2025-03-09 09:53:46| fail: NoSuchElementException, cycle 311 | quantity dust is not defined
+2025-03-09 09:54:26| fail: NoSuchElementException, cycle 312 | quantity dust is not defined
+2025-03-09 09:55:07| fail: NoSuchElementException, cycle 313 | quantity dust is not defined
+2025-03-09 09:55:47| fail: NoSuchElementException, cycle 314 | quantity dust is not defined
+2025-03-09 09:56:27| fail: NoSuchElementException, cycle 315 | quantity dust is not defined
+2025-03-09 09:57:07| fail: NoSuchElementException, cycle 316 | quantity dust is not defined
+2025-03-09 09:57:47| fail: NoSuchElementException, cycle 317 | quantity dust is not defined
+2025-03-09 09:58:29| fail: NoSuchElementException, cycle 318 | quantity dust is not defined
+2025-03-09 09:59:10| fail: NoSuchElementException, cycle 319 | quantity dust is not defined
+2025-03-09 09:59:51| fail: NoSuchElementException, cycle 320 | quantity dust is not defined
+2025-03-09 10:00:32| fail: NoSuchElementException, cycle 321 | quantity dust is not defined
+2025-03-09 10:01:12| fail: NoSuchElementException, cycle 322 | quantity dust is not defined
+2025-03-09 10:01:52| fail: NoSuchElementException, cycle 323 | quantity dust is not defined
+2025-03-09 10:02:32| fail: NoSuchElementException, cycle 324 | quantity dust is not defined
+2025-03-09 10:03:12| fail: NoSuchElementException, cycle 325 | quantity dust is not defined
+2025-03-09 10:03:53| fail: NoSuchElementException, cycle 326 | quantity dust is not defined
+2025-03-09 10:04:33| fail: NoSuchElementException, cycle 327 | quantity dust is not defined
+2025-03-09 10:05:14| fail: NoSuchElementException, cycle 328 | quantity dust is not defined
+2025-03-09 10:05:56| fail: NoSuchElementException, cycle 329 | quantity dust is not defined
+2025-03-09 10:06:37| fail: NoSuchElementException, cycle 330 | quantity dust is not defined
+2025-03-09 10:07:17| fail: NoSuchElementException, cycle 331 | quantity dust is not defined
+2025-03-09 10:07:57| fail: NoSuchElementException, cycle 332 | quantity dust is not defined
+2025-03-09 10:08:37| fail: NoSuchElementException, cycle 333 | quantity dust is not defined
+2025-03-09 10:09:17| fail: NoSuchElementException, cycle 334 | quantity dust is not defined
+2025-03-09 10:09:58| fail: NoSuchElementException, cycle 335 | quantity dust is not defined
+2025-03-09 10:10:38| fail: NoSuchElementException, cycle 336 | quantity dust is not defined
+2025-03-09 10:11:18| fail: NoSuchElementException, cycle 337 | quantity dust is not defined
+2025-03-09 10:11:58| fail: NoSuchElementException, cycle 338 | quantity dust is not defined
+2025-03-09 10:12:39| fail: NoSuchElementException, cycle 339 | quantity dust is not defined
+2025-03-09 10:13:20| fail: NoSuchElementException, cycle 340 | quantity dust is not defined
+2025-03-09 10:14:01| fail: NoSuchElementException, cycle 341 | quantity dust is not defined
+2025-03-09 10:14:41| fail: NoSuchElementException, cycle 342 | quantity dust is not defined
+2025-03-09 10:15:21| fail: NoSuchElementException, cycle 343 | quantity dust is not defined
+2025-03-09 10:16:02| fail: NoSuchElementException, cycle 344 | quantity dust is not defined
+2025-03-09 10:16:42| fail: NoSuchElementException, cycle 345 | quantity dust is not defined
+2025-03-09 10:17:22| fail: NoSuchElementException, cycle 346 | quantity dust is not defined
+2025-03-09 10:18:04| fail: NoSuchElementException, cycle 347 | quantity dust is not defined
+2025-03-09 10:18:44| fail: NoSuchElementException, cycle 348 | quantity dust is not defined
+2025-03-09 10:19:25| fail: NoSuchElementException, cycle 349 | quantity dust is not defined
+2025-03-09 10:20:06| fail: NoSuchElementException, cycle 350 | quantity dust is not defined
+2025-03-09 10:20:47| fail: NoSuchElementException, cycle 351 | quantity dust is not defined
+2025-03-09 10:21:28| fail: NoSuchElementException, cycle 352 | quantity dust is not defined
+2025-03-09 10:22:08| fail: NoSuchElementException, cycle 353 | quantity dust is not defined
+2025-03-09 10:22:48| fail: NoSuchElementException, cycle 354 | quantity dust is not defined
+2025-03-09 10:23:28| fail: NoSuchElementException, cycle 355 | quantity dust is not defined
+2025-03-09 10:24:08| fail: NoSuchElementException, cycle 356 | quantity dust is not defined
+2025-03-09 10:24:49| fail: NoSuchElementException, cycle 357 | quantity dust is not defined
+2025-03-09 10:25:29| fail: NoSuchElementException, cycle 358 | quantity dust is not defined
+2025-03-09 10:26:10| fail: NoSuchElementException, cycle 359 | quantity dust is not defined
+2025-03-09 10:26:52| fail: NoSuchElementException, cycle 360 | quantity dust is not defined
+2025-03-09 10:27:32| fail: NoSuchElementException, cycle 361 | quantity dust is not defined
+2025-03-09 10:28:13| fail: NoSuchElementException, cycle 362 | quantity dust is not defined
+2025-03-09 10:28:53| fail: NoSuchElementException, cycle 363 | quantity dust is not defined
+2025-03-09 10:29:33| fail: NoSuchElementException, cycle 364 | quantity dust is not defined
+2025-03-09 10:30:13| fail: NoSuchElementException, cycle 365 | quantity dust is not defined
+2025-03-09 10:30:53| fail: NoSuchElementException, cycle 366 | quantity dust is not defined
+2025-03-09 10:31:33| fail: NoSuchElementException, cycle 367 | quantity dust is not defined
+2025-03-09 10:32:13| fail: NoSuchElementException, cycle 368 | quantity dust is not defined
+2025-03-09 10:32:53| fail: NoSuchElementException, cycle 369 | quantity dust is not defined
+2025-03-09 10:33:36| fail: NoSuchElementException, cycle 370 | quantity dust is not defined
+2025-03-09 10:34:17| fail: NoSuchElementException, cycle 371 | quantity dust is not defined
+2025-03-09 10:34:58| fail: NoSuchElementException, cycle 372 | quantity dust is not defined
+2025-03-09 10:35:38| fail: NoSuchElementException, cycle 373 | quantity dust is not defined
+2025-03-09 10:36:18| fail: NoSuchElementException, cycle 374 | quantity dust is not defined
+2025-03-09 10:36:58| fail: NoSuchElementException, cycle 375 | quantity dust is not defined
+2025-03-09 10:37:38| fail: NoSuchElementException, cycle 376 | quantity dust is not defined
+2025-03-09 10:38:18| fail: NoSuchElementException, cycle 377 | quantity dust is not defined
+2025-03-09 10:38:58| fail: NoSuchElementException, cycle 378 | quantity dust is not defined
+2025-03-09 10:39:38| fail: NoSuchElementException, cycle 379 | quantity dust is not defined
+2025-03-09 10:40:18| fail: NoSuchElementException, cycle 380 | quantity dust is not defined
+2025-03-09 10:41:00| fail: NoSuchElementException, cycle 381 | quantity dust is not defined
+2025-03-09 10:41:40| fail: NoSuchElementException, cycle 382 | quantity dust is not defined
+2025-03-09 10:42:23| fail: NoSuchElementException, cycle 383 | quantity dust is not defined
+2025-03-09 10:43:03| fail: NoSuchElementException, cycle 384 | quantity dust is not defined
+2025-03-09 10:43:43| fail: NoSuchElementException, cycle 385 | quantity dust is not defined
+2025-03-09 10:44:25| fail: NoSuchElementException, cycle 386 | quantity dust is not defined
+2025-03-09 10:45:05| fail: NoSuchElementException, cycle 387 | quantity dust is not defined
+2025-03-09 10:45:45| fail: NoSuchElementException, cycle 388 | quantity dust is not defined
+2025-03-09 10:46:25| fail: NoSuchElementException, cycle 389 | quantity dust is not defined
+2025-03-09 10:47:05| fail: NoSuchElementException, cycle 390 | quantity dust is not defined
+2025-03-09 10:47:46| fail: NoSuchElementException, cycle 391 | quantity dust is not defined
+2025-03-09 10:48:27| fail: NoSuchElementException, cycle 392 | quantity dust is not defined
+2025-03-09 10:49:09| fail: NoSuchElementException, cycle 393 | quantity dust is not defined
+2025-03-09 10:49:49| fail: NoSuchElementException, cycle 394 | quantity dust is not defined
+2025-03-09 10:50:29| fail: NoSuchElementException, cycle 395 | quantity dust is not defined
+2025-03-09 10:51:09| fail: NoSuchElementException, cycle 396 | quantity dust is not defined
+2025-03-09 10:51:50| fail: NoSuchElementException, cycle 397 | quantity dust is not defined
+2025-03-09 10:52:30| fail: NoSuchElementException, cycle 398 | quantity dust is not defined
+2025-03-09 10:53:11| fail: NoSuchElementException, cycle 399 | quantity dust is not defined
+2025-03-09 10:53:51| fail: NoSuchElementException, cycle 400 | quantity dust is not defined
+2025-03-09 10:54:32| fail: NoSuchElementException, cycle 401 | quantity dust is not defined
+2025-03-09 10:55:14| fail: NoSuchElementException, cycle 402 | quantity dust is not defined
+2025-03-09 10:55:55| fail: NoSuchElementException, cycle 403 | quantity dust is not defined
+2025-03-09 10:56:35| fail: NoSuchElementException, cycle 404 | quantity dust is not defined
+2025-03-09 10:57:16| fail: NoSuchElementException, cycle 405 | quantity dust is not defined
+2025-03-09 10:57:56| fail: NoSuchElementException, cycle 406 | quantity dust is not defined
+2025-03-09 10:58:36| fail: NoSuchElementException, cycle 407 | quantity dust is not defined
+2025-03-09 10:59:16| fail: NoSuchElementException, cycle 408 | quantity dust is not defined
+2025-03-09 10:59:57| fail: NoSuchElementException, cycle 409 | quantity dust is not defined
+2025-03-09 11:00:37| fail: NoSuchElementException, cycle 410 | quantity dust is not defined
+2025-03-09 11:01:18| fail: NoSuchElementException, cycle 411 | quantity dust is not defined
+2025-03-09 11:01:59| fail: NoSuchElementException, cycle 412 | quantity dust is not defined
+2025-03-09 11:02:40| fail: NoSuchElementException, cycle 413 | quantity dust is not defined
+2025-03-09 11:03:21| fail: NoSuchElementException, cycle 414 | quantity dust is not defined
+2025-03-09 11:04:01| fail: NoSuchElementException, cycle 415 | quantity dust is not defined
+2025-03-09 11:04:41| fail: NoSuchElementException, cycle 416 | quantity dust is not defined
+2025-03-09 11:05:21| fail: NoSuchElementException, cycle 417 | quantity dust is not defined
+2025-03-09 11:06:01| fail: NoSuchElementException, cycle 418 | quantity dust is not defined
+2025-03-09 11:06:41| fail: NoSuchElementException, cycle 419 | quantity dust is not defined
+2025-03-09 11:07:21| fail: NoSuchElementException, cycle 420 | quantity dust is not defined
+2025-03-09 11:08:02| fail: NoSuchElementException, cycle 421 | quantity dust is not defined
+2025-03-09 11:08:44| fail: NoSuchElementException, cycle 422 | quantity dust is not defined
+2025-03-09 11:09:26| fail: NoSuchElementException, cycle 423 | quantity dust is not defined
+2025-03-09 11:10:06| fail: NoSuchElementException, cycle 424 | quantity dust is not defined
+2025-03-09 11:10:46| fail: NoSuchElementException, cycle 425 | quantity dust is not defined
+2025-03-09 11:11:26| fail: NoSuchElementException, cycle 426 | quantity dust is not defined
+2025-03-09 11:12:06| fail: NoSuchElementException, cycle 427 | quantity dust is not defined
+2025-03-09 11:12:46| fail: NoSuchElementException, cycle 428 | quantity dust is not defined
+2025-03-09 11:13:26| fail: NoSuchElementException, cycle 429 | quantity dust is not defined
+2025-03-09 11:14:07| fail: NoSuchElementException, cycle 430 | quantity dust is not defined
+2025-03-09 11:14:47| fail: NoSuchElementException, cycle 431 | quantity dust is not defined
+2025-03-09 11:15:28| fail: NoSuchElementException, cycle 432 | quantity dust is not defined
+2025-03-09 11:16:09| fail: NoSuchElementException, cycle 433 | quantity dust is not defined
+2025-03-09 11:16:50| fail: NoSuchElementException, cycle 434 | quantity dust is not defined
+2025-03-09 11:17:30| fail: NoSuchElementException, cycle 435 | quantity dust is not defined
+2025-03-09 11:18:10| fail: NoSuchElementException, cycle 436 | quantity dust is not defined
+2025-03-09 11:18:50| fail: NoSuchElementException, cycle 437 | quantity dust is not defined
+2025-03-09 11:19:31| fail: NoSuchElementException, cycle 438 | quantity dust is not defined
+2025-03-09 11:20:11| fail: NoSuchElementException, cycle 439 | quantity dust is not defined
+2025-03-09 11:20:52| fail: NoSuchElementException, cycle 440 | quantity dust is not defined
+2025-03-09 11:21:32| fail: NoSuchElementException, cycle 441 | quantity dust is not defined
+2025-03-09 11:22:13| fail: NoSuchElementException, cycle 442 | quantity dust is not defined
+2025-03-09 11:22:54| fail: NoSuchElementException, cycle 443 | quantity dust is not defined
+2025-03-09 11:23:35| fail: NoSuchElementException, cycle 444 | quantity dust is not defined
+2025-03-09 11:24:15| fail: NoSuchElementException, cycle 445 | quantity dust is not defined
+2025-03-09 11:24:55| fail: NoSuchElementException, cycle 446 | quantity dust is not defined
+2025-03-09 11:25:36| fail: NoSuchElementException, cycle 447 | quantity dust is not defined
+2025-03-09 11:26:18| fail: NoSuchElementException, cycle 448 | quantity dust is not defined
+2025-03-09 11:26:58| fail: NoSuchElementException, cycle 449 | quantity dust is not defined
+2025-03-09 11:27:38| fail: NoSuchElementException, cycle 450 | quantity dust is not defined
+2025-03-09 11:28:18| fail: NoSuchElementException, cycle 451 | quantity dust is not defined
+2025-03-09 11:28:59| fail: NoSuchElementException, cycle 452 | quantity dust is not defined
+2025-03-09 11:29:40| fail: NoSuchElementException, cycle 453 | quantity dust is not defined
+2025-03-09 11:30:21| fail: NoSuchElementException, cycle 454 | quantity dust is not defined
+2025-03-09 11:31:01| fail: NoSuchElementException, cycle 455 | quantity dust is not defined
+2025-03-09 11:31:41| fail: NoSuchElementException, cycle 456 | quantity dust is not defined
+2025-03-09 11:32:21| fail: NoSuchElementException, cycle 457 | quantity dust is not defined
+2025-03-09 11:33:02| fail: NoSuchElementException, cycle 458 | quantity dust is not defined
+2025-03-09 11:33:42| fail: NoSuchElementException, cycle 459 | quantity dust is not defined
+2025-03-09 11:34:22| fail: NoSuchElementException, cycle 460 | quantity dust is not defined
+2025-03-09 11:35:02| fail: NoSuchElementException, cycle 461 | quantity dust is not defined
+2025-03-09 11:35:44| fail: NoSuchElementException, cycle 462 | quantity dust is not defined
+2025-03-09 11:36:25| fail: NoSuchElementException, cycle 463 | quantity dust is not defined
+2025-03-09 11:37:06| fail: NoSuchElementException, cycle 464 | quantity dust is not defined
+2025-03-09 11:37:46| fail: NoSuchElementException, cycle 465 | quantity dust is not defined
+2025-03-09 11:38:27| fail: NoSuchElementException, cycle 466 | quantity dust is not defined
+2025-03-09 11:39:08| fail: NoSuchElementException, cycle 467 | quantity dust is not defined
+2025-03-09 11:39:48| fail: NoSuchElementException, cycle 468 | quantity dust is not defined
+2025-03-09 11:40:28| fail: NoSuchElementException, cycle 469 | quantity dust is not defined
+2025-03-09 11:41:08| fail: NoSuchElementException, cycle 470 | quantity dust is not defined
+2025-03-09 11:41:48| fail: NoSuchElementException, cycle 471 | quantity dust is not defined
+2025-03-09 11:42:30| fail: NoSuchElementException, cycle 472 | quantity dust is not defined
+2025-03-09 11:43:11| fail: NoSuchElementException, cycle 473 | quantity dust is not defined
+2025-03-09 11:43:53| fail: NoSuchElementException, cycle 474 | quantity dust is not defined
+2025-03-09 11:44:33| fail: NoSuchElementException, cycle 475 | quantity dust is not defined
+2025-03-09 11:45:13| fail: NoSuchElementException, cycle 476 | quantity dust is not defined
+2025-03-09 11:45:53| fail: NoSuchElementException, cycle 477 | quantity dust is not defined
+2025-03-09 11:46:33| fail: NoSuchElementException, cycle 478 | quantity dust is not defined
+2025-03-09 11:47:14| fail: NoSuchElementException, cycle 479 | quantity dust is not defined
+2025-03-09 11:47:54| fail: NoSuchElementException, cycle 480 | quantity dust is not defined
+2025-03-09 11:48:34| fail: NoSuchElementException, cycle 481 | quantity dust is not defined
+2025-03-09 11:49:16| fail: NoSuchElementException, cycle 482 | quantity dust is not defined
+2025-03-09 11:49:58| fail: NoSuchElementException, cycle 483 | quantity dust is not defined
+2025-03-09 11:50:39| fail: NoSuchElementException, cycle 484 | quantity dust is not defined
+2025-03-09 11:51:19| fail: NoSuchElementException, cycle 485 | quantity dust is not defined
+2025-03-09 11:51:59| fail: NoSuchElementException, cycle 486 | quantity dust is not defined
+2025-03-09 11:52:40| fail: NoSuchElementException, cycle 487 | quantity dust is not defined
+2025-03-09 11:53:20| fail: NoSuchElementException, cycle 488 | quantity dust is not defined
+2025-03-09 11:54:00| fail: NoSuchElementException, cycle 489 | quantity dust is not defined
+2025-03-09 11:54:41| fail: NoSuchElementException, cycle 490 | quantity dust is not defined
+2025-03-09 11:55:21| fail: NoSuchElementException, cycle 491 | quantity dust is not defined
+2025-03-09 11:56:01| fail: NoSuchElementException, cycle 492 | quantity dust is not defined
+2025-03-09 11:56:42| fail: NoSuchElementException, cycle 493 | quantity dust is not defined
+2025-03-09 11:57:23| fail: NoSuchElementException, cycle 494 | quantity dust is not defined
+2025-03-09 11:58:04| fail: NoSuchElementException, cycle 495 | quantity dust is not defined
+2025-03-09 11:58:44| fail: NoSuchElementException, cycle 496 | quantity dust is not defined
+2025-03-09 11:59:24| fail: NoSuchElementException, cycle 497 | quantity dust is not defined
+2025-03-09 12:00:05| fail: NoSuchElementException, cycle 498 | quantity dust is not defined
+2025-03-09 12:00:45| fail: NoSuchElementException, cycle 499 | quantity dust is not defined
+2025-03-09 12:01:25| fail: NoSuchElementException, cycle 500 | quantity dust is not defined
+2025-03-09 12:01:55| VERSE IS STOPPED | quantity dust is not defined
+2025-03-09 15:54:46| VERSE IS STARTED | quantity dust is not defined
+2025-03-09 15:55:46| successful collected, cycle 1 on 14% | quantity dust is 546,806 
+2025-03-09 16:52:01| successful collected, cycle 2 on 94% | quantity dust is 803,164 
+2025-03-09 17:36:18| successful collected, cycle 3 on 74% | quantity dust is 1,004,920 
+2025-03-09 18:28:33| successful collected, cycle 4 on 25% | quantity dust is 313,893 
+2025-03-09 19:25:22| successful collected, cycle 5 on 95% | quantity dust is 572,735 
+2025-03-09 20:08:12| successful collected, cycle 6 on 72% | quantity dust is 768,399 
+2025-03-09 20:57:57| successful collected, cycle 7 on 83% | quantity dust is 995,298 
+2025-03-09 21:54:44| successful collected, cycle 8 on 87% | quantity dust is 253,655 
+2025-03-09 22:39:28| successful collected, cycle 9 on 75% | quantity dust is 465,325 
+2025-03-09 23:26:09| successful collected, cycle 10 on 78% | quantity dust is 686,294 
+2025-03-10 00:20:03| successful collected, cycle 11 on 90% | quantity dust is 941,322 
+2025-03-10 01:13:32| successful collected, cycle 12 on 81% | quantity dust is 238,254 
+2025-03-10 02:01:02| successful collected, cycle 13 on 79% | quantity dust is 463,351 
+2025-03-10 02:51:18| successful collected, cycle 14 on 84% | quantity dust is 701,537 
+2025-03-10 03:43:24| successful collected, cycle 15 on 87% | quantity dust is 948,458 
+2025-03-10 04:27:18| successful collected, cycle 16 on 73% | quantity dust is 1,156,051 
+2025-03-10 05:17:21| successful collected, cycle 17 on 77% | quantity dust is 226,590 
+2025-03-10 06:00:44| successful collected, cycle 18 on 72% | quantity dust is 432,460 
+2025-03-10 06:43:11| successful collected, cycle 19 on 71% | quantity dust is 633,960 
+2025-03-10 07:38:04| successful collected, cycle 20 on 91% | quantity dust is 894,027 
+2025-03-10 08:30:43| successful collected, cycle 21 on 88% | quantity dust is 1,144,025 
+2025-03-10 09:15:30| successful collected, cycle 22 on 75% | quantity dust is 1,356,466 
+2025-03-10 10:12:15| successful collected, cycle 23 on 95% | quantity dust is 1,625,637 
+2025-03-10 11:01:56| fail: NoSuchElementException, cycle 24 | quantity dust is not defined
+2025-03-10 11:03:05| successful collected, cycle 25 on 85% | quantity dust is 1,866,727 
+2025-03-10 11:48:04| successful collected, cycle 26 on 75% | quantity dust is 2,080,057 
+2025-03-10 12:40:37| successful collected, cycle 27 on 88% | quantity dust is 2,329,249 
+2025-03-10 13:26:46| successful collected, cycle 28 on 77% | quantity dust is 2,548,093 
+2025-03-10 14:16:04| successful collected, cycle 29 on 82% | quantity dust is 361,663 
+2025-03-10 15:05:18| successful collected, cycle 30 on 82% | quantity dust is 595,931 
+2025-03-10 16:00:24| successful collected, cycle 31 on 92% | quantity dust is 858,068 
+2025-03-10 16:56:03| successful collected, cycle 32 on 93% | quantity dust is 1,122,891 
+2025-03-10 17:38:46| successful collected, cycle 33 on 71% | quantity dust is 1,326,019 
+2025-03-10 18:25:45| successful collected, cycle 34 on 78% | quantity dust is 1,549,566 
+2025-03-10 19:14:18| successful collected, cycle 35 on 81% | quantity dust is 1,780,401 
+2025-03-10 19:57:28| successful collected, cycle 36 on 63% | quantity dust is 185,245 
+2025-03-10 20:44:54| successful collected, cycle 37 on 79% | quantity dust is 411,564 
+2025-03-10 21:33:56| successful collected, cycle 38 on 82% | quantity dust is 645,418 
+2025-03-10 22:24:23| successful collected, cycle 39 on 84% | quantity dust is 885,146 
+2025-03-10 23:19:26| successful collected, cycle 40 on 92% | quantity dust is 1,148,362 
+2025-03-11 00:13:58| fail: NoSuchElementException, cycle 41 | quantity dust is not defined
+2025-03-11 00:14:55| fail: NoSuchElementException, cycle 42 | quantity dust is not defined
+2025-03-11 00:15:54| fail: NoSuchElementException, cycle 43 | quantity dust is not defined
+2025-03-11 00:17:33| fail: NoSuchElementException, cycle 44 | quantity dust is not defined
+2025-03-11 00:18:37| successful collected, cycle 45 on 99% | quantity dust is 1,430,370 
+2025-03-11 01:15:41| fail: NoSuchElementException, cycle 46 | quantity dust is not defined
+2025-03-11 01:17:50| successful collected, cycle 47 on 99% | quantity dust is 1,712,671 
+2025-03-11 02:10:48| successful collected, cycle 48 on 88% | quantity dust is 1,964,923 
+2025-03-11 02:56:38| successful collected, cycle 49 on 76% | quantity dust is 2,173,418 
+2025-03-11 03:42:46| successful collected, cycle 50 on 77% | quantity dust is 2,393,239 
+2025-03-11 04:28:38| successful collected, cycle 51 on 76% | quantity dust is 2,611,760 
+2025-03-11 05:17:23| successful collected, cycle 52 on 61% | quantity dust is 397,519 
+2025-03-11 06:04:00| successful collected, cycle 53 on 78% | quantity dust is 620,229 
+2025-03-11 06:49:44| successful collected, cycle 54 on 76% | quantity dust is 838,937 
+2025-03-11 07:43:48| successful collected, cycle 55 on 90% | quantity dust is 1,097,375 
+2025-03-11 08:32:41| successful collected, cycle 56 on 81% | quantity dust is 1,331,102 
+2025-03-11 09:28:12| successful collected, cycle 57 on 93% | quantity dust is 1,596,351 
+2025-03-11 10:16:58| successful collected, cycle 58 on 81% | quantity dust is 1,829,408 
+2025-03-11 11:12:07| successful collected, cycle 59 on 92% | quantity dust is 2,092,950 
+2025-03-11 12:09:01| successful collected, cycle 60 on 95% | quantity dust is 2,364,809 
+2025-03-11 13:00:26| successful collected, cycle 61 on 86% | quantity dust is 2,610,533 
+2025-03-11 13:51:58| successful collected, cycle 62 on 86% | quantity dust is 2,856,637 
+2025-03-11 14:38:56| successful collected, cycle 63 on 49% | quantity dust is 145,792 
+2025-03-11 15:28:38| successful collected, cycle 64 on 82% | quantity dust is 383,550 
+2025-03-11 16:21:34| successful collected, cycle 65 on 80% | quantity dust is 231,497 
+2025-03-11 17:07:28| successful collected, cycle 66 on 76% | quantity dust is 441,677 
+2025-03-11 18:02:41| successful collected, cycle 67 on 92% | quantity dust is 706,634 
+2025-03-11 18:52:49| successful collected, cycle 68 on 32% | quantity dust is 937,246 
+2025-03-11 19:46:49| successful collected, cycle 69 on 90% | quantity dust is 1,186,312 
+2025-03-11 20:42:31| successful collected, cycle 70 on 93% | quantity dust is 1,453,444 
+2025-03-11 21:32:35| successful collected, cycle 71 on 83% | quantity dust is 1,693,672 
+2025-03-11 22:21:54| successful collected, cycle 72 on 21% | quantity dust is 62,501 
+2025-03-11 23:18:00| successful collected, cycle 73 on 94% | quantity dust is 332,270 
+2025-03-12 00:06:08| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 00:07:56| successful collected, cycle 1 on 24% | quantity dust is 73,048 
+2025-03-12 00:32:00| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 00:32:46| successful collected, cycle 1 on 41% | quantity dust is 192,623 
+2025-03-12 00:46:29| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 00:47:11| successful collected, cycle 1 on 24% | quantity dust is 261,993 
+2025-03-12 00:59:14| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 00:59:55| successful collected, cycle 1 on 21% | quantity dust is 323,510 
+2025-03-12 01:47:42| successful collected, cycle 2 on 80% | quantity dust is 543,221 
+2025-03-12 02:34:29| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 02:36:09| successful collected, cycle 1 on 30% | quantity dust is 93,832 
+2025-03-12 03:24:36| successful collected, cycle 2 on 81% | quantity dust is 327,421 
+2025-03-12 04:13:55| successful collected, cycle 3 on 28% | quantity dust is 111,822 
+2025-03-12 04:57:14| successful collected, cycle 4 on 72% | quantity dust is 320,465 
+2025-03-12 05:49:12| successful collected, cycle 5 on 87% | quantity dust is 570,764 
+2025-03-12 06:33:38| successful collected, cycle 6 on 74% | quantity dust is 784,778 
+2025-03-12 07:24:51| successful collected, cycle 7 on 85% | quantity dust is 1,031,425 
+2025-03-12 08:17:38| successful collected, cycle 8 on 88% | quantity dust is 1,285,678 
+2025-03-12 09:03:22| successful collected, cycle 9 on 76% | quantity dust is 1,505,793 
+2025-03-12 09:46:58| successful collected, cycle 10 on 72% | quantity dust is 1,715,723 
+2025-03-12 10:34:28| successful collected, cycle 11 on 79% | quantity dust is 1,944,412 
+2025-03-12 11:28:10| successful collected, cycle 12 on 90% | quantity dust is 2,203,005 
+2025-03-12 12:20:38| successful collected, cycle 13 on 87% | quantity dust is 2,455,481 
+2025-03-12 13:14:53| successful collected, cycle 14 on 52% | quantity dust is 231,603 
+2025-03-12 14:11:04| successful collected, cycle 15 on 94% | quantity dust is 503,092 
+2025-03-12 16:57:16| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 16:58:40| successful collected, cycle 1 on 78% | quantity dust is 238,936 
+2025-03-12 17:50:24| successful collected, cycle 2 on 86% | quantity dust is 489,368 
+2025-03-12 18:46:31| successful collected, cycle 3 on 94% | quantity dust is 760,651 
+2025-03-12 19:43:13| successful collected, cycle 4 on 94% | quantity dust is 1,034,548 
+2025-03-12 20:47:55| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 20:48:36| waiting: 0 sec. | successful collected, cycle 1 on 37% | quantity dust is 109,594 
+2025-03-12 20:52:16| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 20:52:55| waiting: 0 sec. | successful collected, cycle 1 on 7% | quantity dust is 130,561 
+2025-03-12 21:44:41| waiting: 3069 sec. | successful collected, cycle 2 on 86% | quantity dust is 381,096 
+2025-03-12 22:30:08| fail: NoSuchElementException, cycle 3 | quantity dust is not defined
+2025-03-12 22:31:06| fail: NoSuchElementException, cycle 4 | quantity dust is not defined
+2025-03-12 22:32:04| fail: NoSuchElementException, cycle 5 | quantity dust is not defined
+2025-03-12 22:33:03| fail: NoSuchElementException, cycle 6 | quantity dust is not defined
+2025-03-12 22:34:00| fail: NoSuchElementException, cycle 7 | quantity dust is not defined
+2025-03-12 22:34:59| fail: NoSuchElementException, cycle 8 | quantity dust is not defined
+2025-03-12 22:35:56| fail: NoSuchElementException, cycle 9 | quantity dust is not defined
+2025-03-12 22:36:54| fail: NoSuchElementException, cycle 10 | quantity dust is not defined
+2025-03-12 22:37:53| fail: NoSuchElementException, cycle 11 | quantity dust is not defined
+2025-03-12 22:38:51| fail: NoSuchElementException, cycle 12 | quantity dust is not defined
+2025-03-12 22:39:49| fail: NoSuchElementException, cycle 13 | quantity dust is not defined
+2025-03-12 22:40:46| fail: NoSuchElementException, cycle 14 | quantity dust is not defined
+2025-03-12 22:41:44| fail: NoSuchElementException, cycle 15 | quantity dust is not defined
+2025-03-12 22:42:43| fail: NoSuchElementException, cycle 16 | quantity dust is not defined
+2025-03-12 22:43:41| fail: NoSuchElementException, cycle 17 | quantity dust is not defined
+2025-03-12 22:44:21| fail: NoSuchElementException, cycle 18 | quantity dust is not defined
+2025-03-12 22:45:01| fail: NoSuchElementException, cycle 19 | quantity dust is not defined
+2025-03-12 22:45:41| fail: NoSuchElementException, cycle 20 | quantity dust is not defined
+2025-03-12 22:46:22| fail: NoSuchElementException, cycle 21 | quantity dust is not defined
+2025-03-12 22:47:02| fail: NoSuchElementException, cycle 22 | quantity dust is not defined
+2025-03-12 22:47:42| fail: NoSuchElementException, cycle 23 | quantity dust is not defined
+2025-03-12 22:48:23| fail: NoSuchElementException, cycle 24 | quantity dust is not defined
+2025-03-12 22:49:03| fail: NoSuchElementException, cycle 25 | quantity dust is not defined
+2025-03-12 22:49:43| fail: NoSuchElementException, cycle 26 | quantity dust is not defined
+2025-03-12 22:50:23| fail: NoSuchElementException, cycle 27 | quantity dust is not defined
+2025-03-12 22:51:03| fail: NoSuchElementException, cycle 28 | quantity dust is not defined
+2025-03-12 22:51:43| fail: NoSuchElementException, cycle 29 | quantity dust is not defined
+2025-03-12 22:52:23| fail: NoSuchElementException, cycle 30 | quantity dust is not defined
+2025-03-12 22:53:04| fail: NoSuchElementException, cycle 31 | quantity dust is not defined
+2025-03-12 22:53:44| fail: NoSuchElementException, cycle 32 | quantity dust is not defined
+2025-03-12 22:54:24| fail: NoSuchElementException, cycle 33 | quantity dust is not defined
+2025-03-12 22:55:06| fail: NoSuchElementException, cycle 34 | quantity dust is not defined
+2025-03-12 22:55:46| fail: NoSuchElementException, cycle 35 | quantity dust is not defined
+2025-03-12 22:56:26| fail: NoSuchElementException, cycle 36 | quantity dust is not defined
+2025-03-12 22:57:06| fail: NoSuchElementException, cycle 37 | quantity dust is not defined
+2025-03-12 22:57:46| fail: NoSuchElementException, cycle 38 | quantity dust is not defined
+2025-03-12 22:58:27| fail: NoSuchElementException, cycle 39 | quantity dust is not defined
+2025-03-12 22:59:07| fail: NoSuchElementException, cycle 40 | quantity dust is not defined
+2025-03-12 22:59:47| fail: NoSuchElementException, cycle 41 | quantity dust is not defined
+2025-03-12 23:00:27| fail: NoSuchElementException, cycle 42 | quantity dust is not defined
+2025-03-12 23:01:07| fail: NoSuchElementException, cycle 43 | quantity dust is not defined
+2025-03-12 23:01:47| fail: NoSuchElementException, cycle 44 | quantity dust is not defined
+2025-03-12 23:02:27| fail: NoSuchElementException, cycle 45 | quantity dust is not defined
+2025-03-12 23:03:07| fail: NoSuchElementException, cycle 46 | quantity dust is not defined
+2025-03-12 23:03:47| fail: NoSuchElementException, cycle 47 | quantity dust is not defined
+2025-03-12 23:04:27| fail: NoSuchElementException, cycle 48 | quantity dust is not defined
+2025-03-12 23:05:08| fail: NoSuchElementException, cycle 49 | quantity dust is not defined
+2025-03-12 23:06:59| dust storage was full, successful collected on 100% | quantity dust is 671,430 
+2025-03-12 23:11:35| waiting: 2695 sec. | successful collected, cycle 50 on 9% | quantity dust is 696,340 
+2025-03-12 23:25:22| VERSE IS STARTED | quantity dust is not defined
+2025-03-12 23:26:02| waiting: 00:00 | successful collected, cycle 1 on 24% | quantity dust is 766,250 
+2025-03-13 00:17:07| waiting: 50:27 | successful collected, cycle 2 on 85% | quantity dust is 1,003,499 
+2025-03-13 00:32:47| VERSE IS STARTED | quantity dust is not defined
+2025-03-13 00:33:28| waiting 0min:0sec | successful collected, cycle 1 on 27% | quantity dust is 1,082,517 
+2025-03-13 00:37:29| VERSE IS STARTED | quantity dust is not defined
+2025-03-13 00:38:06| waiting 0:0 | successful collected, cycle 1 on 8% | quantity dust is 1,105,015 
+2025-03-13 00:42:08| VERSE IS STARTED | quantity dust is not defined
+2025-03-13 00:42:46| waiting 00:00 | successful collected, cycle 1 on 8% | quantity dust is 1,127,599 
+2025-03-13 00:54:17| VERSE IS STARTED | quantity dust is not defined
+2025-03-13 00:54:54| waiting 00:00 | successful collected, cycle 1 on 20% | quantity dust is 1,186,206 
+2025-03-13 01:17:26| VERSE IS STARTED | quantity dust is not defined
+2025-03-13 01:18:10| waiting 00:00 | successful collected, cycle 1 on 39% | quantity dust is 1,298,773 
+2025-03-13 02:15:50| waiting 57:03 | successful collected, cycle 2 on 96% | quantity dust is 1,577,812 
+2025-03-13 03:09:54| waiting 53:26 | successful collected, cycle 3 on 90% | quantity dust is 1,839,237 
+2025-03-13 04:07:46| waiting 57:08 | successful collected, cycle 4 on 96% | quantity dust is 2,119,178 
+2025-03-13 04:36:25| VERSE IS STARTED | quantity dust is not defined
+2025-03-13 04:37:16| waiting 00:00 | successful collected, cycle 1 on 19% | quantity dust is 57,022 
+2025-03-13 05:27:12| waiting 49:15 | successful collected, cycle 2 on 83% | quantity dust is 299,228 
+2025-03-13 06:15:08| waiting 47:18 | successful collected, cycle 3 on 80% | quantity dust is 531,636 
+2025-03-13 07:03:34| waiting 47:49 | successful collected, cycle 4 on 81% | quantity dust is 766,702 
+2025-03-13 07:49:54| waiting 45:42 | successful collected, cycle 5 on 77% | quantity dust is 991,390 
+2025-03-13 08:44:21| waiting 53:51 | successful collected, cycle 6 on 91% | quantity dust is 1,255,422 
+2025-03-13 09:33:23| waiting 48:26 | successful collected, cycle 7 on 82% | quantity dust is 1,493,162 
+2025-03-13 10:31:01| waiting 57:01 | successful collected, cycle 8 on 96% | quantity dust is 1,772,591 
+2025-03-13 11:26:52| waiting 55:14 | successful collected, cycle 9 on 93% | quantity dust is 2,043,267 
+2025-03-13 12:21:27| waiting 53:55 | successful collected, cycle 10 on 91% | quantity dust is 2,307,840 
+2025-03-13 13:13:52| waiting 51:40 | successful collected, cycle 11 on 7% | quantity dust is 49,341 
+2025-03-13 14:07:52| waiting 53:21 | successful collected, cycle 12 on 90% | quantity dust is 311,960 
+2025-03-13 14:55:05| waiting 46:37 | successful collected, cycle 13 on 79% | quantity dust is 541,560 
+2025-03-13 15:52:51| waiting 57:10 | successful collected, cycle 14 on 96% | quantity dust is 822,454 
+2025-03-13 16:38:46| waiting 45:15 | successful collected, cycle 15 on 77% | quantity dust is 1,035,709 
+2025-03-13 17:32:34| waiting 53:08 | successful collected, cycle 16 on 90% | quantity dust is 1,297,271 
+2025-03-13 18:28:08| waiting 54:56 | successful collected, cycle 17 on 65% | quantity dust is 192,562 
+2025-03-13 19:24:21| waiting 55:33 | successful collected, cycle 18 on 94% | quantity dust is 466,318 
+2025-03-13 20:12:44| waiting 47:43 | successful collected, cycle 19 on 81% | quantity dust is 701,923 
+2025-03-13 21:06:51| waiting 53:31 | successful collected, cycle 20 on 90% | quantity dust is 965,403 
+2025-03-13 21:56:31| waiting 49:03 | successful collected, cycle 21 on 83% | quantity dust is 1,207,213 
+2025-03-13 22:53:45| waiting 56:37 | successful collected, cycle 22 on 95% | quantity dust is 1,485,919 
+2025-03-13 23:42:56| waiting 48:34 | successful collected, cycle 23 on 82% | quantity dust is 1,725,232 
+2025-03-14 00:33:07| waiting 49:34 | successful collected, cycle 24 on 84% | quantity dust is 1,969,485 
+2025-03-14 01:27:43| waiting 54:00 | successful collected, cycle 25 on 91% | quantity dust is 2,235,295 
+2025-03-14 02:17:15| waiting 48:56 | successful collected, cycle 26 on 30% | quantity dust is 109,278 
+2025-03-14 03:13:51| waiting 55:56 | successful collected, cycle 27 on 59% | quantity dust is 357,977 
+2025-03-14 04:13:23| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 04:14:16| waiting 00:00 | successful collected, cycle 1 on 12% | quantity dust is 233,862 
+2025-03-14 04:26:32| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 04:27:11| waiting 00:00 | successful collected, cycle 1 on 22% | quantity dust is 293,186 
+2025-03-14 04:37:39| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 04:38:19| waiting 00:00 | successful collected, cycle 1 on 19% | quantity dust is 344,066 
+2025-03-14 04:59:41| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 05:00:19| waiting 00:00 | successful collected, cycle 1 on 37% | quantity dust is 444,591 
+2025-03-14 05:07:09| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 05:07:51| waiting 00:00 | successful collected, cycle 1 on 13% | quantity dust is 478,940 
+2025-03-14 05:22:46| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 05:23:27| waiting 00:00 | successful collected, cycle 1 on 26% | quantity dust is 550,214 
+2025-03-14 05:34:39| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 05:35:18| waiting 00:00 | successful collected, cycle 1 on 20% | quantity dust is 604,354 
+2025-03-14 06:29:09| waiting 53:15 | successful collected, cycle 2 on 90% | quantity dust is 850,374 
+2025-03-14 07:17:17| waiting 47:33 | successful collected, cycle 3 on 80% | quantity dust is 1,070,345 
+2025-03-14 08:07:29| waiting 49:35 | successful collected, cycle 4 on 84% | quantity dust is 1,299,682 
+2025-03-14 09:00:40| waiting 52:34 | successful collected, cycle 5 on 89% | quantity dust is 1,542,629 
+2025-03-14 09:51:51| waiting 50:34 | successful collected, cycle 6 on 85% | quantity dust is 1,776,358 
+2025-03-14 10:47:58| waiting 55:32 | successful collected, cycle 7 on 94% | quantity dust is 2,032,686 
+2025-03-14 11:39:30| waiting 50:52 | successful collected, cycle 8 on 86% | quantity dust is 2,267,847 
+2025-03-14 12:33:11| waiting 52:59 | successful collected, cycle 9 on 90% | quantity dust is 2,513,329 
+2025-03-14 13:28:29| waiting 54:39 | successful collected, cycle 10 on 92% | quantity dust is 2,765,898 
+2025-03-14 14:47:50| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 14:48:43| waiting 00:00 | successful collected, cycle 1 on 74% | quantity dust is 189,540 
+2025-03-14 15:41:14| fail: NoSuchElementException, cycle 2 | quantity dust is not defined
+2025-03-14 15:42:18| waiting 51:52 | successful collected, cycle 3 on 89% | quantity dust is 407,062 
+2025-03-14 16:31:05| waiting 48:04 | successful collected, cycle 4 on 81% | quantity dust is 614,081 
+2025-03-14 17:26:56| waiting 55:14 | successful collected, cycle 5 on 93% | quantity dust is 851,230 
+2025-03-14 18:13:00| waiting 45:24 | successful collected, cycle 6 on 77% | quantity dust is 1,036,711 
+2025-03-14 19:07:22| waiting 53:42 | successful collected, cycle 7 on 91% | quantity dust is 1,267,493 
+2025-03-14 20:05:12| waiting 57:11 | successful collected, cycle 8 on 88% | quantity dust is 225,445 
+2025-03-14 20:54:05| waiting 48:08 | successful collected, cycle 9 on 81% | quantity dust is 423,290 
+2025-03-14 21:02:02| VERSE IS STARTED | quantity dust is not defined
+2025-03-14 21:02:37| fail: NoSuchElementException, cycle 1 | quantity dust is not defined
+2025-03-14 21:03:49| waiting 00:00 | successful collected, cycle 2 on 16% | quantity dust is 464,685 

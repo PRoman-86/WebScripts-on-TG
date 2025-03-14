@@ -51,7 +51,7 @@ public class Verse {
                 setDefaultQuantityDustLine();
                 appendLineToLog(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
                 if (this.driver != null) this.driver = null;
-                waitOnSec(30);
+                waitOnSec(randomRangeOnSec(25, 35));
             }
         }
 
@@ -63,16 +63,16 @@ public class Verse {
     private void script() throws NoSuchElementException, ElementClickInterceptedException {
         this.driver = new ChromeDriver(getChromeOptions());
         this.driver.get("https://web.telegram.org/a/");
-        waitOnSec(7);
+        waitOnSec(randomRangeOnSec(6, 10));
         this.driver.findElement(By.xpath("(//div[@class='ripple-container'])[3]")).click();
-        waitOnSec(7);
+        waitOnSec(randomRangeOnSec(6, 10));
         this.driver.findElement(By.cssSelector("button[title='Open bot command keyboard']")).click();
-        waitOnSec(10);
+        waitOnSec(randomRangeOnSec(9, 12));
         this.driver.switchTo().frame(this.driver.findElement(By.className("OmY14FFl"))); //focus on bot frame
 
         if (elementIsExist(FULL_DUST_BUTTON)) {
             this.driver.findElement(FULL_DUST_BUTTON).click();
-            waitOnSec(3);
+            waitOnSec(randomRangeOnSec(3, 6));
             fetchQuantityDust();
             this.driver.findElement(By.xpath("//a[@class='ui-link blur close']")).click(); //closing stat. window
             appendLineToLog(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
@@ -81,15 +81,15 @@ public class Verse {
 
         String percent = getTextOfElement(DUST_PERCENT_VALUE_ON_BUTTON);
         this.driver.findElement(COLLECT_DUST_BUTTON).click();
-        waitOnSec(2);
+        waitOnSec(randomRangeOnSec(3, 6));
         if (!getTextOfElement(DUST_PERCENT_VALUE_ON_BUTTON).equals("0%")) this.driver.findElement(COLLECT_DUST_BUTTON).click(); //repeat click
         this.counter++;
-        waitOnSec(3);
+        waitOnSec(randomRangeOnSec(3, 6));
         fetchQuantityDust();
         appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
                 + " | successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
         this.driver.quit();
-        this.waitingTimeSec = randomRangeOnSec(2700, 3500);
+        this.waitingTimeSec = randomRangeOnSec(2500, 3500);
         waitOnSec(this.waitingTimeSec);
     }
 
@@ -138,7 +138,7 @@ public class Verse {
         setDefaultQuantityDustLine();
         soundPlayback();
         appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
-        waitOnSec(30);
+        waitOnSec(randomRangeOnSec(25, 35));
     }
 
     private void appendLineToLog(String logLine) {
