@@ -4,7 +4,9 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import javax.sound.sampled.*;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -54,6 +56,7 @@ public class Verse {
         }
 
         this.driver.quit();
+        soundPlayback();
         appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
     }
 
@@ -133,6 +136,7 @@ public class Verse {
         this.driver.quit();
         this.counter++;
         setDefaultQuantityDustLine();
+        soundPlayback();
         appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
         waitOnSec(30);
     }
@@ -143,7 +147,8 @@ public class Verse {
                 writer.write(logLine.substring(5, logLine.length() - 4) + this.quantityDustLine);
                 writer.newLine();
         } catch (IOException e) {
-            System.out.println(ANSI_RED + " IO Exception: LogFile Write Error" + ANSI_RESET);
+            soundPlayback();
+            System.out.println(ANSI_RED + "IO Exception: LogFile Write Error" + ANSI_RESET);
         }
     }
 
@@ -158,6 +163,17 @@ public class Verse {
             }
         } else {
             setDefaultQuantityDustLine();
+        }
+    }
+
+    public void soundPlayback() {
+        try {
+            AudioInputStream audioStream = AudioSystem.getAudioInputStream(new File("C:/Workspace/WebScripts/alarm.wav"));
+            Clip clip = AudioSystem.getClip();
+            clip.open(audioStream);
+            clip.start();
+        } catch (UnsupportedAudioFileException | IOException | LineUnavailableException e) {
+            appendLineToLog(ANSI_RED + "IO Exception: Audio File Read/Play Error" + ANSI_RESET);
         }
     }
 }
