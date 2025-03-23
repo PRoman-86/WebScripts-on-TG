@@ -58,6 +58,7 @@ public class Verse {
         this.driver.quit();
         soundPlayback();
         appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STOPPED |" + ANSI_RESET);
+        System.exit(0);
     }
 
     private void script() throws NoSuchElementException, ElementClickInterceptedException {
