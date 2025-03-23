@@ -17,6 +17,7 @@ public class Verse {
 
     private ChromeDriver driver;
     private int counter;
+    private final int numberOfCycles;
     private long waitingTimeSec = 0;
     private String quantityDustLine = " quantity dust is not defined";
     private static final By COLLECT_DUST_BUTTON = By.className("progress-bar-container");
@@ -39,6 +40,7 @@ public class Verse {
     }
 
     Verse(int numberOfCycles) {
+        this.numberOfCycles = numberOfCycles;
         appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STARTED |" + ANSI_RESET);
         while (numberOfCycles != this.counter) {
             try {
@@ -88,7 +90,8 @@ public class Verse {
         waitOnSec(randomRangeOnSec(3, 6));
         fetchQuantityDust();
         appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
-                + " | successful collected, cycle " + this.counter + " on " + percent + " |" + ANSI_RESET);
+                + " | successful collected, cycle " + String.format("%03d", this.counter) + " of " + this.numberOfCycles
+                + " on " + percent + " |" + ANSI_RESET);
         this.driver.quit();
         this.waitingTimeSec = randomRangeOnSec(2500, 3500);
         waitOnSec(this.waitingTimeSec);
