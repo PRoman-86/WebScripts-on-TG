@@ -141,7 +141,8 @@ public class Verse {
         this.counter++;
         setDefaultQuantityDustLine();
         soundPlayback();
-        appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " + this.counter + " |" + ANSI_RESET);
+        appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " +
+                String.format("%03d", this.counter) + " of " + this.numberOfCycles + " |" + ANSI_RESET);
         waitOnSec(randomRangeOnSec(25, 35));
     }
 
