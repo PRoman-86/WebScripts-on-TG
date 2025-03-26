@@ -52,6 +52,7 @@ public class Verse {
             } catch (SessionNotCreatedException e) {
                 setDefaultQuantityDustLine();
                 appendLineToLog(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
+                soundPlayback();
                 if (this.driver != null) this.driver = null;
                 waitOnSec(randomRangeOnSec(25, 35));
             }
