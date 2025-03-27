@@ -5,21 +5,25 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import javax.sound.sampled.*;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
+import java.util.Properties;
 
 public class Verse {
 
     private ChromeDriver driver;
     private int counter;
-    private final int numberOfCycles;
+    private int quantityOfCycles;
     private long waitingTimeSec = 0;
     private String quantityDustLine = " quantity dust is not defined";
+    private String pathChromeExe;
+    private String pathChromeUserDataDir;
+    private String nameChromeProfileDirectory;
+    private String pathVerseLogFileTxt;
+    private String pathAlarmWav;
+    private boolean IsSilentMode = false;
     private static final By COLLECT_DUST_BUTTON = By.className("progress-bar-container");
     private static final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
     private static final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
@@ -32,17 +36,37 @@ public class Verse {
 
     private ChromeOptions getChromeOptions() {
         ChromeOptions chromeOptions = new ChromeOptions();
-        chromeOptions.setBinary("C:/Program Files/Google/Chrome/Application/chrome.exe")
-                .addArguments("user-data-dir=C:/Users/suvor/AppData/Local/Google/Chrome/User Data")
-                .addArguments("profile-directory=Profile 1");
-        chromeOptions.addArguments("--headless");
+        chromeOptions.setBinary(this.pathChromeExe)
+                .addArguments("user-data-dir=" + this.pathChromeUserDataDir)
+                .addArguments("profile-directory=" + this.nameChromeProfileDirectory);
+        if (this.IsSilentMode) chromeOptions.addArguments("--headless");
         return chromeOptions;
     }
 
-    Verse(int numberOfCycles) {
-        this.numberOfCycles = numberOfCycles;
+    private void fetchConfigLoader() {
+        Properties properties = new Properties();
+        try (InputStream input = Verse.class.getClassLoader().getResourceAsStream("local.PROPERTIES")) {
+            if (input == null) {
+                System.out.println(ANSI_RED + "IO Error: local.PROPERTIES is not found" + ANSI_RESET);
+                System.exit(0);
+            }
+            properties.load(input);
+            this.pathChromeExe = properties.getProperty("path_chrome.exe");
+            this.pathChromeUserDataDir = properties.getProperty("path_chromeUserDataDir");
+            this.nameChromeProfileDirectory = properties.getProperty("name_chromeProfileDirectory");
+            this.pathVerseLogFileTxt = properties.getProperty("path_VerseLogFile.txt");
+            this.pathAlarmWav = properties.getProperty("path_alarm.wav");
+            this.quantityOfCycles = Integer.parseInt(properties.getProperty("int_quantityCycles"));
+            this.IsSilentMode = Boolean.parseBoolean(properties.getProperty("boolean_silentMode"));
+        } catch (IOException e) {
+            System.out.println(ANSI_RED + "IO Exception: fetchConfigLoader()" + ANSI_RESET);
+        }
+    }
+
+    Verse() {
+        fetchConfigLoader();
         appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STARTED |" + ANSI_RESET);
-        while (numberOfCycles != this.counter) {
+        while (this.quantityOfCycles != this.counter) {
             try {
                 script();
             } catch (NoSuchElementException e) {
@@ -91,8 +115,8 @@ public class Verse {
         waitOnSec(randomRangeOnSec(3, 6));
         fetchQuantityDust();
         appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
-                + " | successful collected, cycle " + String.format("%03d", this.counter) + " of " + this.numberOfCycles
-                + " on " + percent + " |" + ANSI_RESET);
+                + "| successful collected, cycle " + String.format("%03d", this.counter) + " of " + this.quantityOfCycles
+                + " on " + percent + " | " + "headless: " + this.IsSilentMode + " |" + ANSI_RESET);
         this.driver.quit();
         this.waitingTimeSec = randomRangeOnSec(2500, 3500);
         waitOnSec(this.waitingTimeSec);
@@ -143,13 +167,13 @@ public class Verse {
         setDefaultQuantityDustLine();
         soundPlayback();
         appendLineToLog(ANSI_RED + getTime() + "| fail: " + typeException + ", cycle " +
-                String.format("%03d", this.counter) + " of " + this.numberOfCycles + " |" + ANSI_RESET);
+                String.format("%03d", this.counter) + " of " + this.quantityOfCycles + " |" + ANSI_RESET);
         waitOnSec(randomRangeOnSec(25, 35));
     }
 
     private void appendLineToLog(String logLine) {
         System.out.println(logLine + this.quantityDustLine);
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("C:/Workspace/WebScripts/src/main/resources/VerseLogFile.txt", true))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(this.pathVerseLogFileTxt, true))) {
                 writer.write(logLine.substring(5, logLine.length() - 4) + this.quantityDustLine);
                 writer.newLine();
         } catch (IOException e) {
@@ -174,7 +198,7 @@ public class Verse {
 
     public void soundPlayback() {
         try {
-            AudioInputStream audioStream = AudioSystem.getAudioInputStream(new File("C:/Workspace/WebScripts/src/main/resources/alarm.wav"));
+            AudioInputStream audioStream = AudioSystem.getAudioInputStream(new File(this.pathAlarmWav));
             Clip clip = AudioSystem.getClip();
             clip.open(audioStream);
             clip.start();
