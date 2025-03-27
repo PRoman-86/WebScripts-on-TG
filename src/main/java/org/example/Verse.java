@@ -149,7 +149,7 @@ public class Verse {
 
     private void appendLineToLog(String logLine) {
         System.out.println(logLine + this.quantityDustLine);
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("VerseLogFile.txt", true))) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("C:/Workspace/WebScripts/src/main/resources/VerseLogFile.txt", true))) {
                 writer.write(logLine.substring(5, logLine.length() - 4) + this.quantityDustLine);
                 writer.newLine();
         } catch (IOException e) {
@@ -174,7 +174,7 @@ public class Verse {
 
     public void soundPlayback() {
         try {
-            AudioInputStream audioStream = AudioSystem.getAudioInputStream(new File("C:/Workspace/WebScripts/alarm.wav"));
+            AudioInputStream audioStream = AudioSystem.getAudioInputStream(new File("C:/Workspace/WebScripts/src/main/resources/alarm.wav"));
             Clip clip = AudioSystem.getClip();
             clip.open(audioStream);
             clip.start();
