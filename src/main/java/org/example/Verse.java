@@ -47,7 +47,7 @@ public class Verse {
         Properties properties = new Properties();
         try (InputStream input = Verse.class.getClassLoader().getResourceAsStream("local.PROPERTIES")) {
             if (input == null) {
-                System.out.println(ANSI_RED + "IO Error: local.PROPERTIES is not found" + ANSI_RESET);
+                System.out.println(ANSI_RED + "Error: local.PROPERTIES is not found" + ANSI_RESET);
                 System.exit(0);
             }
             properties.load(input);
@@ -59,27 +59,31 @@ public class Verse {
             this.quantityOfCycles = Integer.parseInt(properties.getProperty("int_quantityCycles"));
             this.IsSilentMode = Boolean.parseBoolean(properties.getProperty("boolean_silentMode"));
         } catch (IOException e) {
-            System.out.println(ANSI_RED + "IO Exception: fetchConfigLoader()" + ANSI_RESET);
+            System.out.println(ANSI_RED +
+                    "Error: InputStream input in fetchConfigLoader() has been a problem with initialization" + ANSI_RESET);
+            System.exit(0);
         }
     }
 
     Verse() {
         fetchConfigLoader();
-        appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STARTED |" + ANSI_RESET);
+        appendLineToLog(ANSI_YELLOW + getTime() + "| VERSE IS STARTING... |" + ANSI_RESET);
         while (this.quantityOfCycles != this.counter) {
             try {
+                this.driver = new ChromeDriver(getChromeOptions());
                 script();
             } catch (NoSuchElementException e) {
+                this.driver.quit();
                 handlingException("NoSuchElementException");
-            } catch (ElementClickInterceptedException e) {
-                handlingException("ElementClickInterceptedException");
+                continue;
             } catch (SessionNotCreatedException e) {
-                setDefaultQuantityDustLine();
-                appendLineToLog(ANSI_RED + getTime() + "| OTHER INSTANCE OF BROWSER CHROME IS OPEN! |" + ANSI_RESET);
-                soundPlayback();
-                if (this.driver != null) this.driver = null;
-                waitOnSec(randomRangeOnSec(25, 35));
+                handlingException("WebDriverSessionNotCreatedException");
+                continue;
             }
+
+            this.driver.quit();
+            this.waitingTimeSec = randomRangeOnSec(2500, 3500);
+            waitOnSec(this.waitingTimeSec);
         }
 
         this.driver.quit();
@@ -88,8 +92,7 @@ public class Verse {
         System.exit(0);
     }
 
-    private void script() throws NoSuchElementException, ElementClickInterceptedException {
-        this.driver = new ChromeDriver(getChromeOptions());
+    private void script() throws NoSuchElementException {
         this.driver.get("https://web.telegram.org/a/");
         waitOnSec(randomRangeOnSec(6, 10));
         this.driver.findElement(By.xpath("(//div[@class='ripple-container'])[3]")).click();
@@ -117,9 +120,6 @@ public class Verse {
         appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
                 + "| successful collected, cycle " + String.format("%03d", this.counter) + " of " + this.quantityOfCycles
                 + " on " + percent + " | " + "headless: " + this.IsSilentMode + " |" + ANSI_RESET);
-        this.driver.quit();
-        this.waitingTimeSec = randomRangeOnSec(2500, 3500);
-        waitOnSec(this.waitingTimeSec);
     }
 
     public static void waitOnSec(long sec) {
@@ -162,7 +162,6 @@ public class Verse {
     private void setDefaultQuantityDustLine() { this.quantityDustLine = " quantity dust is not defined"; }
 
     public void handlingException(String typeException) {
-        this.driver.quit();
         this.counter++;
         setDefaultQuantityDustLine();
         soundPlayback();
@@ -178,7 +177,7 @@ public class Verse {
                 writer.newLine();
         } catch (IOException e) {
             soundPlayback();
-            System.out.println(ANSI_RED + "IO Exception: LogFile Write Error" + ANSI_RESET);
+            System.out.println(ANSI_RED + "Error: FileWriter has been a problem with initialization" + ANSI_RESET);
         }
     }
 
@@ -203,7 +202,7 @@ public class Verse {
             clip.open(audioStream);
             clip.start();
         } catch (UnsupportedAudioFileException | IOException | LineUnavailableException e) {
-            appendLineToLog(ANSI_RED + "IO Exception: Audio File Read/Play Error" + ANSI_RESET);
+            appendLineToLog(ANSI_RED + "Error: Playing or reading the wav-file has been failed" + ANSI_RESET);
         }
     }
 }
