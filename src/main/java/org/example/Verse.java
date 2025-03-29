@@ -40,6 +40,7 @@ public class Verse {
                 .addArguments("user-data-dir=" + this.pathChromeUserDataDir)
                 .addArguments("profile-directory=" + this.nameChromeProfileDirectory);
         if (this.IsSilentMode) chromeOptions.addArguments("--headless");
+        if (!this.IsSilentMode) chromeOptions.addArguments("--start-fullscreen");
         return chromeOptions;
     }
 
