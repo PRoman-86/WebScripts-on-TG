@@ -18,6 +18,7 @@ public class Verse {
     private int quantityOfCycles;
     private long waitingTimeSec = 0;
     private String quantityDustLine = " quantity dust is not defined";
+    private String currentRating = "NA";
     private String pathChromeExe;
     private String pathChromeUserDataDir;
     private String nameChromeProfileDirectory;
@@ -28,6 +29,7 @@ public class Verse {
     private static final By FULL_DUST_BUTTON = By.xpath("//span[contains(text(),'Собрать пыль')]");
     private static final By UFO_FACE_BUTTON = By.xpath("//div[@id='ui-top-right']//a[@class='ui-link blur']//*[name()='svg']");
     private static final By QUANTITY_DUST_LINE = By.xpath("(//label[@class='details link'])[2]");
+    private static final By RATING_LINE = By.xpath("(//button[@class='ui-button'])[1]");
     private static final By DUST_PERCENT_VALUE_ON_BUTTON = By.className("ml-16px");
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_RED = "\u001B[31m";
@@ -105,7 +107,7 @@ public class Verse {
         if (elementIsExist(FULL_DUST_BUTTON)) {
             this.driver.findElement(FULL_DUST_BUTTON).click();
             waitOnSec(randomRangeOnSec(3, 6));
-            fetchQuantityDust();
+            fetchRatingQuantityDust();
             this.driver.findElement(By.xpath("//a[@class='ui-link blur close']")).click(); //closing stat. window
             appendLineToLog(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
             waitOnSec(randomRangeOnSec(120, 280));
@@ -117,10 +119,10 @@ public class Verse {
         if (!getTextOfElement(DUST_PERCENT_VALUE_ON_BUTTON).equals("0%")) this.driver.findElement(COLLECT_DUST_BUTTON).click(); //repeat click
         this.counter++;
         waitOnSec(randomRangeOnSec(3, 6));
-        fetchQuantityDust();
+        fetchRatingQuantityDust();
         appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
-                + "| successful collected, cycle " + String.format("%03d", this.counter) + " of " + this.quantityOfCycles
-                + " on " + percent + " | " + "headless: " + this.IsSilentMode + " |" + ANSI_RESET);
+                + "| collected, cycle " + String.format("%03d", this.counter) + " of " + this.quantityOfCycles
+                + " on " + percent + "| " + "rating: " + this.currentRating + "| " + "silent: " + this.IsSilentMode + "|" + ANSI_RESET);
     }
 
     public static void waitOnSec(long sec) {
@@ -182,18 +184,21 @@ public class Verse {
         }
     }
 
-    private void fetchQuantityDust() {
+    private void fetchRatingQuantityDust() {
         if (elementIsExist(UFO_FACE_BUTTON)) {
             this.driver.findElement(UFO_FACE_BUTTON).click();
+            if (elementIsExist(RATING_LINE)) {
+                this.currentRating = getTextOfElement(RATING_LINE); //get rating
+            } else this.currentRating = "NA";
+
             if (elementIsExist(QUANTITY_DUST_LINE)) {
                 String getCurrentQuantityDustLine = getTextOfElement(QUANTITY_DUST_LINE);
-                this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
-            } else {
-                setDefaultQuantityDustLine();
-            }
-        } else {
-            setDefaultQuantityDustLine();
-        }
+
+                if (!getCurrentQuantityDustLine.equals("NA")) {
+                    this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
+                } else setDefaultQuantityDustLine();
+            } else setDefaultQuantityDustLine();
+        } else setDefaultQuantityDustLine();
     }
 
     public void soundPlayback() {

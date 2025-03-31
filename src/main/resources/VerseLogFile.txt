@@ -2117,3 +2117,167 @@
 2025-03-27 14:15:04| waiting 42:56 | successful collected, cycle 032 of 500 on 73% | quantity dust is 498,966 
 2025-03-27 15:23:49| VERSE IS STARTED | quantity dust is not defined
 2025-03-27 15:24:35| waiting 00:00 | successful collected, cycle 001 of 500 on 52% | quantity dust is 896,411 
+2025-03-27 15:36:23| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 15:37:18| waiting 00:00 | successful collected, cycle 001 of 500 on 21% | quantity dust is 969,047 
+2025-03-27 15:45:24| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 15:45:27| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-27 15:46:01| OTHER INSTANCE OF BROWSER CHROME IS OPEN! | quantity dust is not defined
+2025-03-27 15:46:40| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 15:47:26| waiting 00:00 | successful collected, cycle 001 of 500 on 17% | quantity dust is 1,027,099 
+2025-03-27 17:44:18| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 17:45:01| waiting 00:00 | successful collected, cycle 001 of 500 on 98% | quantity dust is 535,016 
+2025-03-27 21:41:20| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 21:42:07| waiting 00:00 | successful collected, cycle 001 of 499 on 9% | quantity dust is 361,895 
+2025-03-27 21:46:43| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 21:47:25| waiting 00:00 | successful collected, cycle 001 of 500 on 9% | quantity dust is 387,526 
+2025-03-27 21:55:32| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 21:56:21| waiting 00:00 | successful collected, cycle 001 of 500 on 15% | headless: true | quantity dust is 430,226 
+2025-03-27 22:00:16| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 22:01:00| waiting 00:00| successful collected, cycle 001 of 500 on 8% | headless: true | quantity dust is 452,570 
+2025-03-27 22:24:43| VERSE IS STARTED | quantity dust is not defined
+2025-03-27 22:25:38| waiting 00:00| successful collected, cycle 001 of 500 on 41% | headless: true | quantity dust is 570,953 
+2025-03-27 23:19:04| waiting 52:40| successful collected, cycle 002 of 500 on 89% | headless: true | quantity dust is 827,785 
+2025-03-28 00:08:49| waiting 48:40| successful collected, cycle 003 of 500 on 83% | headless: true | quantity dust is 1,066,684 
+2025-03-28 00:32:31| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 00:32:47| fail: NoSuchElementException, cycle 001 of 500 | quantity dust is not defined
+2025-03-28 00:33:41| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 00:53:54| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 00:54:35| waiting 00:00| successful collected, cycle 001 of 500 on 76% | headless: true | quantity dust is 1,286,929 
+2025-03-28 01:02:31| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 01:06:08| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 01:06:11| WebDriver Exception: SESSION IS NOT CREATED | quantity dust is not defined
+2025-03-28 01:15:43| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 01:15:46| WebDriver Exception: SESSION IS NOT CREATED | quantity dust is not defined
+2025-03-28 01:16:17| WebDriver Exception: SESSION IS NOT CREATED | quantity dust is not defined
+2025-03-28 01:17:30| waiting 00:00| successful collected, cycle 001 of 500 on 38% | headless: true | quantity dust is 1,396,893 
+2025-03-28 01:34:18| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 01:34:33| fail: NoSuchElementException, cycle 001 of 500 | quantity dust is not defined
+2025-03-28 01:35:14| fail: NoSuchElementException, cycle 002 of 500 | quantity dust is not defined
+2025-03-28 01:35:55| VERSE IS STARTED | quantity dust is not defined
+2025-03-28 01:35:58| fail: WebDriverSessionNotCreatedException, cycle 001 of 500 | quantity dust is not defined
+2025-03-28 01:37:08| waiting 00:00| successful collected, cycle 002 of 500 on 33% | headless: true | quantity dust is 1,491,230 
+2025-03-28 01:57:41| VERSE IS STARTING... | quantity dust is not defined
+2025-03-28 01:58:59| waiting 00:00| successful collected, cycle 001 of 500 on 36% | headless: true | quantity dust is 1,595,918 
+2025-03-28 02:48:08| waiting 48:19| successful collected, cycle 002 of 500 on 82% | headless: true | quantity dust is 1,832,251 
+2025-03-28 03:25:07| VERSE IS STARTING... | quantity dust is not defined
+2025-03-28 03:26:03| waiting 00:00| successful collected, cycle 001 of 500 on 63% | headless: true | quantity dust is 2,013,400 
+2025-03-28 04:24:48| waiting 57:48| successful collected, cycle 002 of 500 on 98% | headless: true | quantity dust is 287,456 
+2025-03-28 05:20:22| waiting 54:44| successful collected, cycle 003 of 500 on 93% | headless: true | quantity dust is 555,936 
+2025-03-28 06:14:39| waiting 53:36| successful collected, cycle 004 of 500 on 91% | headless: true | quantity dust is 817,508 
+2025-03-28 06:58:58| waiting 43:09| successful collected, cycle 005 of 500 on 73% | headless: true | quantity dust is 1,030,754 
+2025-03-28 07:52:41| waiting 52:56| successful collected, cycle 006 of 500 on 90% | headless: true | quantity dust is 1,289,754 
+2025-03-28 08:38:16| waiting 44:54| successful collected, cycle 007 of 500 on 76% | headless: true | quantity dust is 1,509,243 
+2025-03-28 09:29:09| fail: NoSuchElementException, cycle 008 of 500 | quantity dust is not defined
+2025-03-28 09:30:30| waiting 50:19| successful collected, cycle 009 of 500 on 87% | headless: true | quantity dust is 1,760,873 
+2025-03-28 10:14:15| waiting 42:59| successful collected, cycle 010 of 500 on 73% | headless: true | quantity dust is 1,971,547 
+2025-03-28 11:05:12| waiting 50:09| successful collected, cycle 011 of 500 on 85% | headless: true | quantity dust is 2,216,991 
+2025-03-28 11:54:07| waiting 48:11| successful collected, cycle 012 of 500 on 82% | headless: true | quantity dust is 2,452,955 
+2025-03-28 12:38:04| waiting 43:05| successful collected, cycle 013 of 500 on 73% | headless: true | quantity dust is 2,664,438 
+2025-03-28 13:28:46| waiting 49:15| successful collected, cycle 014 of 500 on 84% | headless: true | quantity dust is 2,908,495 
+2025-03-28 14:18:57| waiting 49:23| successful collected, cycle 015 of 500 on 84% | headless: true | quantity dust is 284,894 
+2025-03-28 15:02:42| waiting 42:57| successful collected, cycle 016 of 500 on 73% | headless: true | quantity dust is 496,396 
+2025-03-28 15:49:14| waiting 45:53| successful collected, cycle 017 of 500 on 78% | headless: true | quantity dust is 721,269 
+2025-03-28 16:48:13| waiting 57:59| successful collected, cycle 018 of 500 on 98% | headless: true | quantity dust is 1,006,327 
+2025-03-28 17:11:55| VERSE IS STARTING... | quantity dust is not defined
+2025-03-28 17:12:55| waiting 00:00| successful collected, cycle 001 of 500 on 12% | headless: true | quantity dust is 82,350 
+2025-03-28 17:55:46| waiting 42:05| successful collected, cycle 002 of 500 on 71% | headless: true | quantity dust is 289,560 
+2025-03-28 18:51:05| waiting 54:38| successful collected, cycle 003 of 500 on 92% | headless: true | quantity dust is 557,041 
+2025-03-28 19:39:09| waiting 47:23| successful collected, cycle 004 of 500 on 80% | headless: true | quantity dust is 789,311 
+2025-03-28 20:34:39| waiting 54:51| successful collected, cycle 005 of 500 on 93% | headless: true | quantity dust is 1,057,691 
+2025-03-28 21:22:46| waiting 47:27| successful collected, cycle 006 of 500 on 29% | headless: true | quantity dust is 88,521 
+2025-03-28 22:12:20| waiting 48:51| successful collected, cycle 007 of 500 on 83% | headless: true | quantity dust is 328,392 
+2025-03-28 23:06:35| waiting 53:37| successful collected, cycle 008 of 500 on 90% | headless: true | quantity dust is 591,094 
+2025-03-28 23:58:22| waiting 51:03| successful collected, cycle 009 of 500 on 86% | headless: true | quantity dust is 841,858 
+2025-03-29 00:49:22| waiting 50:24| successful collected, cycle 010 of 500 on 85% | headless: true | quantity dust is 1,088,758 
+2025-03-29 01:40:16| waiting 50:06| successful collected, cycle 011 of 500 on 85% | headless: true | quantity dust is 1,334,613 
+2025-03-29 02:35:34| waiting 54:34| successful collected, cycle 012 of 500 on 92% | headless: true | quantity dust is 1,602,805 
+2025-03-29 03:29:13| waiting 52:54| successful collected, cycle 013 of 500 on 24% | headless: true | quantity dust is 72,309 
+2025-03-29 03:33:28| VERSE IS STARTING... | quantity dust is not defined
+2025-03-29 03:34:11| waiting 00:00| successful collected, cycle 001 of 500 on 8% | headless: false | quantity dust is 97,193 
+2025-03-29 03:41:54| VERSE IS STARTING... | quantity dust is not defined
+2025-03-29 03:42:39| waiting 00:00| successful collected, cycle 001 of 500 on 14% | headless: false | quantity dust is 139,648 
+2025-03-29 03:56:06| VERSE IS STARTING... | quantity dust is not defined
+2025-03-29 03:56:46| waiting 00:00| successful collected, cycle 001 of 500 on 24% | headless: false | quantity dust is 212,062 
+2025-03-29 04:04:03| VERSE IS STARTING... | quantity dust is not defined
+2025-03-29 04:04:45| waiting 00:00| successful collected, cycle 001 of 500 on 13% | headless: false | quantity dust is 253,379 
+2025-03-29 05:01:08| waiting 55:39| successful collected, cycle 002 of 500 on 94% | headless: false | quantity dust is 548,661 
+2025-03-29 05:53:32| waiting 51:47| successful collected, cycle 003 of 500 on 87% | headless: false | quantity dust is 822,832 
+2025-03-29 06:51:12| waiting 56:56| successful collected, cycle 004 of 500 on 96% | headless: false | quantity dust is 1,124,533 
+2025-03-29 07:42:39| waiting 50:50| successful collected, cycle 005 of 500 on 86% | headless: false | quantity dust is 1,393,978 
+2025-03-29 08:27:06| waiting 43:47| successful collected, cycle 006 of 500 on 74% | headless: false | quantity dust is 1,626,428 
+2025-03-29 09:20:57| waiting 53:15| successful collected, cycle 007 of 500 on 90% | headless: false | quantity dust is 1,908,417 
+2025-03-29 10:08:32| waiting 46:55| successful collected, cycle 008 of 500 on 79% | headless: false | quantity dust is 2,157,149 
+2025-03-29 11:04:52| waiting 55:40| successful collected, cycle 009 of 500 on 94% | headless: false | quantity dust is 2,451,932 
+2025-03-29 11:53:09| waiting 47:32| successful collected, cycle 010 of 500 on 80% | headless: false | quantity dust is 2,704,669 
+2025-03-29 12:40:28| waiting 46:41| successful collected, cycle 011 of 500 on 79% | headless: false | quantity dust is 2,952,344 
+2025-03-29 13:22:33| fail: WebDriverSessionNotCreatedException, cycle 012 of 500 | quantity dust is not defined
+2025-03-29 13:23:03| fail: WebDriverSessionNotCreatedException, cycle 013 of 500 | quantity dust is not defined
+2025-03-29 13:24:10| waiting 41:57| successful collected, cycle 014 of 500 on 3% | headless: false | quantity dust is 284,057 
+2025-03-29 14:11:25| waiting 46:39| successful collected, cycle 015 of 500 on 79% | headless: false | quantity dust is 531,988 
+2025-03-29 14:55:05| waiting 43:05| successful collected, cycle 016 of 500 on 73% | headless: false | quantity dust is 761,364 
+2025-03-29 15:53:55| waiting 58:08| successful collected, cycle 017 of 500 on 40% | headless: false | quantity dust is 129,501 
+2025-03-29 16:41:23| waiting 46:47| successful collected, cycle 018 of 500 on 79% | headless: false | quantity dust is 378,838 
+2025-03-29 17:39:34| waiting 57:30| successful collected, cycle 019 of 500 on 97% | headless: false | quantity dust is 684,204 
+2025-03-29 18:27:28| waiting 47:12| successful collected, cycle 020 of 500 on 70% | headless: false | quantity dust is 353,879 
+2025-03-29 19:19:40| waiting 51:33| successful collected, cycle 021 of 500 on 87% | headless: false | quantity dust is 627,871 
+2025-03-29 20:17:38| waiting 57:17| successful collected, cycle 022 of 500 on 97% | headless: false | quantity dust is 932,327 
+2025-03-29 21:13:04| waiting 54:43| successful collected, cycle 023 of 500 on 92% | headless: false | quantity dust is 1,223,381 
+2025-03-29 22:04:30| waiting 50:48| successful collected, cycle 024 of 500 on 86% | headless: false | quantity dust is 1,493,409 
+2025-03-29 22:54:03| waiting 48:54| successful collected, cycle 025 of 500 on 83% | headless: false | quantity dust is 1,753,725 
+2025-03-29 23:40:50| waiting 46:07| successful collected, cycle 026 of 500 on 78% | headless: false | quantity dust is 1,999,601 
+2025-03-30 00:35:22| waiting 53:51| successful collected, cycle 027 of 500 on 91% | headless: false | quantity dust is 2,285,895 
+2025-03-30 01:30:58| waiting 54:55| successful collected, cycle 028 of 500 on 93% | headless: false | quantity dust is 2,577,790 
+2025-03-30 02:23:43| waiting 52:04| successful collected, cycle 029 of 500 on 88% | headless: false | quantity dust is 2,854,709 
+2025-03-30 04:07:59| waiting 43:33| successful collected, cycle 030 of 500 on 42% | headless: false | quantity dust is 177,987 
+2025-03-30 05:01:58| waiting 53:19| successful collected, cycle 031 of 500 on 90% | headless: false | quantity dust is 462,361 
+2025-03-30 05:50:25| waiting 47:48| successful collected, cycle 032 of 500 on 81% | headless: false | quantity dust is 717,776 
+2025-03-30 06:40:38| waiting 49:31| successful collected, cycle 033 of 500 on 84% | headless: false | quantity dust is 982,383 
+2025-03-30 07:23:44| waiting 42:24| successful collected, cycle 034 of 500 on 72% | headless: false | quantity dust is 1,209,055 
+2025-03-30 08:18:46| waiting 54:18| successful collected, cycle 035 of 500 on 92% | headless: false | quantity dust is 1,498,835 
+2025-03-30 09:05:52| waiting 46:24| successful collected, cycle 036 of 500 on 79% | headless: false | quantity dust is 1,747,174 
+2025-03-30 10:04:21| waiting 57:51| successful collected, cycle 037 of 500 on 97% | headless: false | quantity dust is 2,055,108 
+2025-03-30 10:48:00| waiting 42:55| successful collected, cycle 038 of 500 on 73% | headless: false | quantity dust is 2,284,915 
+2025-03-30 11:45:43| waiting 57:08| successful collected, cycle 039 of 500 on 96% | headless: false | quantity dust is 2,589,070 
+2025-03-30 12:43:35| waiting 57:15| successful collected, cycle 040 of 500 on 96% | headless: false | quantity dust is 2,893,753 
+2025-03-30 13:28:35| waiting 44:20| successful collected, cycle 041 of 500 on 75% | headless: false | quantity dust is 3,130,744 
+2025-03-30 14:24:38| waiting 55:20| successful collected, cycle 042 of 500 on 74% | headless: false | quantity dust is 250,279 
+2025-03-30 15:17:57| waiting 52:40| successful collected, cycle 043 of 500 on 89% | headless: false | quantity dust is 531,906 
+2025-03-30 16:01:14| waiting 42:38| successful collected, cycle 044 of 500 on 72% | headless: false | quantity dust is 760,632 
+2025-03-30 16:52:55| waiting 50:58| successful collected, cycle 045 of 500 on 86% | headless: false | quantity dust is 1,033,434 
+2025-03-30 17:41:43| waiting 48:06| successful collected, cycle 046 of 500 on 81% | headless: false | quantity dust is 1,291,271 
+2025-03-30 18:30:09| waiting 47:46| successful collected, cycle 047 of 500 on 81% | headless: false | quantity dust is 1,546,913 
+2025-03-30 19:20:00| waiting 49:11| successful collected, cycle 048 of 500 on 83% | headless: false | quantity dust is 1,810,471 
+2025-03-30 20:05:27| waiting 44:49| successful collected, cycle 049 of 500 on 76% | headless: false | quantity dust is 2,050,414 
+2025-03-30 20:57:24| waiting 51:15| successful collected, cycle 050 of 500 on 87% | headless: false | quantity dust is 2,324,763 
+2025-03-30 21:49:50| waiting 51:46| successful collected, cycle 051 of 500 on 87% | headless: false | quantity dust is 2,601,764 
+2025-03-30 22:33:45| waiting 43:14| successful collected, cycle 052 of 500 on 73% | headless: false | quantity dust is 2,833,765 
+2025-03-30 23:31:03| waiting 56:39| successful collected, cycle 053 of 500 on 96% | headless: false | quantity dust is 1,413,399 
+2025-03-31 00:16:00| waiting 44:18| successful collected, cycle 054 of 500 on 75% | headless: false | quantity dust is 1,651,031 
+2025-03-31 01:11:22| waiting 54:44| successful collected, cycle 055 of 500 on 92% | headless: false | quantity dust is 1,944,046 
+2025-03-31 02:03:50| waiting 51:45| successful collected, cycle 056 of 500 on 87% | headless: false | quantity dust is 2,221,341 
+2025-03-31 03:02:11| waiting 57:40| successful collected, cycle 057 of 500 on 40% | headless: false | quantity dust is 131,323 
+2025-03-31 03:49:30| waiting 46:33| successful collected, cycle 058 of 500 on 79% | headless: false | quantity dust is 382,139 
+2025-03-31 04:39:40| waiting 49:29| successful collected, cycle 059 of 500 on 84% | headless: false | quantity dust is 648,251 
+2025-03-31 05:24:59| waiting 44:37| successful collected, cycle 060 of 500 on 76% | headless: false | quantity dust is 888,713 
+2025-03-31 06:10:28| waiting 44:50| successful collected, cycle 061 of 500 on 76% | headless: false | quantity dust is 1,129,711 
+2025-03-31 06:58:47| waiting 47:36| successful collected, cycle 062 of 500 on 81% | headless: false | quantity dust is 1,385,907 
+2025-03-31 07:52:30| waiting 52:59| successful collected, cycle 063 of 500 on 89% | headless: false | quantity dust is 1,670,632 
+2025-03-31 08:42:20| waiting 49:05| successful collected, cycle 064 of 500 on 83% | headless: false | quantity dust is 1,934,926 
+2025-03-31 09:25:42| waiting 42:39| successful collected, cycle 065 of 500 on 72% | headless: false | quantity dust is 2,164,857 
+2025-03-31 10:20:28| waiting 54:00| successful collected, cycle 066 of 500 on 91% | headless: false | quantity dust is 2,454,935 
+2025-03-31 11:15:19| waiting 54:11| successful collected, cycle 067 of 500 on 92% | headless: false | quantity dust is 2,746,179 
+2025-03-31 12:13:04| waiting 57:02| successful collected, cycle 068 of 500 on 96% | headless: false | quantity dust is 3,052,331 
+2025-03-31 13:04:18| waiting 50:30| successful collected, cycle 069 of 500 on 85% | headless: false | quantity dust is 3,323,678 
+2025-03-31 13:53:37| waiting 48:38| successful collected, cycle 070 of 500 on 82% | headless: false | quantity dust is 3,585,094 
+2025-03-31 14:13:38| VERSE IS STARTING... | quantity dust is not defined
+2025-03-31 14:14:22| waiting 00:00| successful collected, cycle 001 of 500 on 27% | headless: false | quantity dust is 87,674 
+2025-03-31 14:35:42| VERSE IS STARTING... | quantity dust is not defined
+2025-03-31 14:36:24| waiting 00:00| collected, cycle 001 of 500 on 37% | Rating: 691 | silent: false | quantity dust is 204,693 
+2025-03-31 14:39:03| VERSE IS STARTING... | quantity dust is not defined
+2025-03-31 14:39:43|waiting 00:00|collected, cycle 001 of 500 on 6%| rating: 691| silent: false | quantity dust is 222,331 
+2025-03-31 14:41:41| VERSE IS STARTING... | quantity dust is not defined
+2025-03-31 14:42:25| waiting 00:00| collected, cycle 001 of 500 on 4%| rating: 691| silent: false| quantity dust is 236,333 
+2025-03-31 15:09:49| VERSE IS STARTING... | quantity dust is not defined
+2025-03-31 15:10:36| waiting 00:00| collected, cycle 001 of 500 on 47%| rating: 691| silent: false| quantity dust is 386,234 
+2025-03-31 15:22:56| VERSE IS STARTING... | quantity dust is not defined
+2025-03-31 15:23:33| waiting 00:00| collected, cycle 001 of 500 on 22%| rating: 691| silent: false| quantity dust is 455,410 
