@@ -195,7 +195,7 @@ public class Verse {
                 String getCurrentQuantityDustLine = getTextOfElement(QUANTITY_DUST_LINE);
 
                 if (!getCurrentQuantityDustLine.equals("NA")) {
-                    this.quantityDustLine = " quantity dust is " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
+                    this.quantityDustLine = " dust: " + getCurrentQuantityDustLine.substring(14, getCurrentQuantityDustLine.length() - 16);
                 } else setDefaultQuantityDustLine();
             } else setDefaultQuantityDustLine();
         } else setDefaultQuantityDustLine();

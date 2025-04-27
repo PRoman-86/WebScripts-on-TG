@@ -2896,3 +2896,235 @@
 2025-04-18 23:29:54| fail: NoSuchElementException, cycle 154 of 500 | quantity dust is not defined
 2025-04-18 23:31:08| fail: NoSuchElementException, cycle 155 of 500 | quantity dust is not defined
 2025-04-18 23:32:17| fail: NoSuchElementException, cycle 156 of 500 | quantity dust is not defined
+2025-04-19 15:41:47| VERSE IS STARTING... | quantity dust is not defined
+2025-04-19 15:42:52| waiting 00:00| collected, cycle 001 of 500 on 13%| rating: 592| silent: false| quantity dust is 1,988,241 
+2025-04-19 16:40:42| waiting 57:03| collected, cycle 002 of 500 on 96%| rating: 599| silent: false| quantity dust is 2,338,617 
+2025-04-19 17:38:20| waiting 56:57| collected, cycle 003 of 500 on 96%| rating: 599| silent: false| quantity dust is 2,688,003 
+2025-04-19 18:22:21| waiting 43:16| collected, cycle 004 of 500 on 73%| rating: 599| silent: false| quantity dust is 2,954,712 
+2025-04-19 19:17:33| waiting 54:32| collected, cycle 005 of 500 on 92%| rating: 599| silent: false| quantity dust is 3,289,428 
+2025-04-19 20:07:12| waiting 49:00| collected, cycle 006 of 500 on 83%| rating: 599| silent: false| quantity dust is 3,590,605 
+2025-04-19 20:53:54| waiting 45:58| collected, cycle 007 of 500 on 78%| rating: 599| silent: false| quantity dust is 3,873,664 
+2025-04-19 21:51:36| waiting 56:57| collected, cycle 008 of 500 on 91%| rating: 599| silent: false| quantity dust is 338,721 
+2025-04-19 22:46:57| waiting 54:35| collected, cycle 009 of 500 on 92%| rating: 599| silent: false| quantity dust is 675,180 
+2025-04-19 23:43:35| waiting 55:49| collected, cycle 010 of 500 on 94%| rating: 599| silent: false| quantity dust is 1,019,255 
+2025-04-20 00:40:05| waiting 55:47| collected, cycle 011 of 500 on 94%| rating: 599| silent: false| quantity dust is 1,363,213 
+2025-04-20 01:25:28| waiting 44:37| collected, cycle 012 of 500 on 76%| rating: 599| silent: false| quantity dust is 1,745,816 
+2025-04-20 02:15:01| waiting 48:50| collected, cycle 013 of 500 on 83%| rating: 599| silent: false| quantity dust is 2,163,835 
+2025-04-20 03:02:20| waiting 46:41| collected, cycle 014 of 500 on 79%| rating: 599| silent: false| quantity dust is 2,562,873 
+2025-04-20 03:48:40| waiting 45:40| collected, cycle 015 of 500 on 77%| rating: 599| silent: false| quantity dust is 2,953,609 
+2025-04-20 04:24:51| VERSE IS STARTING... | quantity dust is not defined
+2025-04-20 04:25:43| waiting 00:00| collected, cycle 001 of 500 on 12%| rating: 598| silent: false| quantity dust is 64,950 
+2025-04-20 05:13:27| waiting 46:59| collected, cycle 002 of 500 on 80%| rating: 598| silent: false| quantity dust is 469,033 
+2025-04-20 06:01:26| waiting 47:20| collected, cycle 003 of 500 on 80%| rating: 598| silent: false| quantity dust is 874,379 
+2025-04-20 06:59:45| waiting 57:38| collected, cycle 004 of 500 on 97%| rating: 598| silent: false| quantity dust is 1,367,647 
+2025-04-20 07:53:16| waiting 52:45| collected, cycle 005 of 500 on 89%| rating: 598| silent: false| quantity dust is 1,819,912 
+2025-04-20 08:41:05| waiting 47:11| collected, cycle 006 of 500 on 80%| rating: 598| silent: false| quantity dust is 2,224,835 
+2025-04-20 09:38:38| waiting 56:49| collected, cycle 007 of 500 on 96%| rating: 598| silent: false| quantity dust is 2,711,027 
+2025-04-20 11:57:51| VERSE IS STARTING... | quantity dust is not defined
+2025-04-20 12:00:01| dust storage was full, successful collected on 100% | quantity dust is 3,218,358 
+2025-04-20 14:22:51| VERSE IS STARTING... | quantity dust is not defined
+2025-04-20 14:23:50| dust storage was full, successful collected on 100% | quantity dust is 832,663 
+2025-04-20 14:26:29| waiting 00:00| collected, cycle 001 of 500 on 4%| rating: 598| silent: false| quantity dust is 855,402 
+2025-04-20 15:25:11| waiting 57:27| collected, cycle 002 of 500 on 98%| rating: 598| silent: false| quantity dust is 1,353,052 
+2025-04-20 16:16:25| waiting 50:33| collected, cycle 003 of 500 on 85%| rating: 587| silent: false| quantity dust is 1,787,007 
+2025-04-20 17:14:28| waiting 57:21| collected, cycle 004 of 500 on 97%| rating: 587| silent: false| quantity dust is 2,279,452 
+2025-04-20 18:09:51| waiting 54:45| collected, cycle 005 of 500 on 92%| rating: 587| silent: false| quantity dust is 2,748,695 
+2025-04-20 19:00:59| waiting 50:27| collected, cycle 006 of 500 on 85%| rating: 587| silent: false| quantity dust is 3,182,631 
+2025-04-20 19:54:16| waiting 52:35| collected, cycle 007 of 500 on 89%| rating: 587| silent: false| quantity dust is 3,633,904 
+2025-04-20 20:39:56| waiting 45:00| collected, cycle 008 of 500 on 76%| rating: 587| silent: false| quantity dust is 4,021,438 
+2025-04-20 21:34:58| waiting 54:20| collected, cycle 009 of 500 on 92%| rating: 587| silent: false| quantity dust is 4,487,805 
+2025-04-20 22:28:16| waiting 52:37| collected, cycle 010 of 500 on 89%| rating: 587| silent: false| quantity dust is 4,939,619 
+2025-04-20 23:25:31| waiting 56:34| collected, cycle 011 of 500 on 95%| rating: 587| silent: false| quantity dust is 5,424,944 
+2025-04-21 00:10:50| waiting 44:37| collected, cycle 012 of 500 on 76%| rating: 587| silent: false| quantity dust is 5,809,100 
+2025-04-21 00:55:07| waiting 43:22| collected, cycle 013 of 500 on 4%| rating: 587| silent: false| quantity dust is 26,172 
+2025-04-21 01:53:27| waiting 57:40| collected, cycle 014 of 500 on 97%| rating: 587| silent: false| quantity dust is 523,476 
+2025-04-21 02:38:11| waiting 44:03| collected, cycle 015 of 500 on 75%| rating: 587| silent: false| quantity dust is 904,829 
+2025-04-21 03:26:25| waiting 47:32| collected, cycle 016 of 500 on 80%| rating: 587| silent: false| quantity dust is 1,316,417 
+2025-04-21 04:12:48| waiting 45:39| collected, cycle 017 of 500 on 77%| rating: 587| silent: false| quantity dust is 1,711,523 
+2025-04-21 05:05:50| waiting 52:14| collected, cycle 018 of 500 on 88%| rating: 587| silent: false| quantity dust is 2,163,774 
+2025-04-21 05:56:47| waiting 50:17| collected, cycle 019 of 500 on 85%| rating: 587| silent: false| quantity dust is 2,598,367 
+2025-04-21 06:47:23| waiting 49:50| collected, cycle 020 of 500 on 84%| rating: 587| silent: false| quantity dust is 3,029,832 
+2025-04-21 07:31:25| waiting 43:20| collected, cycle 021 of 500 on 73%| rating: 587| silent: false| quantity dust is 3,405,472 
+2025-04-21 08:18:02| waiting 45:53| collected, cycle 022 of 500 on 78%| rating: 587| silent: false| quantity dust is 3,802,698 
+2025-04-21 09:08:27| waiting 49:41| collected, cycle 023 of 500 on 84%| rating: 587| silent: false| quantity dust is 4,232,611 
+2025-04-21 10:00:55| waiting 51:49| collected, cycle 024 of 500 on 88%| rating: 587| silent: false| quantity dust is 4,680,424 
+2025-04-21 10:52:32| waiting 50:56| collected, cycle 025 of 500 on 86%| rating: 587| silent: false| quantity dust is 5,120,402 
+2025-04-21 11:45:17| waiting 52:01| collected, cycle 026 of 500 on 88%| rating: 587| silent: false| quantity dust is 5,569,736 
+2025-04-21 12:37:21| waiting 51:20| collected, cycle 027 of 500 on 87%| rating: 587| silent: false| quantity dust is 6,014,255 
+2025-04-21 13:31:52| waiting 53:44| collected, cycle 028 of 500 on 91%| rating: 587| silent: false| quantity dust is 6,478,666 
+2025-04-21 14:17:31| waiting 45:01| collected, cycle 029 of 500 on 76%| rating: 587| silent: false| quantity dust is 6,868,432 
+2025-04-21 15:11:18| waiting 53:02| collected, cycle 030 of 500 on 90%| rating: 587| silent: false| quantity dust is 7,326,588 
+2025-04-21 16:07:20| waiting 55:21| collected, cycle 031 of 500 on 20%| rating: 581| silent: false| quantity dust is 114,320 
+2025-04-21 16:57:46| waiting 49:43| collected, cycle 032 of 500 on 84%| rating: 581| silent: false| quantity dust is 546,727 
+2025-04-21 17:50:49| waiting 52:24| collected, cycle 033 of 500 on 89%| rating: 581| silent: false| quantity dust is 1,002,292 
+2025-04-21 18:45:01| waiting 53:29| collected, cycle 034 of 500 on 90%| rating: 581| silent: false| quantity dust is 1,467,167 
+2025-04-21 19:43:45| waiting 58:01| collected, cycle 035 of 500 on 98%| rating: 581| silent: false| quantity dust is 1,970,741 
+2025-04-21 20:26:38| waiting 42:07| collected, cycle 036 of 500 on 71%| rating: 581| silent: false| quantity dust is 2,338,780 
+2025-04-21 21:21:20| waiting 53:59| collected, cycle 037 of 500 on 91%| rating: 581| silent: false| quantity dust is 2,808,472 
+2025-04-21 22:07:56| waiting 45:52| collected, cycle 038 of 500 on 78%| rating: 581| silent: false| quantity dust is 3,207,949 
+2025-04-21 22:57:08| waiting 48:30| collected, cycle 039 of 500 on 82%| rating: 581| silent: false| quantity dust is 3,629,862 
+2025-04-21 23:51:24| waiting 53:26| collected, cycle 040 of 500 on 90%| rating: 581| silent: false| quantity dust is 4,095,364 
+2025-04-22 00:40:21| waiting 48:16| collected, cycle 041 of 500 on 82%| rating: 581| silent: false| quantity dust is 4,515,566 
+2025-04-22 01:32:23| waiting 51:18| collected, cycle 042 of 500 on 87%| rating: 581| silent: false| quantity dust is 4,961,908 
+2025-04-22 02:16:25| waiting 43:21| collected, cycle 043 of 500 on 73%| rating: 581| silent: false| quantity dust is 5,339,483 
+2025-04-22 03:06:54| waiting 49:48| collected, cycle 044 of 500 on 84%| rating: 581| silent: false| quantity dust is 5,772,687 
+2025-04-22 04:04:40| waiting 57:04| collected, cycle 045 of 500 on 63%| rating: 581| silent: false| quantity dust is 334,245 
+2025-04-22 04:56:39| waiting 51:16| collected, cycle 046 of 500 on 87%| rating: 581| silent: false| quantity dust is 781,717 
+2025-04-22 05:40:21| waiting 42:59| collected, cycle 047 of 500 on 73%| rating: 581| silent: false| quantity dust is 1,157,448 
+2025-04-22 06:25:38| waiting 44:33| collected, cycle 048 of 500 on 37%| rating: 581| silent: false| quantity dust is 200,344 
+2025-04-22 07:08:47| waiting 42:21| collected, cycle 049 of 500 on 72%| rating: 581| silent: false| quantity dust is 572,180 
+2025-04-22 07:57:23| waiting 47:53| collected, cycle 050 of 500 on 81%| rating: 581| silent: false| quantity dust is 991,110 
+2025-04-22 08:46:24| waiting 48:20| collected, cycle 051 of 500 on 82%| rating: 581| silent: false| quantity dust is 1,413,446 
+2025-04-22 09:41:38| waiting 54:34| collected, cycle 052 of 500 on 92%| rating: 581| silent: false| quantity dust is 1,889,077 
+2025-04-22 10:40:32| waiting 58:13| collected, cycle 053 of 500 on 98%| rating: 581| silent: false| quantity dust is 2,396,857 
+2025-04-22 11:24:17| fail: WebDriverSessionNotCreatedException, cycle 054 of 500 | quantity dust is not defined
+2025-04-22 11:25:33| waiting 43:39| collected, cycle 055 of 500 on 4%| rating: 581| silent: false| quantity dust is 19,489 
+2025-04-22 12:24:09| waiting 57:54| collected, cycle 056 of 500 on 98%| rating: 581| silent: false| quantity dust is 525,373 
+2025-04-22 13:17:11| waiting 52:17| collected, cycle 057 of 500 on 88%| rating: 581| silent: false| quantity dust is 983,481 
+2025-04-22 14:09:38| waiting 51:44| collected, cycle 058 of 500 on 87%| rating: 581| silent: false| quantity dust is 1,436,244 
+2025-04-22 15:03:34| waiting 53:17| collected, cycle 059 of 500 on 90%| rating: 581| silent: false| quantity dust is 1,902,108 
+2025-04-22 15:58:58| waiting 54:46| collected, cycle 060 of 500 on 92%| rating: 581| silent: false| quantity dust is 2,380,760 
+2025-04-22 16:47:51| waiting 48:12| collected, cycle 061 of 500 on 81%| rating: 581| silent: false| quantity dust is 2,802,677 
+2025-04-22 17:32:48| waiting 44:18| collected, cycle 062 of 500 on 75%| rating: 581| silent: false| quantity dust is 3,190,810 
+2025-04-22 18:25:27| waiting 51:54| collected, cycle 063 of 500 on 88%| rating: 581| silent: false| quantity dust is 3,645,093 
+2025-04-22 19:22:54| waiting 56:40| collected, cycle 064 of 500 on 96%| rating: 581| silent: false| quantity dust is 498,833 
+2025-04-22 20:13:37| waiting 49:59| collected, cycle 065 of 500 on 84%| rating: 581| silent: false| quantity dust is 937,849 
+2025-04-22 21:05:34| waiting 51:20| collected, cycle 066 of 500 on 87%| rating: 581| silent: false| quantity dust is 1,388,134 
+2025-04-22 22:02:47| waiting 56:29| collected, cycle 067 of 500 on 95%| rating: 581| silent: false| quantity dust is 1,883,297 
+2025-04-22 22:46:38| waiting 43:11| collected, cycle 068 of 500 on 73%| rating: 581| silent: false| quantity dust is 2,262,964 
+2025-04-22 23:37:02| waiting 49:44| collected, cycle 069 of 500 on 84%| rating: 581| silent: false| quantity dust is 2,699,668 
+2025-04-23 00:31:31| waiting 53:51| collected, cycle 070 of 500 on 91%| rating: 581| silent: false| quantity dust is 3,171,431 
+2025-04-23 01:15:50| waiting 43:38| collected, cycle 071 of 500 on 63%| rating: 581| silent: false| quantity dust is 349,936 
+2025-04-23 01:59:38| waiting 43:09| collected, cycle 072 of 500 on 73%| rating: 581| silent: false| quantity dust is 729,974 
+2025-04-23 02:58:18| waiting 58:01| collected, cycle 073 of 500 on 98%| rating: 581| silent: false| quantity dust is 1,239,373 
+2025-04-23 03:54:15| waiting 55:15| collected, cycle 074 of 500 on 93%| rating: 581| silent: false| quantity dust is 1,724,704 
+2025-04-23 04:42:13| waiting 47:12| collected, cycle 075 of 500 on 72%| rating: 571| silent: false| quantity dust is 391,447 
+2025-04-23 05:34:41| waiting 51:48| collected, cycle 076 of 500 on 87%| rating: 571| silent: false| quantity dust is 847,343 
+2025-04-23 06:22:04| waiting 46:42| collected, cycle 077 of 500 on 79%| rating: 571| silent: false| quantity dust is 1,258,749 
+2025-04-23 07:19:00| waiting 56:14| collected, cycle 078 of 500 on 95%| rating: 571| silent: false| quantity dust is 1,753,846 
+2025-04-23 08:14:36| waiting 54:55| collected, cycle 079 of 500 on 93%| rating: 571| silent: false| quantity dust is 2,237,099 
+2025-04-23 09:04:48| waiting 49:30| collected, cycle 080 of 500 on 84%| rating: 571| silent: false| quantity dust is 2,672,943 
+2025-04-23 09:51:28| waiting 45:59| collected, cycle 081 of 500 on 78%| rating: 571| silent: false| quantity dust is 3,079,109 
+2025-04-23 10:45:48| waiting 53:39| collected, cycle 082 of 500 on 91%| rating: 571| silent: false| quantity dust is 3,551,336 
+2025-04-23 11:31:01| waiting 44:34| collected, cycle 083 of 500 on 75%| rating: 571| silent: false| quantity dust is 3,944,298 
+2025-04-23 12:22:49| waiting 51:06| collected, cycle 084 of 500 on 86%| rating: 571| silent: false| quantity dust is 4,393,881 
+2025-04-23 13:14:25| waiting 50:53| collected, cycle 085 of 500 on 86%| rating: 571| silent: false| quantity dust is 4,842,727 
+2025-04-23 13:59:43| waiting 44:37| collected, cycle 086 of 500 on 75%| rating: 571| silent: false| quantity dust is 5,236,088 
+2025-04-23 14:51:10| waiting 50:44| collected, cycle 087 of 500 on 86%| rating: 571| silent: false| quantity dust is 5,683,200 
+2025-04-23 15:44:41| waiting 52:50| collected, cycle 088 of 500 on 61%| rating: 571| silent: false| quantity dust is 507,343 
+2025-04-23 16:32:17| waiting 46:54| collected, cycle 089 of 500 on 79%| rating: 566| silent: false| quantity dust is 922,230 
+2025-04-23 17:27:54| waiting 54:50| collected, cycle 090 of 500 on 93%| rating: 566| silent: false| quantity dust is 1,408,125 
+2025-04-23 18:25:39| waiting 56:58| collected, cycle 091 of 500 on 74%| rating: 566| silent: false| quantity dust is 396,312 
+2025-04-23 19:14:20| waiting 48:00| collected, cycle 092 of 500 on 81%| rating: 566| silent: false| quantity dust is 820,978 
+2025-04-23 20:06:49| waiting 51:49| collected, cycle 093 of 500 on 87%| rating: 566| silent: false| quantity dust is 1,279,377 
+2025-04-23 20:55:19| waiting 47:47| collected, cycle 094 of 500 on 81%| rating: 566| silent: false| quantity dust is 1,702,826 
+2025-04-23 21:41:59| waiting 45:56| collected, cycle 095 of 500 on 78%| rating: 566| silent: false| quantity dust is 2,110,134 
+2025-04-23 22:35:29| waiting 52:51| collected, cycle 096 of 500 on 89%| rating: 566| silent: false| quantity dust is 2,577,678 
+2025-04-23 23:17:51| waiting 41:40| collected, cycle 097 of 500 on 71%| rating: 566| silent: false| quantity dust is 2,947,309 
+2025-04-24 00:16:46| waiting 58:16| collected, cycle 098 of 500 on 85%| rating: 566| silent: false| quantity dust is 457,762 
+2025-04-24 01:01:40| waiting 44:07| collected, cycle 099 of 500 on 75%| rating: 566| silent: false| quantity dust is 849,756 
+2025-04-24 01:58:15| waiting 55:57| collected, cycle 100 of 500 on 94%| rating: 566| silent: false| quantity dust is 1,344,314 
+2025-04-24 02:48:22| waiting 49:28| collected, cycle 101 of 500 on 84%| rating: 566| silent: false| quantity dust is 1,782,493 
+2025-04-24 03:37:56| waiting 48:58| collected, cycle 102 of 500 on 83%| rating: 566| silent: false| quantity dust is 2,215,684 
+2025-04-24 04:30:44| waiting 52:00| collected, cycle 103 of 500 on 70%| rating: 568| silent: false| quantity dust is 368,905 
+2025-04-24 05:28:45| waiting 57:19| collected, cycle 104 of 500 on 97%| rating: 568| silent: false| quantity dust is 876,824 
+2025-04-24 06:15:48| waiting 46:20| collected, cycle 105 of 500 on 78%| rating: 568| silent: false| quantity dust is 1,288,447 
+2025-04-24 06:58:22| waiting 41:51| collected, cycle 106 of 500 on 71%| rating: 568| silent: false| quantity dust is 1,661,562 
+2025-04-24 07:53:44| waiting 54:38| collected, cycle 107 of 500 on 92%| rating: 568| silent: false| quantity dust is 2,146,135 
+2025-04-24 08:46:31| waiting 52:06| collected, cycle 108 of 500 on 88%| rating: 568| silent: false| quantity dust is 2,608,533 
+2025-04-24 09:39:19| waiting 52:09| collected, cycle 109 of 500 on 88%| rating: 568| silent: false| quantity dust is 3,070,452 
+2025-04-24 10:27:47| waiting 47:46| collected, cycle 110 of 500 on 81%| rating: 568| silent: false| quantity dust is 3,494,912 
+2025-04-24 11:13:37| waiting 45:07| collected, cycle 111 of 500 on 76%| rating: 568| silent: false| quantity dust is 3,896,151 
+2025-04-24 12:04:42| waiting 50:28| collected, cycle 112 of 500 on 85%| rating: 568| silent: false| quantity dust is 4,343,185 
+2025-04-24 12:48:58| waiting 43:34| collected, cycle 113 of 500 on 74%| rating: 568| silent: false| quantity dust is 4,730,861 
+2025-04-24 13:44:35| waiting 54:51| collected, cycle 114 of 500 on 93%| rating: 568| silent: false| quantity dust is 490,321 
+2025-04-24 14:32:52| waiting 47:35| collected, cycle 115 of 500 on 81%| rating: 568| silent: false| quantity dust is 914,831 
+2025-04-24 15:20:06| waiting 46:26| collected, cycle 116 of 500 on 79%| rating: 568| silent: false| quantity dust is 1,329,529 
+2025-04-24 16:08:57| waiting 48:01| collected, cycle 117 of 500 on 81%| rating: 566| silent: false| quantity dust is 1,758,717 
+2025-04-24 17:06:41| waiting 57:03| collected, cycle 118 of 500 on 96%| rating: 566| silent: false| quantity dust is 2,265,912 
+2025-04-24 17:54:42| waiting 47:20| collected, cycle 119 of 500 on 80%| rating: 566| silent: false| quantity dust is 2,688,181 
+2025-04-24 18:47:57| waiting 52:33| collected, cycle 120 of 500 on 89%| rating: 566| silent: false| quantity dust is 3,155,562 
+2025-04-24 19:38:59| waiting 50:14| collected, cycle 121 of 500 on 85%| rating: 566| silent: false| quantity dust is 3,603,908 
+2025-04-24 20:21:26| waiting 41:47| collected, cycle 122 of 500 on 71%| rating: 566| silent: false| quantity dust is 3,976,981 
+2025-04-24 21:18:21| waiting 56:12| collected, cycle 123 of 500 on 95%| rating: 566| silent: false| quantity dust is 4,476,810 
+2025-04-24 22:13:43| waiting 54:42| collected, cycle 124 of 500 on 92%| rating: 566| silent: false| quantity dust is 4,963,453 
+2025-04-24 23:12:34| waiting 58:09| collected, cycle 125 of 500 on 98%| rating: 566| silent: false| quantity dust is 5,480,550 
+2025-04-24 23:56:35| waiting 43:16| collected, cycle 126 of 500 on 61%| rating: 566| silent: false| quantity dust is 324,493 
+2025-04-25 00:43:14| waiting 45:52| collected, cycle 127 of 500 on 78%| rating: 566| silent: false| quantity dust is 736,020 
+2025-04-25 01:29:37| waiting 45:40| collected, cycle 128 of 500 on 77%| rating: 566| silent: false| quantity dust is 1,145,317 
+2025-04-25 02:16:12| waiting 45:56| collected, cycle 129 of 500 on 78%| rating: 566| silent: false| quantity dust is 1,556,408 
+2025-04-25 03:12:03| waiting 55:15| collected, cycle 130 of 500 on 77%| rating: 566| silent: false| quantity dust is 487,753 
+2025-04-25 04:04:59| waiting 52:18| collected, cycle 131 of 500 on 88%| rating: 560| silent: false| quantity dust is 954,959 
+2025-04-25 04:55:41| waiting 50:02| collected, cycle 132 of 500 on 85%| rating: 560| silent: false| quantity dust is 1,402,870 
+2025-04-25 05:43:12| waiting 46:46| collected, cycle 133 of 500 on 79%| rating: 560| silent: false| quantity dust is 1,822,479 
+2025-04-25 06:35:32| waiting 51:33| collected, cycle 134 of 500 on 87%| rating: 560| silent: false| quantity dust is 2,284,364 
+2025-04-25 07:18:29| waiting 42:09| collected, cycle 135 of 500 on 72%| rating: 560| silent: false| quantity dust is 2,663,639 
+2025-04-25 08:16:34| waiting 57:25| collected, cycle 136 of 500 on 97%| rating: 560| silent: false| quantity dust is 3,176,694 
+2025-04-25 09:11:31| waiting 54:10| collected, cycle 137 of 500 on 92%| rating: 560| silent: false| quantity dust is 3,661,816 
+2025-04-25 10:01:53| waiting 49:40| collected, cycle 138 of 500 on 84%| rating: 560| silent: false| quantity dust is 4,106,717 
+2025-04-25 10:55:31| waiting 52:53| collected, cycle 139 of 500 on 89%| rating: 560| silent: false| quantity dust is 4,580,487 
+2025-04-25 11:47:46| waiting 51:34| collected, cycle 140 of 500 on 87%| rating: 560| silent: false| quantity dust is 5,041,586 
+2025-04-25 12:34:59| waiting 46:25| collected, cycle 141 of 500 on 79%| rating: 560| silent: false| quantity dust is 5,458,653 
+2025-04-25 13:33:19| waiting 57:36| collected, cycle 142 of 500 on 97%| rating: 560| silent: false| quantity dust is 5,973,566 
+2025-04-25 14:29:36| waiting 55:35| collected, cycle 143 of 500 on 74%| rating: 560| silent: false| quantity dust is 515,674 
+2025-04-25 15:14:26| waiting 44:06| collected, cycle 144 of 500 on 75%| rating: 560| silent: false| quantity dust is 912,948 
+2025-04-25 16:06:21| waiting 51:15| collected, cycle 145 of 500 on 86%| rating: 557| silent: false| quantity dust is 1,372,529 
+2025-04-25 16:54:33| waiting 47:30| collected, cycle 146 of 500 on 80%| rating: 557| silent: false| quantity dust is 1,800,097 
+2025-04-25 17:32:05| VERSE IS STARTING... | quantity dust is not defined
+2025-04-25 17:32:52| waiting 00:00| collected, cycle 001 of 500 on 10%| rating: 557| silent: false| dust: 54,272 
+2025-04-25 18:20:51| waiting 47:12| collected, cycle 002 of 500 on 80%| rating: 557| silent: false| dust: 479,520 
+2025-04-25 19:18:36| waiting 57:01| collected, cycle 003 of 500 on 96%| rating: 557| silent: false| dust: 992,460 
+2025-04-25 20:12:58| waiting 53:42| collected, cycle 004 of 500 on 91%| rating: 557| silent: false| dust: 1,475,252 
+2025-04-25 20:57:32| waiting 43:49| collected, cycle 005 of 500 on 74%| rating: 557| silent: false| dust: 1,870,182 
+2025-04-25 21:48:05| waiting 49:51| collected, cycle 006 of 500 on 84%| rating: 557| silent: false| dust: 2,318,938 
+2025-04-25 22:36:21| waiting 47:35| collected, cycle 007 of 500 on 2%| rating: 557| silent: false| dust: 174,057 
+2025-04-25 23:20:59| waiting 43:52| collected, cycle 008 of 500 on 74%| rating: 557| silent: false| dust: 570,749 
+2025-04-26 00:09:09| waiting 47:23| collected, cycle 009 of 500 on 80%| rating: 557| silent: false| dust: 998,696 
+2025-04-26 00:56:10| waiting 46:19| collected, cycle 010 of 500 on 78%| rating: 557| silent: false| dust: 1,417,141 
+2025-04-26 01:45:46| waiting 48:52| collected, cycle 011 of 500 on 34%| rating: 557| silent: false| dust: 185,541 
+2025-04-26 02:31:37| waiting 45:07| collected, cycle 012 of 500 on 76%| rating: 557| silent: false| dust: 593,426 
+2025-04-26 03:23:57| waiting 51:37| collected, cycle 013 of 500 on 87%| rating: 557| silent: false| dust: 1,059,452 
+2025-04-26 04:08:27| waiting 43:50| collected, cycle 014 of 500 on 74%| rating: 555| silent: false| dust: 1,455,738 
+2025-04-26 04:56:38| waiting 47:28| collected, cycle 015 of 500 on 80%| rating: 555| silent: false| dust: 1,884,054 
+2025-04-26 05:49:46| waiting 52:20| collected, cycle 016 of 500 on 89%| rating: 555| silent: false| dust: 2,356,569 
+2025-04-26 06:40:37| waiting 50:06| collected, cycle 017 of 500 on 85%| rating: 555| silent: false| dust: 2,809,484 
+2025-04-26 07:32:39| waiting 51:19| collected, cycle 018 of 500 on 87%| rating: 555| silent: false| dust: 3,272,482 
+2025-04-26 08:19:11| waiting 45:51| collected, cycle 019 of 500 on 78%| rating: 555| silent: false| dust: 3,686,676 
+2025-04-26 09:14:34| waiting 54:38| collected, cycle 020 of 500 on 92%| rating: 555| silent: false| dust: 4,179,182 
+2025-04-26 10:11:56| waiting 56:39| collected, cycle 021 of 500 on 52%| rating: 555| silent: false| dust: 293,158 
+2025-04-26 10:58:48| waiting 46:06| collected, cycle 022 of 500 on 78%| rating: 555| silent: false| dust: 711,371 
+2025-04-26 11:49:02| waiting 49:29| collected, cycle 023 of 500 on 84%| rating: 555| silent: false| dust: 1,159,947 
+2025-04-26 12:45:55| waiting 56:14| collected, cycle 024 of 500 on 95%| rating: 555| silent: false| dust: 1,668,019 
+2025-04-26 13:33:24| waiting 46:49| collected, cycle 025 of 500 on 79%| rating: 555| silent: false| dust: 2,091,566 
+2025-04-26 14:24:12| waiting 50:08| collected, cycle 026 of 500 on 85%| rating: 555| silent: false| dust: 2,545,154 
+2025-04-26 15:20:54| waiting 55:57| collected, cycle 027 of 500 on 70%| rating: 555| silent: false| dust: 741,918 
+2025-04-26 16:17:31| waiting 55:58| collected, cycle 028 of 500 on 94%| rating: 546| silent: false| dust: 1,048,232 
+2025-04-26 17:00:25| waiting 42:13| collected, cycle 029 of 500 on 71%| rating: 546| silent: false| dust: 1,431,437 
+2025-04-26 17:57:45| waiting 56:37| collected, cycle 030 of 500 on 96%| rating: 546| silent: false| dust: 1,944,011 
+2025-04-26 18:52:03| waiting 53:36| collected, cycle 031 of 500 on 91%| rating: 546| silent: false| dust: 2,429,758 
+2025-04-26 19:37:03| waiting 44:18| collected, cycle 032 of 500 on 41%| rating: 546| silent: false| dust: 510,185 
+2025-04-26 20:25:33| waiting 47:46| collected, cycle 033 of 500 on 81%| rating: 546| silent: false| dust: 944,412 
+2025-04-26 21:17:14| waiting 51:00| collected, cycle 034 of 500 on 86%| rating: 546| silent: false| dust: 1,407,157 
+2025-04-26 22:00:30| waiting 42:29| collected, cycle 035 of 500 on 72%| rating: 546| silent: false| dust: 1,794,690 
+2025-04-26 22:49:19| waiting 48:11| collected, cycle 036 of 500 on 81%| rating: 546| silent: false| dust: 2,231,584 
+2025-04-26 23:45:55| waiting 55:54| collected, cycle 037 of 500 on 94%| rating: 546| silent: false| dust: 2,738,625 
+2025-04-27 00:28:38| waiting 42:00| collected, cycle 038 of 500 on 71%| rating: 546| silent: false| dust: 3,120,444 
+2025-04-27 01:12:40| waiting 43:22| collected, cycle 039 of 500 on 73%| rating: 546| silent: false| dust: 410,340 
+2025-04-27 02:10:33| waiting 57:10| collected, cycle 040 of 500 on 96%| rating: 546| silent: false| dust: 929,655 
+2025-04-27 03:04:19| waiting 53:07| collected, cycle 041 of 500 on 90%| rating: 546| silent: false| dust: 1,412,032 
+2025-04-27 04:00:09| fail: NoSuchElementException, cycle 042 of 500 | quantity dust is not defined
+2025-04-27 04:01:22| waiting 55:10| collected, cycle 043 of 500 on 2%| rating: 531| silent: false| dust: 322,369 
+2025-04-27 04:43:48| waiting 41:42| collected, cycle 044 of 500 on 71%| rating: 531| silent: false| dust: 703,172 
+2025-04-27 05:30:27| waiting 45:54| collected, cycle 045 of 500 on 78%| rating: 531| silent: false| dust: 1,122,281 
+2025-04-27 06:14:27| waiting 43:22| collected, cycle 046 of 500 on 73%| rating: 531| silent: false| dust: 1,517,406 
+2025-04-27 06:59:25| waiting 44:14| collected, cycle 047 of 500 on 75%| rating: 531| silent: false| dust: 1,921,201 
+2025-04-27 07:55:43| waiting 55:31| collected, cycle 048 of 500 on 94%| rating: 531| silent: false| dust: 2,426,931 
+2025-04-27 08:38:16| waiting 41:52| collected, cycle 049 of 500 on 71%| rating: 531| silent: false| dust: 2,809,161 
+2025-04-27 09:30:18| waiting 51:19| collected, cycle 050 of 500 on 87%| rating: 531| silent: false| dust: 3,276,244 
+2025-04-27 10:24:00| waiting 53:04| collected, cycle 051 of 500 on 90%| rating: 531| silent: false| dust: 3,758,783 
+2025-04-27 11:13:48| waiting 49:05| collected, cycle 052 of 500 on 83%| rating: 531| silent: false| dust: 4,205,970 
+2025-04-27 11:57:07| waiting 42:40| collected, cycle 053 of 500 on 72%| rating: 531| silent: false| dust: 4,595,071 
+2025-04-27 12:45:48| waiting 47:59| collected, cycle 054 of 500 on 81%| rating: 531| silent: false| dust: 5,031,793 
+2025-04-27 13:40:11| waiting 53:42| collected, cycle 055 of 500 on 91%| rating: 531| silent: false| dust: 5,520,119 
+2025-04-27 14:32:51| waiting 51:55| collected, cycle 056 of 500 on 21%| rating: 531| silent: false| dust: 122,945 
+2025-04-27 15:27:57| waiting 54:19| collected, cycle 057 of 500 on 92%| rating: 531| silent: false| dust: 619,294 
