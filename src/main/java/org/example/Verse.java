@@ -85,7 +85,7 @@ public class Verse {
             }
 
             this.driver.quit();
-            this.waitingTimeSec = randomRangeOnSec(2500, 3500);
+            this.waitingTimeSec = randomRangeOnSec(18000, 21200); //interval of collecting
             waitOnSec(this.waitingTimeSec);
         }
 
@@ -110,7 +110,7 @@ public class Verse {
             fetchRatingQuantityDust();
             this.driver.findElement(By.xpath("//a[@class='ui-link blur close']")).click(); //closing stat. window
             appendLineToLog(ANSI_GREEN + getTime() + "| dust storage was full, successful collected on 100% |" + ANSI_RESET);
-            waitOnSec(randomRangeOnSec(120, 280));
+            waitOnSec(randomRangeOnSec(240, 560));
         }
 
         String percent = getTextOfElement(DUST_PERCENT_VALUE_ON_BUTTON);
@@ -120,7 +120,7 @@ public class Verse {
         this.counter++;
         waitOnSec(randomRangeOnSec(3, 6));
         fetchRatingQuantityDust();
-        appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToMinutesSeconds(this.waitingTimeSec)
+        appendLineToLog(ANSI_GREEN + getTime() + "| waiting " + convertSecondsToHoursMinutesSeconds(this.waitingTimeSec)
                 + "| collected, cycle " + String.format("%03d", this.counter) + " of " + this.quantityOfCycles
                 + " on " + percent + "| " + "rating: " + this.currentRating + "| " + "silent: " + this.IsSilentMode + "|" + ANSI_RESET);
     }
@@ -146,10 +146,12 @@ public class Verse {
         return LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
     }
 
-    public static String convertSecondsToMinutesSeconds(long seconds) {
-        long minutes = seconds / 60;
+    public static String convertSecondsToHoursMinutesSeconds(long seconds) {
+        long hours = seconds / 3600;
+        long minutes = (seconds % 3600) / 60;
         long remainingSeconds = seconds % 60;
-        return String.format("%02d:%02d", minutes, remainingSeconds);
+
+        return String.format("%02d:%02d:%02d", hours, minutes, remainingSeconds);
     }
 
     public String getTextOfElement(By locator) {
